@@ -1,0 +1,215 @@
+#EXTM3U
+#EXTINF:0,Первый HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/pervyj-hd/video.m3u8
+#EXTINF:0,Россия 1 HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/rossija-hd/video.m3u8
+#EXTINF:0,НТВ HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/ntv-hd/video.m3u8
+#EXTINF:0,Рен ТВ HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/ren-tv-hd/video.m3u8
+#EXTINF:0,ТНТ HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/tnt-hd/video.m3u8
+#EXTINF:0,ТНТ4 HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/tnt4-hd/video.m3u8
+#EXTINF:0,СТС HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/ctc-hd/video.m3u8
+#EXTINF:0,ТВ3 HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/tv3-hd/video.m3u8
+#EXTINF:0,Дождь HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/dozhd-hd/video.m3u8
+#EXTINF:0,Пятница HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/piatnica-hd/video.m3u8
+#EXTINF:0,Суббота HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/super-hd/video.m3u8
+#EXTINF:0,RT Док HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/russia-today-doc-hd/video.m3u8
+#EXTINF:0,Первый канал
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/pervyj/video.m3u8
+#EXTINF:0,Первый канал +2
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/pervyj-plus-2/video.m3u8
+#EXTINF:0,Первый канал +4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/pervyj-plus-4/video.m3u8
+#EXTINF:0,Первый канал +6
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/pervyj-plus-7/video.m3u8
+#EXTINF:0,Россия 1
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/rossija1/video.m3u8
+#EXTINF:0,Россия-1 +2
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/rossija1-plus-2/video.m3u8
+#EXTINF:0,Россия-1 +4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/rossija1-plus-4/video.m3u8
+#EXTINF:0,Россия-1 +6
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/rossija1-plus-7/video.m3u8
+#EXTINF:0,НТВ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/ntv/video.m3u8
+#EXTINF:0,НТВ +2
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/ntv-plus-2/video.m3u8
+#EXTINF:0,НТВ +4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/ntv-plus-4/video.m3u8
+#EXTINF:0,НТВ +7
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/ntv-plus-7/video.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/TNT/video.m3u8
+#EXTINF:0,ТНТ +2
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/tnt-plus-2/video.m3u8
+#EXTINF:0,ТНТ +4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/tnt-plus-4/video.m3u8
+#EXTINF:0,ТНТ +6
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/tnt-plus-7/video.m3u8
+#EXTINF:0,ТНТ4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/tnt-4/video.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/tvc/video.m3u8
+#EXTINF:0,Дождь
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/dozhd/video.m3u8
+#EXTINF:0,РЕН ТВ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/ren-tv/video.m3u8
+#EXTINF:0,ТВ3
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/tv-3/video.m3u8
+#EXTINF:0,СТС
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/CTC/video.m3u8
+#EXTINF:0,СТС Love
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/sts-love/video.m3u8
+#EXTINF:0,Домашний
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/domashnij/video.m3u8
+#EXTINF:0,Перец
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/perec/video.m3u8
+#EXTINF:0,Че
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/4e/video.m3u8
+#EXTINF:0,Звезда
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/zvezda/video.m3u8
+#EXTINF:0,RTVi
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/rtvi/video.m3u8
+#EXTINF:0,5 канал
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/5kanal/video.m3u8
+#EXTINF:0,Россия Культура
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/rossija-k/video.m3u8
+#EXTINF:0,Сарафан
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/sarafan/video.m3u8
+#EXTINF:0,Россия 24
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/rossija24/video.m3u8
+#EXTINF:0,EuroNews
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/evronews/video.m3u8
+#EXTINF:0,РБК HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/rbk-hd/video.m3u8
+
+#EXTINF:0,Матч ТВ HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/match-tv-hd/video.m3u8
+#EXTINF:0,Матч! Игра HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/match-igra-hd/video.m3u8
+#EXTINF:0,Матч! Арена HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/match-arena-hd/video.m3u8
+#EXTINF:0,Матч! Страна HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/match-strana-hd/video.m3u8
+#EXTINF:0,Матч! Планета
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/match-planeta/video.m3u8
+#EXTINF:0,Старт HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/start-hd/video.m3u8
+#EXTINF:0,Eurosport 1 HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/eurosport-hd/video.m3u8
+#EXTINF:0,Eurosport 2 HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/eurosport2-hd/video.m3u8
+#EXTINF:0,МАТЧ! Футбол 1 HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/match-futbol1-hd/video.m3u8
+#EXTINF:0,МАТЧ! Футбол 2 HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/match-futbol2-hd/video.m3u8
+#EXTINF:0,МАТЧ! Футбол 3 HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/match-futbol3-hd/video.m3u8
+#EXTINF:0,Матч Премьер HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/nash-futbol-hd/video.m3u8
+#EXTINF:0,Футбольный HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/futbolnyj-hd/video.m3u8
+#EXTINF:0,Спортивный HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/sportivnyj-hd/video.m3u8
+#EXTINF:0,Мир Баскетбола
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/mir-basketbola/video.m3u8
+#EXTINF:0,Viasat Sport HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/viasat-sport-hd/video.m3u8
+#EXTINF:0,Eurosport Gold HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/eurosport-gold-hd/video.m3u8
+#EXTINF:0,Setanta Sports 1 HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/setanta-eurasia/video.m3u8
+#EXTINF:0,Setanta Sports 2 HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/setanta-eurasia-plus/video.m3u8
+#EXTINF:0,Setanta Sports Ukraine HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/setanta-sport-hd-ua/video.m3u8
+#EXTINF:0,Super Tennis HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/super-tennis-hd/video.m3u8
+#EXTINF:0,M-1 Global HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/m1-global-hd/video.m3u8
+#EXTINF:0,UFC HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/ufc-hd/video.m3u8
+#EXTINF:0,Матч! Боец HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/match-boec-hd/video.m3u8
+#EXTINF:0,Бокс ТВ
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/boks-tv/video.m3u8
