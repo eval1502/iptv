@@ -1,0 +1,424 @@
+#EXTM3U
+#EXTINF:0,Первый HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/pervyj-hd/video.m3u8
+#EXTINF:0,Россия 1 HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/rossija-hd/video.m3u8
+#EXTINF:0,НТВ HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/ntv-hd/video.m3u8
+#EXTINF:0,Рен ТВ HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/ren-tv-hd/video.m3u8
+#EXTINF:0,ТНТ HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/tnt-hd/video.m3u8
+#EXTINF:0,ТНТ4 HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/tnt4-hd/video.m3u8
+#EXTINF:0,СТС HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/ctc-hd/video.m3u8
+#EXTINF:0,ТВ3 HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/tv3-hd/video.m3u8
+#EXTINF:0,Дождь HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/dozhd-hd/video.m3u8
+#EXTINF:0,Пятница HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/piatnica-hd/video.m3u8
+#EXTINF:0,Суббота HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/super-hd/video.m3u8
+#EXTINF:0,RT Док HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/russia-today-doc-hd/video.m3u8
+#EXTINF:0,Первый канал
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/pervyj/video.m3u8
+#EXTINF:0,Первый канал +2
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/pervyj-plus-2/video.m3u8
+#EXTINF:0,Первый канал +4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/pervyj-plus-4/video.m3u8
+#EXTINF:0,Первый канал +6
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/pervyj-plus-7/video.m3u8
+#EXTINF:0,Россия 1
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/rossija1/video.m3u8
+#EXTINF:0,Россия-1 +2
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/rossija1-plus-2/video.m3u8
+#EXTINF:0,Россия-1 +4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/rossija1-plus-4/video.m3u8
+#EXTINF:0,Россия-1 +6
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/rossija1-plus-7/video.m3u8
+#EXTINF:0,НТВ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/ntv/video.m3u8
+#EXTINF:0,НТВ +2
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/ntv-plus-2/video.m3u8
+#EXTINF:0,НТВ +4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/ntv-plus-4/video.m3u8
+#EXTINF:0,НТВ +7
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/ntv-plus-7/video.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/TNT/video.m3u8
+#EXTINF:0,ТНТ +2
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/tnt-plus-2/video.m3u8
+#EXTINF:0,ТНТ +4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/tnt-plus-4/video.m3u8
+#EXTINF:0,ТНТ +6
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/tnt-plus-7/video.m3u8
+#EXTINF:0,ТНТ4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/tnt-4/video.m3u8
+#EXTINF:0,РЕН ТВ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/ren-tv/video.m3u8
+#EXTINF:0,ТВ3
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/tv-3/video.m3u8
+#EXTINF:0,СТС
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/CTC/video.m3u8
+#EXTINF:0,СТС Love
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/sts-love/video.m3u8
+#EXTINF:0,Домашний
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/domashnij/video.m3u8
+#EXTINF:0,Перец
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/perec/video.m3u8
+#EXTINF:0,Че
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/4e/video.m3u8
+#EXTINF:0,Звезда
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/zvezda/video.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/tvc/video.m3u8
+#EXTINF:0,5 канал
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/5kanal/video.m3u8
+#EXTINF:0,Россия Культура
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/rossija-k/video.m3u8
+#EXTINF:0,Сарафан
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/sarafan/video.m3u8
+#EXTINF:0,Дождь
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/dozhd/video.m3u8
+#EXTINF:0,RTVi
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/rtvi/video.m3u8
+#EXTINF:0,Россия 24
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/rossija24/video.m3u8
+#EXTINF:0,EuroNews
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/evronews/video.m3u8
+#EXTINF:0,РБК HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/yjbir5r4/rbk-hd/video.m3u8
+#EXTINF:0,МАТЧ! Футбол 1 HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/match-futbol1-hd/video.m3u8
+#EXTINF:0,МАТЧ! Футбол 2 HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/match-futbol2-hd/video.m3u8
+#EXTINF:0,МАТЧ! Футбол 3 HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/match-futbol3-hd/video.m3u8
+#EXTINF:0,Футбольный HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/futbolnyj-hd/video.m3u8
+#EXTINF:0,Футбол HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/futbol-hd/video.m3u8
+#EXTINF:0,Матч Премьер HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/nash-futbol-hd/video.m3u8
+#EXTINF:0,Setanta Sports 1 HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/setanta-eurasia/video.m3u8
+#EXTINF:0,Setanta Sports 2 HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/setanta-eurasia-plus/video.m3u8
+#EXTINF:0,Setanta Sports Ukraine HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/setanta-sport-hd-ua/video.m3u8
+#EXTINF:0,Матч ТВ HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/match-tv-hd/video.m3u8
+#EXTINF:0,Матч! Игра HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/match-igra-hd/video.m3u8
+#EXTINF:0,Матч! Арена HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/match-arena-hd/video.m3u8
+#EXTINF:0,Матч! Страна HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/match-strana-hd/video.m3u8
+#EXTINF:0,Матч! Планета
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/match-planeta/video.m3u8
+#EXTINF:0,Eurosport 1 HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/eurosport-hd/video.m3u8
+#EXTINF:0,Eurosport 2 HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/eurosport2-hd/video.m3u8
+#EXTINF:0,Старт HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/start-hd/video.m3u8
+#EXTINF:0,KHL
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/khl-tv/video.m3u8
+#EXTINF:0,KHL Prime
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/khl-tv-hd/video.m3u8
+#EXTINF:0,Хоккейный HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/hokkejnyj-hd/video.m3u8
+#EXTINF:0,Спортивный HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/sportivnyj-hd/video.m3u8
+#EXTINF:0,Мир Баскетбола
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/mir-basketbola/video.m3u8
+#EXTINF:0,Viasat Sport HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/viasat-sport-hd/video.m3u8
+#EXTINF:0,Super Tennis HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/super-tennis-hd/video.m3u8
+#EXTINF:0,Точка Отрыва
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/tochka-otryva/video.m3u8
+#EXTINF:0,Русский Экстрим HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/russkij-extrim-hd/video.m3u8
+#EXTINF:0,Extreme Sports
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/extreme-sports/video.m3u8
+#EXTINF:0,Конный Мир HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/konnyj-mir-hd/video.m3u8
+#EXTINF:0,Авто Плюс HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/auto-plus-hd/video.m3u8
+#EXTINF:0,Авто 24 HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/avto-24-hd/video.m3u8
+#EXTINF:0,Драйв
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/drive/video.m3u8
+#EXTINF:0,Моторспорт ТВ HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/motorsport-hd/video.m3u8
+#EXTINF:0,Motor Trend HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/motor-trend-hd/video.m3u8
+#EXTINF:0,M-1 Global HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/m1-global-hd/video.m3u8
+#EXTINF:0,UFC HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/ufc-hd/video.m3u8
+#EXTINF:0,Матч! Боец HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/match-boec-hd/video.m3u8
+#EXTINF:0,Бокс ТВ
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/yjbir5r4/boks-tv/video.m3u8
+#EXTINF:0,Ukrlive
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/1nezalegny-ua/video.m3u8
+#EXTINF:0,Ukrlive HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/1nezalegny-hd-ua/video.m3u8
+#EXTINF:0,24 Канал
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/24tv-ua/video.m3u8
+#EXTINF:0,Украина 24 HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/ukraina-24-hd/video.m3u8
+#EXTINF:0,ЧП Info
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/chptv-ua/video.m3u8
+#EXTINF:0,OBOZ TV HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/oboz-ua-hd/video.m3u8
+#EXTINF:0,НТН
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/ntn/video.m3u8
+#EXTINF:0,НТН HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/ntn-ua-hd/video.m3u8
+#EXTINF:0,ТЕТ
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/tet/video.m3u8
+#EXTINF:0,ТЕТ HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/tet-ua-hd/video.m3u8
+#EXTINF:0,Eспресо TV
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/plus-plus/video.m3u8
+#EXTINF:0,Eспресо TV HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/espresso-ua-hd/video.m3u8
+#EXTINF:0,Прямий
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/tonis-ua/video.m3u8
+#EXTINF:0,Прямий HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/tonis-hd-ua/video.m3u8
+#EXTINF:0,Наш
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/kanal-nash/video.m3u8
+#EXTINF:0,Дом
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/dom-ua/video.m3u8
+#EXTINF:0,K1
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/k1-ua/video.m3u8
+#EXTINF:0,К1 HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/k1-ua-hd/video.m3u8
+#EXTINF:0,K2
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/k2-ua/video.m3u8
+#EXTINF:0,К2 HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/k2-ua-hd/video.m3u8
+#EXTINF:0,Квартал ТВ
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/kvartal-tv-ua/video.m3u8
+#EXTINF:0,5 канал HD UA
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/5kanal-ukraina/video.m3u8
+#EXTINF:0,Enter-фільм
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/enter-film-ua/video.m3u8
+#EXTINF:0,Enter-фильм HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/enter-film-ua-hd/video.m3u8
+#EXTINF:0,Star Cinema HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/star-cinema-ua-hd/video.m3u8
+#EXTINF:0,Star Family HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/star-family-ua-hd/video.m3u8
+#EXTINF:0,Болт HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/bolt-ua-hd/video.m3u8
+#EXTINF:0,ICTV
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/ictv/video.m3u8
+#EXTINF:0,ICTV HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/ictv-ua-hd/video.m3u8
+#EXTINF:0,СТБ
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/stb/video.m3u8
+#EXTINF:0,СТБ HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/stb-ua-hd/video.m3u8
+#EXTINF:0,Перший Національний
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/pervyj-national-ua/video.m3u8
+#EXTINF:0,Перший Національний HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/pervyj-ua-hd/video.m3u8
+#EXTINF:0,Интер
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/inter/video.m3u8
+#EXTINF:0,Интер HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/inter-ua-hd/video.m3u8
+#EXTINF:0,Интер+
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/inter-plus-ua/video.m3u8
+#EXTINF:0,Интер+ HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/inter-plus-ua-hd/video.m3u8
+#EXTINF:0,1+1
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/1-plus-1/video.m3u8
+#EXTINF:0,1+1 HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/1-plus-1-hd/video.m3u8
+#EXTINF:0,2+2
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/2-plus-2-ua/video.m3u8
+#EXTINF:0,2+2 HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/2-plus-2-ua-hd/video.m3u8
+#EXTINF:0,Бигуди
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/bigudi-ua/video.m3u8
+#EXTINF:0,УНІАН
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/unian-tv-ua/video.m3u8
+#EXTINF:0,Уніан HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/unian-hd-ua/video.m3u8
+#EXTINF:0,Новый Канал
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/novij-kanal/video.m3u8
+#EXTINF:0,Новый Канал HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/novyj-kanal-ua-hd/video.m3u8
+#EXTINF:0,Україна
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/trk-ua/video.m3u8
+#EXTINF:0,Україна HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/trk-ua-hd/video.m3u8
+#EXTINF:0,ОЦЕ HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/oce-ua-hd/video.m3u8
+#EXTINF:0,ZOOM
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/zoom-ua/video.m3u8
+#EXTINF:0,ZOOM HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/zoom-ua-hd/video.m3u8
+#EXTINF:0,Мега
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/mega-ua/video.m3u8
+#EXTINF:0,Мега HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/mega-ua-hd/video.m3u8
+#EXTINF:0,НЛО
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/nlo-ua/video.m3u8
+#EXTINF:0,НЛО HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/nlo-ua-hd/video.m3u8
+#EXTINF:0,Индиго
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/indigo-ua/video.m3u8
+#EXTINF:0,Индиго HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/indigo-ua-hd/video.m3u8
+#EXTINF:0,Кус Кус HD
+#EXTGRP:Украина
+http://chopin.af-stream.com:1600/s/yjbir5r4/kus-kus-ua-hd/video.m3u8
