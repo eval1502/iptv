@@ -53,13 +53,13 @@ http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/6051/index.m3u8
 #EXTINF:0,НТВ
 #EXTGRP:Общие
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/501/index.m3u8
-#EXTINF:0,НТВ (+2)
+#EXTINF:0,НТВ +2
 #EXTGRP:Общие
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/713/index.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP:Общие
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/502/index.m3u8
-#EXTINF:0,ТНТ (+2)
+#EXTINF:0,ТНТ +2
 #EXTGRP:Общие
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/717/index.m3u8
 #EXTINF:0,ТНТ +4
@@ -227,6 +227,42 @@ http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/101/index.m3u8
 #EXTINF:0,TV1000 World Kino
 #EXTGRP:Кино
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/1065/index.m3u8
+
+
+#EXTINF:0,BCU RUSERIAL HD
+#EXTGRP:Кино
+http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11046/index.m3u8
+#EXTINF:0,BACKUS TV HD
+#EXTGRP:Кино
+http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11049/index.m3u8
+#EXTINF:0,BEST Films HD
+#EXTGRP:Кино
+http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11050/index.m3u8
+#EXTINF:0,LOST HD
+#EXTGRP:Кино
+http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11053/index.m3u8
+#EXTINF:0,Sky2000 HD
+#EXTGRP:Кино
+http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11054/index.m3u8
+#EXTINF:0,The X-Files
+#EXTGRP:Кино
+http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11055/index.m3u8
+#EXTINF:0,Кинозал! ХИТ HD
+#EXTGRP:Кино
+http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11064/index.m3u8
+#EXTINF:0,Космо HD
+#EXTGRP:Кино
+http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11065/index.m3u8
+#EXTINF:0,СТРАХ HD
+#EXTGRP:Кино
+http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11069/index.m3u8
+#EXTINF:0,ФАНТАСТИКА HD
+#EXTGRP:Кино
+http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11070/index.m3u8
+#EXTINF:0,Юнит HD
+#EXTGRP:Кино
+http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11071/index.m3u8
+
 #EXTINF:0,CineMan
 #EXTGRP:Кино
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11004/index.m3u8
@@ -257,6 +293,7 @@ http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11012/index.m3u8
 #EXTINF:0,CineMan РуКино
 #EXTGRP:Кино
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11013/index.m3u8
+
 #EXTINF:0,BCU Кинозал Premiere 1 HD
 #EXTGRP:Кино
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11015/index.m3u8
@@ -266,27 +303,6 @@ http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11016/index.m3u8
 #EXTINF:0,BCU Кинозал Premiere 3 HD
 #EXTGRP:Кино
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11017/index.m3u8
-#EXTINF:0,BCU Кинозал Premiere 4 HD
-#EXTGRP:Кино
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11018/index.m3u8
-#EXTINF:0,BCU Кинозал Premiere 5 HD
-#EXTGRP:Кино
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11019/index.m3u8
-#EXTINF:0,BCU Кинозал Premiere 6 HD
-#EXTGRP:Кино
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11020/index.m3u8
-#EXTINF:0,BCU Кинозал Premiere 7 HD
-#EXTGRP:Кино
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11021/index.m3u8
-#EXTINF:0,BCU Кинозал Premiere 8 HD
-#EXTGRP:Кино
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11022/index.m3u8
-#EXTINF:0,BCU Кинозал Premiere 9 HD
-#EXTGRP:Кино
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11023/index.m3u8
-#EXTINF:0,BCU Кинозал Premiere 10 HD
-#EXTGRP:Кино
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11024/index.m3u8
 #EXTINF:0,BCU Action HD
 #EXTGRP:Кино
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11027/index.m3u8
@@ -341,39 +357,7 @@ http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11043/index.m3u8
 #EXTINF:0,BCU Stars HD
 #EXTGRP:Кино
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11044/index.m3u8
-#EXTINF:0,BCU RUSERIAL HD
-#EXTGRP:Кино
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11046/index.m3u8
-#EXTINF:0,BACKUS TV HD
-#EXTGRP:Кино
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11049/index.m3u8
-#EXTINF:0,BEST Films HD
-#EXTGRP:Кино
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11050/index.m3u8
-#EXTINF:0,LOST HD
-#EXTGRP:Кино
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11053/index.m3u8
-#EXTINF:0,Sky2000 HD
-#EXTGRP:Кино
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11054/index.m3u8
-#EXTINF:0,The X-Files
-#EXTGRP:Кино
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11055/index.m3u8
-#EXTINF:0,Кинозал! ХИТ HD
-#EXTGRP:Кино
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11064/index.m3u8
-#EXTINF:0,Космо HD
-#EXTGRP:Кино
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11065/index.m3u8
-#EXTINF:0,СТРАХ HD
-#EXTGRP:Кино
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11069/index.m3u8
-#EXTINF:0,ФАНТАСТИКА HD
-#EXTGRP:Кино
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11070/index.m3u8
-#EXTINF:0,Юнит HD
-#EXTGRP:Кино
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11071/index.m3u8
+
 #EXTINF:0,KBC-Comics
 #EXTGRP:Кино
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11073/index.m3u8
@@ -422,9 +406,9 @@ http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11072/index.m3u8
 #EXTINF:0,KBC-Страна СССР
 #EXTGRP:Кино
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/11091/index.m3u8
+
+
 #EXTINF:0,минимакс-007 HD
-
-
 #EXTGRP:Кино 2
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13009/index.m3u8
 #EXTINF:0,минимакс-love HD
@@ -439,9 +423,6 @@ http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13012/index.m3u8
 #EXTINF:0,минимакс-newfilm 3 HD
 #EXTGRP:Кино 2
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13013/index.m3u8
-#EXTINF:0,минимакс-newfilm.ru HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13014/index.m3u8
 #EXTINF:0,минимакс-newfilm.ru HD
 #EXTGRP:Кино 2
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13014/index.m3u8
@@ -625,162 +606,10 @@ http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13091/index.m3u8
 #EXTINF:0,VF Comics
 #EXTGRP:Кино 2
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13092/index.m3u8
-#EXTINF:0,BTV Семейные комедии HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14023/index.m3u8
-#EXTINF:0,BTV Трансформеры HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14033/index.m3u8
-#EXTINF:0,BTV Индиана Джонс HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14086/index.m3u8
-#EXTINF:0,VF Криминал
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13093/index.m3u8
-#EXTINF:0,VF Клиника
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13094/index.m3u8
-#EXTINF:0,BTV Робокоп HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14005/index.m3u8
-#EXTINF:0,BTV Пятница 13-е HD (коллекция)
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14124/index.m3u8
-#EXTINF:0,BTV Человек паук
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14125/index.m3u8
-#EXTINF:0,BTV Пираты карибскго моря HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14038/index.m3u8
-#EXTINF:0,BTV Обитель зла HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14007/index.m3u8
-#EXTINF:0,BTV Мортал Комбат
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14074/index.m3u8
-#EXTINF:0,BTV Гарри Поттер HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14082/index.m3u8
-#EXTINF:0,BTV Криминал ТВ
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14048/index.m3u8
-#EXTINF:0,BTV X-Files HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14049/index.m3u8
-#EXTINF:0,BTV Black Tv HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14085/index.m3u8
-#EXTINF:0,BTV Marvel HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14087/index.m3u8
-#EXTINF:0,BTV Дьявольщина HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14043/index.m3u8
-#EXTINF:0,BTV Mix ужасы
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14075/index.m3u8
-#EXTINF:0,BTV Афганистан Чечня
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14037/index.m3u8
-#EXTINF:0,BTV Сделано в СССР
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14039/index.m3u8
-#EXTINF:0,BTV Игра престолов HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14040/index.m3u8
-#EXTINF:0,BTV Кошмар на улице Вязов (VHS)
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14041/index.m3u8
-#EXTINF:0,BTV Брэд Питт и Анджелина Джоли HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14015/index.m3u8
-#EXTINF:0,BTV Мистер Бин HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14016/index.m3u8
-#EXTINF:0,BTV Жан Рено HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14025/index.m3u8
-#EXTINF:0,BTV Квентин Тарантино
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14030/index.m3u8
-#EXTINF:0,BTV Брюс Виллис HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14034/index.m3u8
-#EXTINF:0,BTV Сильвестр Сталлоне HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14035/index.m3u8
-#EXTINF:0,BTV Стивен Сигал HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14060/index.m3u8
-#EXTINF:0,BTV Арнольд Шварценеггер HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14042/index.m3u8
-#EXTINF:0,BTV Луи де Фюнес HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14061/index.m3u8
-#EXTINF:0,BTV Джеки Чан HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14062/index.m3u8
-#EXTINF:0,BTV Джим Керри HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14094/index.m3u8
-#EXTINF:0,BTV Пьер Ришар и Жерар Депардье HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14107/index.m3u8
-#EXTINF:0,BTV Брюс Ли HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14099/index.m3u8
-#EXTINF:0,BTV Николас Кейдж HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14063/index.m3u8
-#EXTINF:0,BTV Жан-Клод Ван Дамм HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14083/index.m3u8
-#EXTINF:0,BTV Джейсон Стейтем HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14080/index.m3u8
-#EXTINF:0,BTV Вин Дизель HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14065/index.m3u8
-#EXTINF:0,BTV Дензел Вашингтон HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14066/index.m3u8
-#EXTINF:0,BTV Сэмюэл Лерой Джексон HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14044/index.m3u8
-#EXTINF:0,BTV Александр Панкратов-Черный
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14070/index.m3u8
-#EXTINF:0,BTV Военные сериалы HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14079/index.m3u8
-#EXTINF:0,BTV Леонид Гайдай
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14089/index.m3u8
-#EXTINF:0,BTV Эльдар Рязанов
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14090/index.m3u8
-#EXTINF:0,BTV Агент 007
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14092/index.m3u8
-#EXTINF:0,BTV Мылодрама HD (16+)
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14093/index.m3u8
-#EXTINF:0,BTV Паранормальное явление
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14102/index.m3u8
-#EXTINF:0,BTV Чарли Чаплин
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14116/index.m3u8
-#EXTINF:0,BTV Свердловская киностудия
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14117/index.m3u8
-#EXTINF:0,BTV Рижская киностудия
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14118/index.m3u8
-#EXTINF:0,BTV Бесмертный полк
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14064/index.m3u8
+
+
+
+
 #EXTINF:0,Матч! Арена HD
 #EXTGRP:Спорт
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/207/index.m3u8
@@ -950,9 +779,6 @@ http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/920/index.m3u8
 #EXTINF:0,DocuBox HD
 #EXTGRP:Разное
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/968/index.m3u8
-#EXTINF:0,СТС Kids HD
-#EXTGRP:Разное
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/2001/index.m3u8
 #EXTINF:0,Дикая охота HD
 #EXTGRP:Разное
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/2004/index.m3u8
@@ -971,9 +797,6 @@ http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/2033/index.m3u8
 #EXTINF:0,Fashion One HD
 #EXTGRP:Разное
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/2044/index.m3u8
-#EXTINF:0,Fashion TV HD
-#EXTGRP:Разное
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/2045/index.m3u8
 #EXTINF:0,A2 HD
 #EXTGRP:Разное
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/2046/index.m3u8
@@ -1194,9 +1017,6 @@ http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13064/index.m3u8
 #EXTINF:0,Утиные истории HD
 #EXTGRP:Детские
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13060/index.m3u8
-#EXTINF:0,Детский мир
-#EXTGRP:Детские
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/543/index.m3u8
 
 #EXTINF:0,MetArt HD
 #EXTGRP:Взрослые
