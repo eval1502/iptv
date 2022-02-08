@@ -507,6 +507,12 @@ http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13058/index.m3u8
 #EXTINF:0,минимакс-ужастик HD
 #EXTGRP:Кино 2
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13059/index.m3u8
+#EXTINF:0,минимакс-ужасы HD
+#EXTGRP:Кино 2
+http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13099/index.m3u8
+#EXTINF:0,минимакс-ужасы classic HD
+#EXTGRP:Кино 2
+http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14128/index.m3u8
 #EXTINF:0,минимакс-Уэс Крэйвен HD
 #EXTGRP:Кино 2
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13061/index.m3u8
@@ -522,12 +528,6 @@ http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13095/index.m3u8
 #EXTINF:0,минимакс-семейный 1 HD
 #EXTGRP:Кино 2
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13097/index.m3u8
-#EXTINF:0,минимакс-ужасы HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13099/index.m3u8
-#EXTINF:0,минимакс-ужасы classic HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/14128/index.m3u8
 #EXTINF:0,минимакс-ussr-1941-1945 HD
 #EXTGRP:Кино 2
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13018/index.m3u8
@@ -570,12 +570,6 @@ http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13076/index.m3u8
 #EXTINF:0,UZ Боевики HD
 #EXTGRP:Кино 2
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13077/index.m3u8
-#EXTINF:0,UZ 6kadrov media
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13079/index.m3u8
-#EXTINF:0,UZ Vitek tv
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13100/index.m3u8
 #EXTINF:0,UZ-Кинокомфорт HD
 #EXTGRP:Кино 2
 http://c3h5cjkd.russtv.net/iptv/FENHE6HA39P95T/13101/index.m3u8
