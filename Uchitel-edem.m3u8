@@ -14,18 +14,6 @@ http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/237/index.m3u8
 #EXTINF:0,РЕН ТВ HD
 #EXTGRP:Общие
 http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/2024/index.m3u8
-#EXTINF:0,Квартал ТВ
-#EXTGRP:Общие
-http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/932/index.m3u8
-#EXTINF:0,Iнтер HD
-#EXTGRP:Общие
-http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/1042/index.m3u8
-#EXTINF:0,1 + 1 HD
-#EXTGRP:Общие
-http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/6317/index.m3u8
-#EXTINF:0,7 канал (Одесса)
-#EXTGRP:Общие
-http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/1035/index.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP:Общие
 http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/127/index.m3u8
@@ -122,6 +110,19 @@ http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/230/index.m3u8
 #EXTINF:0,Animal Planet HD
 #EXTGRP:Общие
 http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/218/index.m3u8
+#EXTINF:0,Квартал ТВ
+#EXTGRP:Общие
+http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/932/index.m3u8
+#EXTINF:0,Iнтер HD
+#EXTGRP:Общие
+http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/1042/index.m3u8
+#EXTINF:0,1 + 1 HD
+#EXTGRP:Общие
+http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/6317/index.m3u8
+#EXTINF:0,7 канал (Одесса)
+#EXTGRP:Общие
+http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/1035/index.m3u8
+
 #EXTINF:0,Матч! Футбол 1
 #EXTGRP:Спорт
 http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/124/index.m3u8
@@ -381,7 +382,7 @@ http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/13053/index.m3u8
 http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/13097/index.m3u8
 #EXTINF:0,минимакс-семейный 2 HD
 #EXTGRP:Кино 2
-http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/13098/index.m3u8
+http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/13099/index.m3u8
 
 
 #EXTINF:0,TV 1000
@@ -393,6 +394,37 @@ http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/131/index.m3u8
 #EXTINF:0,TV1000 World Kino
 #EXTGRP:Кино
 http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/1065/index.m3u8
+#EXTINF:0,BACKUS TV HD
+#EXTGRP:Кино
+http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11049/index.m3u8
+#EXTINF:0,BEST Films HD
+#EXTGRP:Кино
+http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11050/index.m3u8
+#EXTINF:0,LOST HD
+#EXTGRP:Кино
+http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11053/index.m3u8
+#EXTINF:0,Sky2000 HD
+#EXTGRP:Кино
+http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11054/index.m3u8
+#EXTINF:0,The X-Files
+#EXTGRP:Кино
+http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11055/index.m3u8
+#EXTINF:0,Кинозал! ХИТ HD
+#EXTGRP:Кино
+http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11064/index.m3u8
+#EXTINF:0,Космо HD
+#EXTGRP:Кино
+http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11065/index.m3u8
+#EXTINF:0,СТРАХ HD
+#EXTGRP:Кино
+http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11069/index.m3u8
+#EXTINF:0,ФАНТАСТИКА HD
+#EXTGRP:Кино
+http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11070/index.m3u8
+#EXTINF:0,Юнит HD
+#EXTGRP:Кино
+http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11071/index.m3u8
+
 #EXTINF:0,CineMan
 #EXTGRP:Кино
 http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11004/index.m3u8
@@ -477,36 +509,6 @@ http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11043/index.m3u8
 #EXTINF:0,BCU Stars HD
 #EXTGRP:Кино
 http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11044/index.m3u8
-#EXTINF:0,BACKUS TV HD
-#EXTGRP:Кино
-http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11049/index.m3u8
-#EXTINF:0,BEST Films HD
-#EXTGRP:Кино
-http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11050/index.m3u8
-#EXTINF:0,LOST HD
-#EXTGRP:Кино
-http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11053/index.m3u8
-#EXTINF:0,Sky2000 HD
-#EXTGRP:Кино
-http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11054/index.m3u8
-#EXTINF:0,The X-Files
-#EXTGRP:Кино
-http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11055/index.m3u8
-#EXTINF:0,Кинозал! ХИТ HD
-#EXTGRP:Кино
-http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11064/index.m3u8
-#EXTINF:0,Космо HD
-#EXTGRP:Кино
-http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11065/index.m3u8
-#EXTINF:0,СТРАХ HD
-#EXTGRP:Кино
-http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11069/index.m3u8
-#EXTINF:0,ФАНТАСТИКА HD
-#EXTGRP:Кино
-http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11070/index.m3u8
-#EXTINF:0,Юнит HD
-#EXTGRP:Кино
-http://a1b18661.kazaktelekom.com/iptv/GHSL5C52RBFTTD/11071/index.m3u8
 
 
 #EXTINF:0,KBC-Comics
