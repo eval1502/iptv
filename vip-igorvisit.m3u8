@@ -645,6 +645,9 @@ http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/234/index.m3u8
 #EXTINF:0,Моторспорт ТВ HD
 #EXTGRP:Спорт
 http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/2146/index.m3u8
+#EXTINF:0,XSPORT HD
+#EXTGRP:Спорт
+http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/996/index.m3u8
 
 
 #EXTINF:0,Первый музыкальный
@@ -742,18 +745,12 @@ http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/2043/index.m3u8
 http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/2048/index.m3u8
 
 
-#EXTINF:0,Теледом
-#EXTGRP:Разное
-http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/954/index.m3u8
 #EXTINF:0,Настоящее время
 #EXTGRP:Разное
 http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/986/index.m3u8
 #EXTINF:0,Travel HD
 #EXTGRP:Разное
 http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/1043/index.m3u8
-#EXTINF:0,XSPORT HD
-#EXTGRP:Разное
-http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/996/index.m3u8
 #EXTINF:0,FAST&FUN BOX HD
 #EXTGRP:Разное
 http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/1018/index.m3u8
@@ -850,6 +847,9 @@ http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/2131/index.m3u8
 #EXTINF:0,о2тв HD
 #EXTGRP:Разное
 http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/2141/index.m3u8
+#EXTINF:0,Теледом
+#EXTGRP:Разное
+http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/954/index.m3u8
 
 
 #EXTINF:0,Das Erste HD DE
