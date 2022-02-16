@@ -426,9 +426,6 @@ http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/13014/index.m3u8
 #EXTINF:0,минимакс-UFO HD
 #EXTGRP:Кино 2
 http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/13017/index.m3u8
-#EXTINF:0,минимакс-world hits HD
-#EXTGRP:Кино 2
-http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/13023/index.m3u8
 #EXTINF:0,минимакс-боевик classic HD
 #EXTGRP:Кино 2
 http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/13027/index.m3u8
@@ -653,6 +650,9 @@ http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/996/index.m3u8
 #EXTINF:0,Первый музыкальный
 #EXTGRP:Музыка
 http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/14142/index.m3u8
+#EXTINF:0,минимакс-world hits HD
+#EXTGRP:Музыка
+http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/13023/index.m3u8
 #EXTINF:0,MTV Live HD
 #EXTGRP:Музыка
 http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/221/index.m3u8
