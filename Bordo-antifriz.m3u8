@@ -1,38 +1,4 @@
 #EXTM3U
-#EXTINF:0,Первый HD
-#EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/sja0oeek/pervyj-hd/video.m3u8
-#EXTINF:0,Россия 1 HD
-#EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/sja0oeek/rossija-hd/video.m3u8
-#EXTINF:0,НТВ HD
-#EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/sja0oeek/ntv-hd/video.m3u8
-#EXTINF:0,РЕН ТВ HD
-#EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/sja0oeek/ren-tv-hd/video.m3u8
-#EXTINF:0,ТНТ HD
-#EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/sja0oeek/tnt-hd/video.m3u8
-#EXTINF:0,ТНТ4 HD
-#EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/sja0oeek/tnt4-hd/video.m3u8
-#EXTINF:0,СТС HD
-#EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/sja0oeek/ctc-hd/video.m3u8
-#EXTINF:0,ТВ3 HD
-#EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/sja0oeek/tv3-hd/video.m3u8
-#EXTINF:0,Дождь HD
-#EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/sja0oeek/dozhd-hd/video.m3u8
-#EXTINF:0,Пятница HD
-#EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/sja0oeek/piatnica-hd/video.m3u8
-#EXTINF:0,Суббота HD
-#EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/sja0oeek/super-hd/video.m3u8
-
 #EXTINF:0,Первый канал
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/sja0oeek/pervyj/video.m3u8
@@ -109,6 +75,41 @@ http://chopin.af-stream.com:1600/s/sja0oeek/tnt-plus-4/video.m3u8
 #EXTINF:0,ТНТ +6
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/sja0oeek/tnt-plus-7/video.m3u8
+
+#EXTINF:0,Первый HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/pervyj-hd/video.m3u8
+#EXTINF:0,Россия 1 HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/rossija-hd/video.m3u8
+#EXTINF:0,НТВ HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/ntv-hd/video.m3u8
+#EXTINF:0,РЕН ТВ HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/ren-tv-hd/video.m3u8
+#EXTINF:0,ТНТ HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/tnt-hd/video.m3u8
+#EXTINF:0,ТНТ4 HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/tnt4-hd/video.m3u8
+#EXTINF:0,СТС HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/ctc-hd/video.m3u8
+#EXTINF:0,ТВ3 HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/tv3-hd/video.m3u8
+#EXTINF:0,Дождь HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/dozhd-hd/video.m3u8
+#EXTINF:0,Пятница HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/piatnica-hd/video.m3u8
+#EXTINF:0,Суббота HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/sja0oeek/super-hd/video.m3u8
+
 #EXTINF:0,СТС Love
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/sja0oeek/sts-love/video.m3u8
