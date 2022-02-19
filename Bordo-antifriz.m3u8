@@ -1,6 +1,6 @@
 #EXTM3U
 
-äEXTINF:0,Первый HD
+#EXTINF:0,Первый HD
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/sja0oeek/pervyj-hd/video.m3u8
 #EXTINF:0,Россия 1 HD
