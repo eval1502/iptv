@@ -138,7 +138,18 @@ http://chopin.af-stream.com:1600/s/mpcclrdg/evronews/video.m3u8
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/rbk-hd/video.m3u8
 
-
+#EXTINF:0 group-title="Кино" tvg-id="strashnoe-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/d2fcbd1e3ca1f75ad0838ae1cae2ba51.png" catchup-source="http://chopin.af-stream.com/strashnoe-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Страшное HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/ocrd3cv1/strashnoe-hd/video.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinopokaz-hd1" tvg-logo="https://af-play.com/storage/images/channel_logos/kinopokaz-hd1.png" catchup-source="http://chopin.af-stream.com/kinopokaz-hd1/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Шокирующее HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/ocrd3cv1/kinopokaz-hd1/video.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinouzhas-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/kinouzhas-hd.png" catchup-source="http://chopin.af-stream.com/kinouzhas-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Киноужас HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/ocrd3cv1/kinouzhas-hd/video.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="hct" tvg-logo="https://af-play.com/storage/images/channel_logos/hct.png" catchup-source="http://chopin.af-stream.com/hct/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,НСТ
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/ocrd3cv1/hct/video.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kinopremiera-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/kinopremiera-hd.png" catchup-source="http://chopin.af-stream.com/kinopremiera-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Кинопремьера HD
 #EXTGRP:Кино
 http://chopin.af-stream.com:1600/s/ocrd3cv1/kinopremiera-hd/video.m3u8
@@ -244,18 +255,6 @@ http://chopin.af-stream.com:1600/s/ocrd3cv1/nashe-muzshkoe-hd/video.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="trash-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/fb47c1b5a115804cf2b81c400159aca1.png" catchup-source="http://chopin.af-stream.com/trash-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Trash HD
 #EXTGRP:Кино
 http://chopin.af-stream.com:1600/s/ocrd3cv1/trash-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="strashnoe-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/d2fcbd1e3ca1f75ad0838ae1cae2ba51.png" catchup-source="http://chopin.af-stream.com/strashnoe-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Страшное HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/strashnoe-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="kinopokaz-hd1" tvg-logo="https://af-play.com/storage/images/channel_logos/kinopokaz-hd1.png" catchup-source="http://chopin.af-stream.com/kinopokaz-hd1/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Шокирующее HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/kinopokaz-hd1/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="kinouzhas-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/kinouzhas-hd.png" catchup-source="http://chopin.af-stream.com/kinouzhas-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Киноужас HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/kinouzhas-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="hct" tvg-logo="https://af-play.com/storage/images/channel_logos/hct.png" catchup-source="http://chopin.af-stream.com/hct/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,НСТ
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/hct/video.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="russkaja-comedija" tvg-logo="https://af-play.com/storage/images/channel_logos/russkaja-comedija.png" catchup-source="http://chopin.af-stream.com/russkaja-comedija/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Комедия
 #EXTGRP:Кино
 http://chopin.af-stream.com:1600/s/ocrd3cv1/russkaja-comedija/video.m3u8
