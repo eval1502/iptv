@@ -131,6 +131,7 @@ http://chopin.af-stream.com:1600/s/cwptmbbp/5kanal/video.m3u8
 #EXTINF:0,Россия Культура
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/cwptmbbp/rossija-k/video.m3u8
+#EXTINF:0,Россия 24
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/cwptmbbp/rossija24/video.m3u8
 #EXTINF:0,EuroNews
