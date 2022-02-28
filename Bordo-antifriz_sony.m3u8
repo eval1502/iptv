@@ -119,7 +119,7 @@ http://chopin.af-stream.com:1600/s/cwptmbbp/zvezda/video.m3u8
 #EXTINF:0,RTVi
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/cwptmbbp/rtvi/video.m3u8
-#EXTINF:0,5 канал
+#EXTINF:0,Пятый канал
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/cwptmbbp/5kanal/video.m3u8
 #EXTINF:0,Россия Культура
