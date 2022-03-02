@@ -92,9 +92,6 @@ http://chopin.af-stream.com:1600/s/zptucdui/telekanal-360-hd/video.m3u8
 #EXTINF:0,Ю ТВ
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/zptucdui/yu-tv/video.m3u8
-#EXTINF:0,Теледом HD
-#EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/zptucdui/teledom-hd/video.m3u8
 #EXTINF:0,Время
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/zptucdui/vremya/video.m3u8
