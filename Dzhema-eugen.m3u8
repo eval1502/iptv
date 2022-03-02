@@ -59,9 +59,6 @@ http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/203/index.m3u8
 #EXTINF:0,Nat Geo Wild HD
 #EXTGRP:Общие
 http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/216/index.m3u8
-#EXTINF:0,24 ДОК
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/512/index.m3u8
 #EXTINF:0,Travel Channel HD
 #EXTGRP:Общие
 http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/233/index.m3u8
@@ -77,12 +74,12 @@ http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/218/index.m3u8
 #EXTINF:0,Travel+Adventure HD
 #EXTGRP:Общие
 http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/908/index.m3u8
+#EXTINF:0,24 ДОК
+#EXTGRP:Общие
+http://36dc6994.amazzin.pw/iptv/AW9AW6UNTDE7CN/512/index.m3u8
 
 
 
-#EXTINF:0,Страшное HD
-#EXTGRP:Кино
-http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/7247/index.m3u8
 #EXTINF:0,Кинопоказ HD
 #EXTGRP:Кино
 http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/2439/index.m3u8
@@ -119,6 +116,9 @@ http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/509/index.m3u8
 #EXTINF:0,Киноужас HD
 #EXTGRP:Кино
 http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/2056/index.m3u8
+#EXTINF:0,Страшное HD
+#EXTGRP:Кино
+http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/7247/index.m3u8
 #EXTINF:0,КИНОКОМЕДИЯ
 #EXTGRP:Кино
 http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/7248/index.m3u8
