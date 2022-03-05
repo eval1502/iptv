@@ -1,0 +1,841 @@
+#EXTM3U
+#EXTINF:0,Первый HD
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/204/index.m3u8
+#EXTINF:0,Россия HD
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/205/index.m3u8
+#EXTINF:0,НТВ HD
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/213/index.m3u8
+#EXTINF:0,ТНТ HD
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/237/index.m3u8
+#EXTINF:0,ТНТ4 HD
+#EXTGRP:Общие
+http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/6370/index.m3u8
+#EXTINF:0,РЕН ТВ HD
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2024/index.m3u8
+#EXTINF:0,СТС HD
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6303/index.m3u8
+#EXTINF:0,ТВ3 HD
+#EXTGRP:Общие
+http://c3h5cjkd.russtv.net/iptv/PU29655DL796NW/5033/index.m3u8
+#EXTINF:0,Fashion One HD
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2044/index.m3u8
+#EXTINF:0,Дождь HD
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6308/index.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/520/index.m3u8
+#EXTINF:0,RTVi
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2086/index.m3u8
+#EXTINF:0,Первый канал
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/127/index.m3u8
+#EXTINF:0,Первый канал (+2)
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/714/index.m3u8
+#EXTINF:0,Первый канал +4
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6021/index.m3u8
+#EXTINF:0,Первый канал +6
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6037/index.m3u8
+#EXTINF:0,Первый канал +8
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6050/index.m3u8
+#EXTINF:0,Россия 1
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/504/index.m3u8
+#EXTINF:0,Россия-1 +2
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6011/index.m3u8
+#EXTINF:0,Россия-1 +4
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6022/index.m3u8
+#EXTINF:0,Россия-1 +6
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6038/index.m3u8
+#EXTINF:0,Россия-1 +8
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6051/index.m3u8
+#EXTINF:0,НТВ
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/501/index.m3u8
+#EXTINF:0,НТВ (+2)
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/713/index.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/502/index.m3u8
+#EXTINF:0,ТНТ (+2)
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/717/index.m3u8
+#EXTINF:0,ТНТ +4
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6035/index.m3u8
+#EXTINF:0,ТНТ +6
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6049/index.m3u8
+#EXTINF:0,ТВ3
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/508/index.m3u8
+#EXTINF:0,Россия-24
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/507/index.m3u8
+#EXTINF:0,Совершенно секретно
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/121/index.m3u8
+#EXTINF:0,Россия-Культура
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/505/index.m3u8
+#EXTINF:0,РБК-ТВ
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/106/index.m3u8
+#EXTINF:0,Viasat Nature/History HD
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/203/index.m3u8
+#EXTINF:0,Nat Geo Wild HD
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/216/index.m3u8
+#EXTINF:0,24 ДОК
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/512/index.m3u8
+#EXTINF:0,Travel Channel HD
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/233/index.m3u8
+#EXTINF:0,History HD
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/231/index.m3u8
+#EXTINF:0,Мир HD
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/235/index.m3u8
+#EXTINF:0,National Geographic HD
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/230/index.m3u8
+#EXTINF:0,Animal Planet HD
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/218/index.m3u8
+#EXTINF:0,Travel+Adventure HD
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/908/index.m3u8
+#EXTINF:0,Кинопремьеры HD
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/13014/index.m3u8
+#EXTINF:0,Наш Кинопоказ HD
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2434/index.m3u8
+#EXTINF:0,Дом Кино Премиум HD
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/911/index.m3u8
+#EXTINF:0,Russian Комедия
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/11081/index.m3u8
+#EXTINF:0,Light сериал RU
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/11078/index.m3u8
+#EXTINF:0,CineMan РуКино
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/11013/index.m3u8
+#EXTINF:0,Русский бестселлер
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/905/index.m3u8
+#EXTINF:0,Наш Кинороман HD
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/914/index.m3u8
+#EXTINF:0,Наше Крутое HD
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/915/index.m3u8
+#EXTINF:0,Русский иллюзион HD
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2114/index.m3u8
+#EXTINF:0,Наше любимое HD
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2106/index.m3u8
+#EXTINF:0,НАШЕ НОВОЕ КИНО
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/517/index.m3u8
+#EXTINF:0,КИНОСЕРИЯ
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/9132/index.m3u8
+#EXTINF:0,РОДНОЕ КИНО
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/9127/index.m3u8
+#EXTINF:0,МУЖСКОЕ КИНО
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/164/index.m3u8
+#EXTINF:0,BCU Russian HD
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/11041/index.m3u8
+#EXTINF:0,Русский роман HD
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2076/index.m3u8
+#EXTINF:0,TV1000 Русское кино
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6388/index.m3u8
+#EXTINF:0,BTV Афганистан Чечня
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/14037/index.m3u8
+#EXTINF:0,минимакс-крутые 90-е HD
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/13040/index.m3u8
+#EXTINF:0,минимакс-роскино HD
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/13050/index.m3u8
+#EXTINF:0,минимакс-ussr-комедия HD
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/13019/index.m3u8
+#EXTINF:0,минимакс-ussr-фантастика HD
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/13022/index.m3u8
+#EXTINF:0,минимакс-ussr-детектив HD
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/13096/index.m3u8
+#EXTINF:0,минимакс-роскино HD
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/13150/index.m3u8
+#EXTINF:0,VF Сериал
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/13087/index.m3u8
+#EXTINF:0,BTV Леонид Гайдай
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/14089/index.m3u8
+#EXTINF:0,BTV Эльдар Рязанов
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/14090/index.m3u8
+#EXTINF:0,BTV Сделано в СССР
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/14039/index.m3u8
+#EXTINF:0,BTV Свердловская киностудия
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/14117/index.m3u8
+#EXTINF:0,BTV Рижская киностудия
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/14118/index.m3u8
+#EXTINF:0,BCU RUSERIAL HD
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/11046/index.m3u8
+#EXTINF:0,BCU СССР HD
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/11026/index.m3u8
+#EXTINF:0,KBC-Страна СССР
+#EXTGRP:Кино RU
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/11091/index.m3u8
+#EXTINF:0,KBC-B.O.B
+#EXTGRP:Кино RU
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/index.m3u8
+#EXTINF:0,Остросюжетное HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/904/index.m3u8
+#EXTINF:0,Романтичное HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/5053/index.m3u8
+#EXTINF:0,Комедийное HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/912/index.m3u8
+#EXTINF:0,Камеди HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/2441/index.m3u8
+#EXTINF:0,Хит HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/2438/index.m3u8
+#EXTINF:0,Блокбастер HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/2436/index.m3u8
+#EXTINF:0,КИНОПРЕМЬЕРА HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/224/index.m3u8
+#EXTINF:0,КИНОХИТ
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/516/index.m3u8
+#EXTINF:0,КИНОМИКС
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/509/index.m3u8
+#EXTINF:0,КИНОУЖАС
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/2056/index.m3u8
+#EXTINF:0,КИНОКОМЕДИЯ
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/7248/index.m3u8
+#EXTINF:0,КИНОСВИДАНИЕ
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/9238/index.m3u8
+#EXTINF:0,КИНОСЕМЬЯ
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/125/index.m3u8
+#EXTINF:0,КИНО ТВ HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/2097/index.m3u8
+#EXTINF:0,VIP Premiere
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/202/index.m3u8
+#EXTINF:0,VIP Comedy
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/200/index.m3u8
+#EXTINF:0,VIP Megahit
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/201/index.m3u8
+#EXTINF:0,минимакс-007 HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/13009/index.m3u8
+#EXTINF:0,минимакс-love HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/13010/index.m3u8
+#EXTINF:0,TV 1000
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/132/index.m3u8
+#EXTINF:0,TV1000 Action
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/131/index.m3u8
+#EXTINF:0,TV1000 World Kino
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/1065/index.m3u8
+#EXTINF:0,CineMan
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11004/index.m3u8
+#EXTINF:0,CineMan Top
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11005/index.m3u8
+#EXTINF:0,CineMan Action
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11006/index.m3u8
+#EXTINF:0,CineMan Thriller
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11007/index.m3u8
+#EXTINF:0,CineMan Melodrama
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11008/index.m3u8
+#EXTINF:0,CineMan Marvel
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11009/index.m3u8
+#EXTINF:0,CineMan Ужасы
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11010/index.m3u8
+#EXTINF:0,CineMan Комедия
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11011/index.m3u8
+#EXTINF:0,CineMan VHS
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11012/index.m3u8
+#EXTINF:0,BCU Кинозал Premiere 1 HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11015/index.m3u8
+#EXTINF:0,BCU Кинозал Premiere 2 HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11016/index.m3u8
+#EXTINF:0,BCU Кинозал Premiere 3 HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11017/index.m3u8
+#EXTINF:0,BCU Кинозал Premiere 4 HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11018/index.m3u8
+#EXTINF:0,BCU Кинозал Premiere 5 HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11019/index.m3u8
+#EXTINF:0,BCU Кинозал Premiere 6 HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11020/index.m3u8
+#EXTINF:0,BCU Кинозал Premiere 7 HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11021/index.m3u8
+#EXTINF:0,BCU Кинозал Premiere 8 HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11022/index.m3u8
+#EXTINF:0,BCU Кинозал Premiere 9 HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11023/index.m3u8
+#EXTINF:0,BCU Кинозал Premiere 10 HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11024/index.m3u8
+#EXTINF:0,BCU Action HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11027/index.m3u8
+#EXTINF:0,BCU Criminal HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11048/index.m3u8
+#EXTINF:0,BCU Catastrophe HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11028/index.m3u8
+#EXTINF:0,BCU Cinema HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11029/index.m3u8
+#EXTINF:0,BCU Cinema+ HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11030/index.m3u8
+#EXTINF:0,BCU Comedy HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11031/index.m3u8
+#EXTINF:0,BCU Fantastic HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11032/index.m3u8
+#EXTINF:0,BCU FilMystic HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11033/index.m3u8
+#EXTINF:0,BCU History HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11034/index.m3u8
+#EXTINF:0,BCU Kinorating HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11037/index.m3u8
+#EXTINF:0,BCU Marvel HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11038/index.m3u8
+#EXTINF:0,BCU Premiere HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11039/index.m3u8
+#EXTINF:0,BCU Romantic HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11040/index.m3u8
+#EXTINF:0,BCU VHS HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11042/index.m3u8
+#EXTINF:0,BCUMEDIA HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11043/index.m3u8
+#EXTINF:0,BCU Stars HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11044/index.m3u8
+#EXTINF:0,BACKUS TV HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11049/index.m3u8
+#EXTINF:0,BEST Films HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11050/index.m3u8
+#EXTINF:0,LOST HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11053/index.m3u8
+#EXTINF:0,Sky2000 HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11054/index.m3u8
+#EXTINF:0,The X-Files
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11055/index.m3u8
+#EXTINF:0,Кинозал! ХИТ HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11064/index.m3u8
+#EXTINF:0,Космо HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11065/index.m3u8
+#EXTINF:0,СТРАХ HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11069/index.m3u8
+#EXTINF:0,ФАНТАСТИКА HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11070/index.m3u8
+#EXTINF:0,Юнит HD
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11071/index.m3u8
+#EXTINF:0,KBC-Comics
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11073/index.m3u8
+#EXTINF:0,KBC-Elite comedys
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11074/index.m3u8
+#EXTINF:0,KBC-Family Animation
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11075/index.m3u8
+#EXTINF:0,KBC-Fantastic
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11076/index.m3u8
+#EXTINF:0,KBC-History
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11077/index.m3u8
+#EXTINF:0,KBC-Newfilm
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11079/index.m3u8
+#EXTINF:0,KBC-Premium
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11080/index.m3u8
+#EXTINF:0,KBC-ГАЙ Ritchie & Tarantino
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11085/index.m3u8
+#EXTINF:0,KBC-Драма tic
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11086/index.m3u8
+#EXTINF:0,KBC-Кинотеатр
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11087/index.m3u8
+#EXTINF:0,KBC-Кошмарное
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11088/index.m3u8
+#EXTINF:0,KBC-Шпионское
+#EXTGRP:Кино
+http://3937a675.edemist.com/iptv/MUPTSVP8EQBP8E/11093/index.m3u8
+#EXTINF:0,UFC FIGHT PASS
+#EXTGRP:Спорт
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6554/index.m3u8
+#EXTINF:0,BTV Комбат
+#EXTGRP:Спорт
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/14001/index.m3u8
+#EXTINF:0,Матч! Боец
+#EXTGRP:Спорт
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/150/index.m3u8
+#EXTINF:0,UFC ТВ
+#EXTGRP:Спорт
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2000/index.m3u8
+#EXTINF:0,Матч! Арена HD
+#EXTGRP:Спорт
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/207/index.m3u8
+#EXTINF:0,Матч! HD
+#EXTGRP:Спорт
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/212/index.m3u8
+#EXTINF:0,Матч! Игра HD
+#EXTGRP:Спорт
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/225/index.m3u8
+#EXTINF:0,МАТЧ ПРЕМЬЕР HD
+#EXTGRP:Спорт
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/220/index.m3u8
+#EXTINF:0,Eurosport 1 HD
+#EXTGRP:Спорт
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/228/index.m3u8
+#EXTINF:0,Eurosport 2 North-East HD
+#EXTGRP:Спорт
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/234/index.m3u8
+#EXTINF:0,Eurosport Gold HD
+#EXTGRP:Спорт
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2002/index.m3u8
+#EXTINF:0,Матч! Футбол 1 HD
+#EXTGRP:Спорт
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/222/index.m3u8
+#EXTINF:0,Матч! Футбол 2 HD
+#EXTGRP:Спорт
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/211/index.m3u8
+#EXTINF:0,Матч! Футбол 3 HD
+#EXTGRP:Спорт
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/206/index.m3u8
+#EXTINF:0,Viasat Sport HD
+#EXTGRP:Спорт
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2007/index.m3u8
+#EXTINF:0,Setanta Sports 2
+#EXTGRP:Спорт
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/270/index.m3u8
+#EXTINF:0,Setanta Sports HD
+#EXTGRP:Спорт
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/271/index.m3u8
+#EXTINF:0,Setanta Sports Ukraine HD
+#EXTGRP:Спорт
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/272/index.m3u8
+#EXTINF:0,Моторспорт ТВ HD
+#EXTGRP:Спорт
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2146/index.m3u8
+#EXTINF:0,MTV Live HD
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/221/index.m3u8
+#EXTINF:0,MTV Россия HD
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2130/index.m3u8
+#EXTINF:0,Europa Plus TV
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/115/index.m3u8
+#EXTINF:0,МУЗ-ТВ
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/116/index.m3u8
+#EXTINF:0,BRIDGE TV Русский Хит
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/120/index.m3u8
+#EXTINF:0,Bridge TV
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/122/index.m3u8
+#EXTINF:0,MTV
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/142/index.m3u8
+#EXTINF:0,MTV Hits
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/153/index.m3u8
+#EXTINF:0,Музыка первого
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/155/index.m3u8
+#EXTINF:0,BRIDGE HD
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/236/index.m3u8
+#EXTINF:0,C-Music HD
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2028/index.m3u8
+#EXTINF:0,Mezzo Live HD
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/208/index.m3u8
+#EXTINF:0,VH1 European
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/536/index.m3u8
+#EXTINF:0,MTV Dance
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/558/index.m3u8
+#EXTINF:0,Mezzo
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/707/index.m3u8
+#EXTINF:0,Mezzo Live HD
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/217/index.m3u8
+#EXTINF:0,ТНТ MUSIC
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/710/index.m3u8
+#EXTINF:0,BRIDGE TV DANCE
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/711/index.m3u8
+#EXTINF:0,Наше ТВ
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/721/index.m3u8
+#EXTINF:0,VH1 Classic
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/724/index.m3u8
+#EXTINF:0,Vostok TV
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/1054/index.m3u8
+#EXTINF:0,MTV Rocks
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/1038/index.m3u8
+#EXTINF:0,MCM Top Russia
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/836/index.m3u8
+#EXTINF:0,RU.TV
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/838/index.m3u8
+#EXTINF:0,Шансон ТВ
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/859/index.m3u8
+#EXTINF:0,VIVA TV
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/301/index.m3u8
+#EXTINF:0,Ля-минор ТВ
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2043/index.m3u8
+#EXTINF:0,Russian Music Box
+#EXTGRP:Музыка
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2048/index.m3u8
+#EXTINF:0,Мир HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/235/index.m3u8
+#EXTINF:0,Теледом
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/954/index.m3u8
+#EXTINF:0,Настоящее время
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/986/index.m3u8
+#EXTINF:0,Travel HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/1043/index.m3u8
+#EXTINF:0,XSPORT HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/996/index.m3u8
+#EXTINF:0,FAST&FUN BOX HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/1018/index.m3u8
+#EXTINF:0,Epic Drama
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/1048/index.m3u8
+#EXTINF:0,Эврика HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/908/index.m3u8
+#EXTINF:0,Приключения HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/920/index.m3u8
+#EXTINF:0,DocuBox HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/968/index.m3u8
+#EXTINF:0,СТС Kids HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2001/index.m3u8
+#EXTINF:0,Дикая охота HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2004/index.m3u8
+#EXTINF:0,Дикая рыбалка HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2005/index.m3u8
+#EXTINF:0,DTX HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2006/index.m3u8
+#EXTINF:0,Fine living HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2027/index.m3u8
+#EXTINF:0,H2 HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2033/index.m3u8
+#EXTINF:0,Fashion One HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2044/index.m3u8
+#EXTINF:0,Fashion TV HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2045/index.m3u8
+#EXTINF:0,A2 HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2046/index.m3u8
+#EXTINF:0,Discovery HD Showcase
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2058/index.m3u8
+#EXTINF:0,360° HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2065/index.m3u8
+#EXTINF:0,Живая природа HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2074/index.m3u8
+#EXTINF:0,Russian Extreme HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2077/index.m3u8
+#EXTINF:0,Anyday HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2091/index.m3u8
+#EXTINF:0,Glazella HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2092/index.m3u8
+#EXTINF:0,Mute HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2093/index.m3u8
+#EXTINF:0,Anyday HD 3D
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2094/index.m3u8
+#EXTINF:0,Glazella HD 3D
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2095/index.m3u8
+#EXTINF:0,Mute HD 3D
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2096/index.m3u8
+#EXTINF:0,ID Xtra HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2102/index.m3u8
+#EXTINF:0,Глазами туриста HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2104/index.m3u8
+#EXTINF:0,Мир 24 HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2107/index.m3u8
+#EXTINF:0,БСТ HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2115/index.m3u8
+#EXTINF:0,Загородный int HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2124/index.m3u8
+#EXTINF:0,Кухня ТВ HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2127/index.m3u8
+#EXTINF:0,Точка отрыва HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2128/index.m3u8
+#EXTINF:0,Жара HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2129/index.m3u8
+#EXTINF:0,Дорама HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2131/index.m3u8
+#EXTINF:0,о2тв HD
+#EXTGRP:Разное
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2141/index.m3u8
+#EXTINF:0,ARD HD
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/7233/index.m3u8
+#EXTINF:0,ZDF HD
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6059/index.m3u8
+#EXTINF:0,ProSieben HD
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6057/index.m3u8
+#EXTINF:0,RTL HD
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6062/index.m3u8
+#EXTINF:0,RTL 2 HD
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6065/index.m3u8
+#EXTINF:0,Super RTL HD
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6063/index.m3u8
+#EXTINF:0,Sat.1 HD
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6060/index.m3u8
+#EXTINF:0,Kabel Eins HD
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6067/index.m3u8
+#EXTINF:0,TNT Film HD
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6110/index.m3u8
+#EXTINF:0,TNT Comedy HD
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6111/index.m3u8
+#EXTINF:0,TNT Serie HD
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6090/index.m3u8
+#EXTINF:0,Comedy Central HD
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6081/index.m3u8
+#EXTINF:0,Sky Cinema Action HD
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2482/index.m3u8
+#EXTINF:0,Sky Cinema Comedy HD
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2483/index.m3u8
+#EXTINF:0,Sky Cinema Thriller HD DE
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/7229/index.m3u8
+#EXTINF:0,Sky Krimi HD DE
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2491/index.m3u8
+#EXTINF:0,Sky Cinema Family HD DE
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2489/index.m3u8
+#EXTINF:0,Sky Cinema HD DE
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2484/index.m3u8
+#EXTINF:0,Disney Cinemagic HD DE
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2485/index.m3u8
+#EXTINF:0,Sky Hits HD DE
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2486/index.m3u8
+#EXTINF:0,Sky Atlantic HD DE
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2488/index.m3u8
+#EXTINF:0,Sky Cinema Comic-Helden HD DE
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2493/index.m3u8
+#EXTINF:0,Sky Arts HD DE
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2494/index.m3u8
+#EXTINF:0,Universal TV HD DE
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6094/index.m3u8
+#EXTINF:0,Syfy
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6092/index.m3u8
+#EXTINF:0,Spiegel Geschichte HD DE
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6091/index.m3u8
+#EXTINF:0,Deutsche Welle
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/1021/index.m3u8
+#EXTINF:0,Motorvision TV
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6112/index.m3u8
+#EXTINF:0,ProSieben Maxx HD DE
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6058/index.m3u8
+#EXTINF:0,RTL Nitro HD DE
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6064/index.m3u8
+#EXTINF:0,Sky Sport News HD DE
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2477/index.m3u8
+#EXTINF:0,Sky Sport 1 HD DE
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2478/index.m3u8
+#EXTINF:0,Sky Sport 2 HD DE
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2479/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 1 HD DE
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2480/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 9 HD DE
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6097/index.m3u8
+#EXTINF:0,Sky Sport Austria 1 HD DE
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2492/index.m3u8
+#EXTINF:0,Sky Sport Austria 2
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6113/index.m3u8
+#EXTINF:0,Sport 1 HD DE
+#EXTGRP:Deutsch TV
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2503/index.m3u8
