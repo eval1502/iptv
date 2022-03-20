@@ -101,6 +101,47 @@ http://chopin.af-stream.com:1600/s/fwf4q0x9/evronews/video.m3u8
 #EXTINF:0,РБК HD
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/fwf4q0x9/rbk-hd/video.m3u8
+
+#EXTINF:0,Первый канал +2
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/fwf4q0x9/pervyj-plus-2/video.m3u8
+#EXTINF:0,Первый канал +4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/fwf4q0x9/pervyj-plus-4/video.m3u8
+#EXTINF:0,Первый канал +6
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/fwf4q0x9/pervyj-plus-7/video.m3u8
+
+#EXTINF:0,Россия-1 +2
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/fwf4q0x9/rossija1-plus-2/video.m3u8
+#EXTINF:0,Россия-1 +4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/fwf4q0x9/rossija1-plus-4/video.m3u8
+#EXTINF:0,Россия-1 +6
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/fwf4q0x9/rossija1-plus-7/video.m3u8
+
+#EXTINF:0,НТВ +2
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/fwf4q0x9/ntv-plus-2/video.m3u8
+#EXTINF:0,НТВ +4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/fwf4q0x9/ntv-plus-4/video.m3u8
+#EXTINF:0,НТВ +6
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/fwf4q0x9/ntv-plus-7/video.m3u8
+#EXTINF:0,ТНТ +2
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/fwf4q0x9/tnt-plus-2/video.m3u8
+#EXTINF:0,ТНТ +4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/fwf4q0x9/tnt-plus-4/video.m3u8
+#EXTINF:0,ТНТ +6
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/fwf4q0x9/tnt-plus-7/video.m3u8
+
+
 #EXTINF:0,Наше HD
 #EXTGRP:Кино RU
 http://chopin.af-stream.com:1600/s/fwf4q0x9/nash-detektiv-hd/video.m3u8
