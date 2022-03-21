@@ -410,9 +410,6 @@ http://bethoven.af-stream.com:1600/s/rwuemk6f/khl-tv/video.m3u8
 #EXTINF:0,KHL Prime
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/rwuemk6f/khl-tv-hd/video.m3u8
-#EXTINF:0,Хоккейный HD
-#EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/rwuemk6f/hokkejnyj-hd/video.m3u8
 #EXTINF:0,МАТЧ! Футбол 1 HD
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/rwuemk6f/match-futbol1-hd/video.m3u8
@@ -422,15 +419,6 @@ http://bethoven.af-stream.com:1600/s/rwuemk6f/match-futbol2-hd/video.m3u8
 #EXTINF:0,МАТЧ! Футбол 3 HD
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/rwuemk6f/match-futbol3-hd/video.m3u8
-#EXTINF:0,Футбольный HD
-#EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/rwuemk6f/futbolnyj-hd/video.m3u8
-#EXTINF:0,Футбол HD
-#EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/rwuemk6f/futbol-hd/video.m3u8
-#EXTINF:0,Спортивный HD
-#EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/rwuemk6f/sportivnyj-hd/video.m3u8
 #EXTINF:0,Мир Баскетбола
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/rwuemk6f/mir-basketbola/video.m3u8
@@ -467,9 +455,6 @@ http://bethoven.af-stream.com:1600/s/rwuemk6f/russkij-extrim-hd/video.m3u8
 #EXTINF:0,Extreme Sports
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/rwuemk6f/extreme-sports/video.m3u8
-#EXTINF:0,Конный Мир HD
-#EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/rwuemk6f/konnyj-mir-hd/video.m3u8
 #EXTINF:0,Авто Плюс HD
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/rwuemk6f/auto-plus-hd/video.m3u8
