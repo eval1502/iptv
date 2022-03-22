@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:0,Первый HD
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/pervyj-hd/video.m3u8
+http://chopin.af-stream.com:1600/s/ktsufmzt/pervyj-hd/video.m3u8
 #EXTINF:0,Россия 1 HD
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/rossija-hd/video.m3u8
+http://chopin.af-stream.com:1600/s/ktsufmzt/rossija-hd/video.m3u8
 #EXTINF:0,НТВ HD
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/ntv-hd/video.m3u8
+http://chopin.af-stream.com:1600/s/ktsufmzt/ntv-hd/video.m3u8
 #EXTINF:0,РЕН ТВ HD
 #EXTGRP:Общие
 http://bethoven.af-stream.com:1600/s/ktsufmzt/ren-tv-hd/video.m3u8
@@ -37,13 +37,13 @@ http://bethoven.af-stream.com:1600/s/ktsufmzt/super-hd/video.m3u8
 http://bethoven.af-stream.com:1600/s/ktsufmzt/russia-today-doc-hd/video.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/pervyj/video.m3u8
+http://chopin.af-stream.com:1600/s/ktsufmzt/pervyj/video.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/rossija1/video.m3u8
+http://chopin.af-stream.com:1600/s/ktsufmzt/rossija1/video.m3u8
 #EXTINF:0,НТВ
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/ntv/video.m3u8
+http://chopin.af-stream.com:1600/s/ktsufmzt/ntv/video.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP:Общие
 http://bethoven.af-stream.com:1600/s/ktsufmzt/TNT/video.m3u8
