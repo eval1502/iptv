@@ -1,472 +1,487 @@
 #EXTM3U
 #EXTINF:0,Первый HD
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/pervyj-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/pervyj-hd/video.m3u8
 #EXTINF:0,Россия 1 HD
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/rossija-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/rossija-hd/video.m3u8
 #EXTINF:0,НТВ HD
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/ntv-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/ntv-hd/video.m3u8
 #EXTINF:0,РЕН ТВ HD
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/ren-tv-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/ren-tv-hd/video.m3u8
 #EXTINF:0,ТНТ HD
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/tnt-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/tnt-hd/video.m3u8
 #EXTINF:0,ТНТ4 HD
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/tnt4-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/tnt4-hd/video.m3u8
 #EXTINF:0,СТС HD
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/ctc-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/ctc-hd/video.m3u8
 #EXTINF:0,ТВ3 HD
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/tv3-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/tv3-hd/video.m3u8
 #EXTINF:0,Дождь HD
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/dozhd-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/dozhd-hd/video.m3u8
 #EXTINF:0,Пятница HD
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/piatnica-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/piatnica-hd/video.m3u8
 #EXTINF:0,Суббота HD
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/super-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/super-hd/video.m3u8
 #EXTINF:0,RT Док HD
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/russia-today-doc-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/russia-today-doc-hd/video.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/ktsufmzt/pervyj/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/pervyj/video.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/ktsufmzt/rossija1/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/rossija1/video.m3u8
 #EXTINF:0,НТВ
 #EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/ktsufmzt/ntv/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/ntv/video.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/TNT/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/TNT/video.m3u8
 #EXTINF:0,ТНТ4
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/tnt-4/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/tnt-4/video.m3u8
 #EXTINF:0,РЕН ТВ
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/ren-tv/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/ren-tv/video.m3u8
 #EXTINF:0,ТВ3
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/tv-3/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/tv-3/video.m3u8
 #EXTINF:0,СТС
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/CTC/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/CTC/video.m3u8
 #EXTINF:0,СТС Love
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/sts-love/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/sts-love/video.m3u8
 #EXTINF:0,Домашний
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/domashnij/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/domashnij/video.m3u8
 #EXTINF:0,Перец
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/perec/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/perec/video.m3u8
 #EXTINF:0,Че
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/4e/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/4e/video.m3u8
 #EXTINF:0,ТВЦ
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/tvc/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/tvc/video.m3u8
 #EXTINF:0,Пятый канал
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/5kanal/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/5kanal/video.m3u8
 #EXTINF:0,Россия Культура
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/rossija-k/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/rossija-k/video.m3u8
 #EXTINF:0,Сарафан
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/sarafan/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/sarafan/video.m3u8
 #EXTINF:0,Дождь
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/dozhd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/dozhd/video.m3u8
 #EXTINF:0,RTVi
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/rtvi/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/rtvi/video.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/rossija24/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/rossija24/video.m3u8
 #EXTINF:0,EuroNews
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/evronews/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/evronews/video.m3u8
 #EXTINF:0,РБК HD
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/rbk-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/rbk-hd/video.m3u8
 
 #EXTINF:0,Первый канал +2
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/pervyj-plus-2/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/pervyj-plus-2/video.m3u8
 #EXTINF:0,Первый канал +4
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/pervyj-plus-4/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/pervyj-plus-4/video.m3u8
 #EXTINF:0,Первый канал +6
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/pervyj-plus-7/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/pervyj-plus-7/video.m3u8
 
 #EXTINF:0,Россия-1 +2
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/rossija1-plus-2/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/rossija1-plus-2/video.m3u8
 #EXTINF:0,Россия-1 +4
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/rossija1-plus-4/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/rossija1-plus-4/video.m3u8
 #EXTINF:0,Россия-1 +6
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/rossija1-plus-7/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/rossija1-plus-7/video.m3u8
 
 #EXTINF:0,НТВ +2
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/ntv-plus-2/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/ntv-plus-2/video.m3u8
 #EXTINF:0,НТВ +4
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/ntv-plus-4/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/ntv-plus-4/video.m3u8
 #EXTINF:0,НТВ +6
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/ntv-plus-7/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/ntv-plus-7/video.m3u8
 #EXTINF:0,ТНТ +2
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/tnt-plus-2/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/tnt-plus-2/video.m3u8
 #EXTINF:0,ТНТ +4
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/tnt-plus-4/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/tnt-plus-4/video.m3u8
 #EXTINF:0,ТНТ +6
 #EXTGRP:Общие
-http://bethoven.af-stream.com:1600/s/ktsufmzt/tnt-plus-7/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/tnt-plus-7/video.m3u8
 
 
 #EXTINF:0,Наше HD
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/nash-detektiv-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/nash-detektiv-hd/video.m3u8
 #EXTINF:0,Русский Иллюзион HD
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/russkij-iluzion-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/russkij-iluzion-hd/video.m3u8
 #EXTINF:0,Наш Кинопоказ HD
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/nash-kinopokaz-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/nash-kinopokaz-hd/video.m3u8
 #EXTINF:0,Душевное HD
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/nash-kinoroman-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/nash-kinoroman-hd/video.m3u8
 #EXTINF:0,TV1000 Русское Кино HD
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/tv1000-russkoje-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/tv1000-russkoje-hd/video.m3u8
 #EXTINF:0,Наше новое кино HD
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/nashe-novoe-kino-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/nashe-novoe-kino-hd/video.m3u8
 #EXTINF:0,Дом Кино Премиум HD
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/dom-kino-premium-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/dom-kino-premium-hd/video.m3u8
 #EXTINF:0,Русский Роман HD
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/russkij-roman-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/russkij-roman-hd/video.m3u8
 #EXTINF:0,Наше Мужское HD
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/nashe-muzshkoe-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/nashe-muzshkoe-hd/video.m3u8
 #EXTINF:0,Мосфильм HD
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/mosfilm-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/mosfilm-hd/video.m3u8
 #EXTINF:0,Любимое HD
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/nashe-lubimoe-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/nashe-lubimoe-hd/video.m3u8
 #EXTINF:0,Любимое кино
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/lubimoe-kino/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/lubimoe-kino/video.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/rodnoje_kino/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/rodnoje_kino/video.m3u8
 #EXTINF:0,Русский Бестселлер
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/russkij-bestseller/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/russkij-bestseller/video.m3u8
 #EXTINF:0,Дом Кино
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/dom-kino/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/dom-kino/video.m3u8
 #EXTINF:0,Русский Детектив
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/russkij-detektiv/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/russkij-detektiv/video.m3u8
 #EXTINF:0,Феникс+Кино
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/feniks-plus-kino/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/feniks-plus-kino/video.m3u8
 #EXTINF:0,Мир Сериала
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/mir-seriala/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/mir-seriala/video.m3u8
 #EXTINF:0,Про Любовь HD
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/pro-lubov-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/pro-lubov-hd/video.m3u8
 #EXTINF:0,НТВ Хит
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/ntv-hit/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/ntv-hit/video.m3u8
 #EXTINF:0,НТВ Сериал
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/ntv-serial/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/ntv-serial/video.m3u8
 #EXTINF:0,Ностальгия
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/nostalgia/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/nostalgia/video.m3u8
 #EXTINF:0,Ретро ТВ
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/retro/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/retro/video.m3u8
 #EXTINF:0,Иллюзион + HD
 #EXTGRP:Кино RU
-http://bethoven.af-stream.com:1600/s/ktsufmzt/iluzion-plus-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/iluzion-plus-hd/video.m3u8
 #EXTINF:0,Романтичное HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/romantichnoe-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/romantichnoe-hd/video.m3u8
 #EXTINF:0,Кинопремьера HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/kinopremiera-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/kinopremiera-hd/video.m3u8
 #EXTINF:0,Премиальное HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/kino-premium-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/kino-premium-hd/video.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/ostrosujetnoe-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/ostrosujetnoe-hd/video.m3u8
 #EXTINF:0,Хит HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/hit-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/hit-hd/video.m3u8
 #EXTINF:0,Кинохит HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/kinohit-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/kinohit-hd/video.m3u8
 #EXTINF:0,Киномикс HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/kinomix-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/kinomix-hd/video.m3u8
 #EXTINF:0,Киносемья HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/kinosemja-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/kinosemja-hd/video.m3u8
 #EXTINF:0,Киносвидание HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/kinosvidanije-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/kinosvidanije-hd/video.m3u8
 #EXTINF:0,Киносерия HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/mnogo-tv-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/mnogo-tv-hd/video.m3u8
 #EXTINF:0,Кинопоказ HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/kinopokaz-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/kinopokaz-hd/video.m3u8
 #EXTINF:0,Блокбастер HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/blokbaster-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/blokbaster-hd/video.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/muzhskoe-kino-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/muzhskoe-kino-hd/video.m3u8
 #EXTINF:0,VIP Premiere
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/tv1000-premium-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/tv1000-premium-hd/video.m3u8
 #EXTINF:0,VIP Megahit
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/tv1000-megahit-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/tv1000-megahit-hd/video.m3u8
 #EXTINF:0,VIP Comedy
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/tv1000-comedy-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/tv1000-comedy-hd/video.m3u8
 #EXTINF:0,VIP Serial
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/vip-serial-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/vip-serial-hd/video.m3u8
 #EXTINF:0,TV1000 HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/tv1000-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/tv1000-hd/video.m3u8
 #EXTINF:0,TV1000 Action HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/tv1000-action-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/tv1000-action-hd/video.m3u8
 #EXTINF:0,TV1000 World Kino
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/tv1000-world-kino/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/tv1000-world-kino/video.m3u8
 #EXTINF:0,Кинокомедия HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/kinokomedia-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/kinokomedia-hd/video.m3u8
 #EXTINF:0,Комедийное HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/kinopokaz-hd2/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/kinopokaz-hd2/video.m3u8
 #EXTINF:0,Камеди HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/comedy-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/comedy-hd/video.m3u8
 #EXTINF:0,Комедия
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/russkaja-comedija/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/russkaja-comedija/video.m3u8
 #EXTINF:0,AMEDIA Premium HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/amedia-premium-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/amedia-premium-hd/video.m3u8
 #EXTINF:0,Hollywood HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/mgm-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/mgm-hd/video.m3u8
 #EXTINF:0,Cinema HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/cinema-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/cinema-hd/video.m3u8
 #EXTINF:0,Кино ТВ HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/kino-tv-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/kino-tv-hd/video.m3u8
 #EXTINF:0,Еврокино HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/evrokino-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/evrokino-hd/video.m3u8
 #EXTINF:0,Kinojam 1 HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/kinojam1-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/kinojam1-hd/video.m3u8
 #EXTINF:0,Kinojam 2 HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/kinojam2-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/kinojam2-hd/video.m3u8
 #EXTINF:0,Flix Snip
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/flix-snip/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/flix-snip/video.m3u8
 #EXTINF:0,SHOT TV
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/egoist-tv/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/egoist-tv/video.m3u8
 #EXTINF:0,Страшное HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/strashnoe-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/strashnoe-hd/video.m3u8
 #EXTINF:0,Шокирующее HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/kinopokaz-hd1/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/kinopokaz-hd1/video.m3u8
 #EXTINF:0,Киноужас HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/kinouzhas-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/kinouzhas-hd/video.m3u8
 #EXTINF:0,НСТ
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/hct/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/hct/video.m3u8
 #EXTINF:0,AMEDIA HIT HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/amedia-hit-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/amedia-hit-hd/video.m3u8
 #EXTINF:0,A1 HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/amedia1-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/amedia1-hd/video.m3u8
 #EXTINF:0,A2 HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/amedia-2-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/amedia-2-hd/video.m3u8
 #EXTINF:0,AMC
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/amc/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/amc/video.m3u8
 #EXTINF:0,FOX HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/fox-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/fox-hd/video.m3u8
 #EXTINF:0,FOX Life HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/fox-life-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/fox-life-hd/video.m3u8
 #EXTINF:0,Paramount Channel HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/paramount-channel-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/paramount-channel-hd/video.m3u8
 #EXTINF:0,Paramount Comedy HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/paramount-comedy-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/paramount-comedy-hd/video.m3u8
 #EXTINF:0,Red HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/set-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/set-hd/video.m3u8
 #EXTINF:0,Sci-Fi
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/sony-sci-fi/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/sony-sci-fi/video.m3u8
 #EXTINF:0,Black
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/sony-turbo/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/sony-turbo/video.m3u8
 #EXTINF:0,TV XXI
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/tv-xxi/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/tv-xxi/video.m3u8
 #EXTINF:0,Дорама HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/dorama-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/dorama-hd/video.m3u8
 #EXTINF:0,Bollywood HD
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/bollywood/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/bollywood/video.m3u8
 #EXTINF:0,Индийское Кино
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/indija-tv/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/indija-tv/video.m3u8
 #EXTINF:0,Zee TV
 #EXTGRP:Кино
-http://bethoven.af-stream.com:1600/s/ktsufmzt/zee-tv/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/zee-tv/video.m3u8
 
 #EXTINF:0,M-1 Global HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/m1-global-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/m1-global-hd/video.m3u8
 #EXTINF:0,UFC HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/ufc-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/ufc-hd/video.m3u8
 #EXTINF:0,Матч! Боец HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/match-boec-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/match-boec-hd/video.m3u8
 #EXTINF:0,Бокс ТВ
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/boks-tv/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/boks-tv/video.m3u8
 #EXTINF:0,Матч Премьер HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/nash-futbol-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/nash-futbol-hd/video.m3u8
 #EXTINF:0,Матч ТВ HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/match-tv-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/match-tv-hd/video.m3u8
 #EXTINF:0,Матч! Игра HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/match-igra-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/match-igra-hd/video.m3u8
 #EXTINF:0,Матч! Арена HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/match-arena-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/match-arena-hd/video.m3u8
 #EXTINF:0,Матч! Страна HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/match-strana-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/match-strana-hd/video.m3u8
 #EXTINF:0,Матч! Планета
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/match-planeta/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/match-planeta/video.m3u8
 #EXTINF:0,Старт HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/start-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/start-hd/video.m3u8
 #EXTINF:0,KHL
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/khl-tv/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/khl-tv/video.m3u8
 #EXTINF:0,KHL Prime
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/khl-tv-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/khl-tv-hd/video.m3u8
+#EXTINF:0,Хоккейный HD
+#EXTGRP:Спорт
+http://bethoven.af-stream.com:1600/s/atnbhazr/hokkejnyj-hd/video.m3u8
 #EXTINF:0,МАТЧ! Футбол 1 HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/match-futbol1-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/match-futbol1-hd/video.m3u8
 #EXTINF:0,МАТЧ! Футбол 2 HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/match-futbol2-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/match-futbol2-hd/video.m3u8
 #EXTINF:0,МАТЧ! Футбол 3 HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/match-futbol3-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/match-futbol3-hd/video.m3u8
+#EXTINF:0,Футбольный HD
+#EXTGRP:Спорт
+http://bethoven.af-stream.com:1600/s/atnbhazr/futbolnyj-hd/video.m3u8
+#EXTINF:0,Футбол HD
+#EXTGRP:Спорт
+http://bethoven.af-stream.com:1600/s/atnbhazr/futbol-hd/video.m3u8
+#EXTINF:0,Спортивный HD
+#EXTGRP:Спорт
+http://bethoven.af-stream.com:1600/s/atnbhazr/sportivnyj-hd/video.m3u8
 #EXTINF:0,Мир Баскетбола
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/mir-basketbola/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/mir-basketbola/video.m3u8
 #EXTINF:0,Viasat Sport HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/viasat-sport-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/viasat-sport-hd/video.m3u8
 #EXTINF:0,Eurosport 1 HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/eurosport-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/eurosport-hd/video.m3u8
 #EXTINF:0,Eurosport 2 HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/eurosport2-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/eurosport2-hd/video.m3u8
 #EXTINF:0,Eurosport Gold HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/eurosport-gold-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/eurosport-gold-hd/video.m3u8
 #EXTINF:0,Setanta Sports 1 HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/setanta-eurasia/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/setanta-eurasia/video.m3u8
 #EXTINF:0,Setanta Sports 2 HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/setanta-eurasia-plus/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/setanta-eurasia-plus/video.m3u8
 #EXTINF:0,Setanta Sports Ukraine HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/setanta-sport-hd-ua/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/setanta-sport-hd-ua/video.m3u8
 #EXTINF:0,Super Tennis HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/super-tennis-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/super-tennis-hd/video.m3u8
 #EXTINF:0,Точка Отрыва
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/tochka-otryva/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/tochka-otryva/video.m3u8
 #EXTINF:0,Русский Экстрим HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/russkij-extrim-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/russkij-extrim-hd/video.m3u8
 #EXTINF:0,Extreme Sports
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/extreme-sports/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/extreme-sports/video.m3u8
+#EXTINF:0,Конный Мир HD
+#EXTGRP:Спорт
+http://bethoven.af-stream.com:1600/s/atnbhazr/konnyj-mir-hd/video.m3u8
 #EXTINF:0,Авто Плюс HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/auto-plus-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/auto-plus-hd/video.m3u8
 #EXTINF:0,Авто 24 HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/avto-24-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/avto-24-hd/video.m3u8
 #EXTINF:0,Драйв
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/drive/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/drive/video.m3u8
 #EXTINF:0,Моторспорт ТВ HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/motorsport-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/motorsport-hd/video.m3u8
 #EXTINF:0,Motor Trend HD
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/ktsufmzt/motor-trend-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/motor-trend-hd/video.m3u8
