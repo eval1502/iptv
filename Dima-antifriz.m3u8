@@ -89,13 +89,13 @@ http://bethoven.af-stream.com:1600/s/atnbhazr/dozhd/video.m3u8
 #EXTINF:0,RTVi
 #EXTGRP:Общие
 http://bethoven.af-stream.com:1600/s/atnbhazr/rtvi/video.m3u8
-#EXTINF:0,Россия 24
+#EXTINF:0,Россия-24
 #EXTGRP:Общие
 http://bethoven.af-stream.com:1600/s/atnbhazr/rossija24/video.m3u8
 #EXTINF:0,EuroNews
 #EXTGRP:Общие
 http://bethoven.af-stream.com:1600/s/atnbhazr/evronews/video.m3u8
-#EXTINF:0,РБК HD
+#EXTINF:0,РБК-ТВ
 #EXTGRP:Общие
 http://bethoven.af-stream.com:1600/s/atnbhazr/rbk-hd/video.m3u8
 
@@ -211,10 +211,12 @@ http://bethoven.af-stream.com:1600/s/atnbhazr/retro/video.m3u8
 #EXTINF:0,Иллюзион + HD
 #EXTGRP:Кино RU
 http://bethoven.af-stream.com:1600/s/atnbhazr/iluzion-plus-hd/video.m3u8
+
+
 #EXTINF:0,Романтичное HD
 #EXTGRP:Кино
 http://bethoven.af-stream.com:1600/s/atnbhazr/romantichnoe-hd/video.m3u8
-#EXTINF:0,Кинопремьера HD
+#EXTINF:0,Кинопремьера
 #EXTGRP:Кино
 http://bethoven.af-stream.com:1600/s/atnbhazr/kinopremiera-hd/video.m3u8
 #EXTINF:0,Премиальное HD
@@ -226,19 +228,19 @@ http://bethoven.af-stream.com:1600/s/atnbhazr/ostrosujetnoe-hd/video.m3u8
 #EXTINF:0,Хит HD
 #EXTGRP:Кино
 http://bethoven.af-stream.com:1600/s/atnbhazr/hit-hd/video.m3u8
-#EXTINF:0,Кинохит HD
+#EXTINF:0,Кинохит
 #EXTGRP:Кино
 http://bethoven.af-stream.com:1600/s/atnbhazr/kinohit-hd/video.m3u8
-#EXTINF:0,Киномикс HD
+#EXTINF:0,Киномикс
 #EXTGRP:Кино
 http://bethoven.af-stream.com:1600/s/atnbhazr/kinomix-hd/video.m3u8
-#EXTINF:0,Киносемья HD
+#EXTINF:0,Киносемья
 #EXTGRP:Кино
 http://bethoven.af-stream.com:1600/s/atnbhazr/kinosemja-hd/video.m3u8
-#EXTINF:0,Киносвидание HD
+#EXTINF:0,Киносвидание
 #EXTGRP:Кино
 http://bethoven.af-stream.com:1600/s/atnbhazr/kinosvidanije-hd/video.m3u8
-#EXTINF:0,Киносерия HD
+#EXTINF:0,Киносерия
 #EXTGRP:Кино
 http://bethoven.af-stream.com:1600/s/atnbhazr/mnogo-tv-hd/video.m3u8
 #EXTINF:0,Кинопоказ HD
