@@ -1,0 +1,143 @@
+#EXTM3U max-conn="2" url-tvg="https://af-play.com/xmltv.xml.gz"
+
+#EXTINF:0,Первый HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/pervyj-hd/video.m3u8
+#EXTINF:0,Россия 1 HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/rossija-hd/video.m3u8
+#EXTINF:0,НТВ HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/ntv-hd/video.m3u8
+#EXTINF:0,РЕН ТВ HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/ren-tv-hd/video.m3u8
+#EXTINF:0,ТНТ HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/tnt-hd/video.m3u8
+#EXTINF:0,ТНТ4 HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/tnt4-hd/video.m3u8
+#EXTINF:0,СТС HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/ctc-hd/video.m3u8
+#EXTINF:0,ТВ3 HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/tv3-hd/video.m3u8
+#EXTINF:0,Дождь HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/dozhd-hd/video.m3u8
+#EXTINF:0,Пятница HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/piatnica-hd/video.m3u8
+#EXTINF:0,Суббота HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/super-hd/video.m3u8
+#EXTINF:0,Сарафан
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/sarafan/video.m3u8
+
+#EXTINF:0,Первый канал
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/pervyj/video.m3u8
+#EXTINF:0,Первый канал +2
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/pervyj-plus-2/video.m3u8
+#EXTINF:0,Первый канал +4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/pervyj-plus-4/video.m3u8
+#EXTINF:0,Первый канал +6
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/pervyj-plus-7/video.m3u8
+
+#EXTINF:0,Россия 1
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/rossija1/video.m3u8
+#EXTINF:0,Россия-1 +2
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/rossija1-plus-2/video.m3u8
+#EXTINF:0,Россия-1 +4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/rossija1-plus-4/video.m3u8
+#EXTINF:0,Россия-1 +6
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/rossija1-plus-7/video.m3u8
+
+#EXTINF:0,НТВ +2
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/ntv-plus-2/video.m3u8
+#EXTINF:0,НТВ +4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/ntv-plus-4/video.m3u8
+#EXTINF:0,НТВ +6
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/ntv-plus-7/video.m3u8
+#EXTINF:0,ТНТ +2
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/tnt-plus-2/video.m3u8
+#EXTINF:0,ТНТ +4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/tnt-plus-4/video.m3u8
+#EXTINF:0,ТНТ +6
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/tnt-plus-7/video.m3u8
+
+#EXTINF:0,НТВ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/ntv/video.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/TNT/video.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/tvc/video.m3u8
+#EXTINF:0,ТНТ4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/tnt-4/video.m3u8
+#EXTINF:0,РЕН ТВ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/ren-tv/video.m3u8
+#EXTINF:0,ТВ3
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/tv-3/video.m3u8
+#EXTINF:0,СТС
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/CTC/video.m3u8
+#EXTINF:0,Дождь
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/dozhd/video.m3u8
+#EXTINF:0,RTVi
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/rtvi/video.m3u8
+
+#EXTINF:0,СТС Love
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/sts-love/video.m3u8
+#EXTINF:0,Домашний
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/domashnij/video.m3u8
+#EXTINF:0,Перец
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/perec/video.m3u8
+#EXTINF:0,Че
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/4e/video.m3u8
+#EXTINF:0,Пятый канал
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/5kanal/video.m3u8
+#EXTINF:0,Россия Культура
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/rossija-k/video.m3u8
+#EXTINF:0,Россия 24
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/rossija24/video.m3u8
+#EXTINF:0,EuroNews
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/evronews/video.m3u8
+#EXTINF:0,RT Док
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/russia-today-doc-hd/video.m3u8
+#EXTINF:0,РБК-ТВ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/rbk-hd/video.m3u8
+
