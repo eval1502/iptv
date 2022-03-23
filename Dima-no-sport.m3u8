@@ -89,13 +89,13 @@ http://bethoven.af-stream.com:1600/s/atnbhazr/dozhd/video.m3u8
 #EXTINF:0,RTVi
 #EXTGRP:Общие
 http://bethoven.af-stream.com:1600/s/atnbhazr/rtvi/video.m3u8
-#EXTINF:0,Россия 24
+#EXTINF:0,Россия-24
 #EXTGRP:Общие
 http://bethoven.af-stream.com:1600/s/atnbhazr/rossija24/video.m3u8
 #EXTINF:0,EuroNews
 #EXTGRP:Общие
 http://bethoven.af-stream.com:1600/s/atnbhazr/evronews/video.m3u8
-#EXTINF:0,РБК HD
+#EXTINF:0,РБК-ТВ
 #EXTGRP:Общие
 http://bethoven.af-stream.com:1600/s/atnbhazr/rbk-hd/video.m3u8
 
@@ -211,10 +211,11 @@ http://bethoven.af-stream.com:1600/s/atnbhazr/retro/video.m3u8
 #EXTINF:0,Иллюзион + HD
 #EXTGRP:Кино RU
 http://bethoven.af-stream.com:1600/s/atnbhazr/iluzion-plus-hd/video.m3u8
+
 #EXTINF:0,Романтичное HD
 #EXTGRP:Кино
 http://bethoven.af-stream.com:1600/s/atnbhazr/romantichnoe-hd/video.m3u8
-#EXTINF:0,Кинопремьера HD
+#EXTINF:0,Кинопремьера
 #EXTGRP:Кино
 http://bethoven.af-stream.com:1600/s/atnbhazr/kinopremiera-hd/video.m3u8
 #EXTINF:0,Премиальное HD
