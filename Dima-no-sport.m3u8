@@ -226,19 +226,19 @@ http://bethoven.af-stream.com:1600/s/atnbhazr/ostrosujetnoe-hd/video.m3u8
 #EXTINF:0,Хит HD
 #EXTGRP:Кино
 http://bethoven.af-stream.com:1600/s/atnbhazr/hit-hd/video.m3u8
-#EXTINF:0,Кинохит HD
+#EXTINF:0,Кинохит
 #EXTGRP:Кино
 http://bethoven.af-stream.com:1600/s/atnbhazr/kinohit-hd/video.m3u8
-#EXTINF:0,Киномикс HD
+#EXTINF:0,Киномикс
 #EXTGRP:Кино
 http://bethoven.af-stream.com:1600/s/atnbhazr/kinomix-hd/video.m3u8
-#EXTINF:0,Киносемья HD
+#EXTINF:0,Киносемья
 #EXTGRP:Кино
 http://bethoven.af-stream.com:1600/s/atnbhazr/kinosemja-hd/video.m3u8
-#EXTINF:0,Киносвидание HD
+#EXTINF:0,Киносвидание
 #EXTGRP:Кино
 http://bethoven.af-stream.com:1600/s/atnbhazr/kinosvidanije-hd/video.m3u8
-#EXTINF:0,Киносерия HD
+#EXTINF:0,Киносерия
 #EXTGRP:Кино
 http://bethoven.af-stream.com:1600/s/atnbhazr/mnogo-tv-hd/video.m3u8
 #EXTINF:0,Кинопоказ HD
