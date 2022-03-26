@@ -412,9 +412,6 @@ http://bethoven.af-stream.com:1600/s/atnbhazr/khl-tv/video.m3u8
 #EXTINF:0,KHL Prime
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/atnbhazr/khl-tv-hd/video.m3u8
-#EXTINF:0,Хоккейный HD
-#EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/atnbhazr/hokkejnyj-hd/video.m3u8
 #EXTINF:0,МАТЧ! Футбол 1 HD
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/atnbhazr/match-futbol1-hd/video.m3u8
@@ -427,12 +424,6 @@ http://bethoven.af-stream.com:1600/s/atnbhazr/match-futbol3-hd/video.m3u8
 #EXTINF:0,Футбольный HD
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/atnbhazr/futbolnyj-hd/video.m3u8
-#EXTINF:0,Футбол HD
-#EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/atnbhazr/futbol-hd/video.m3u8
-#EXTINF:0,Спортивный HD
-#EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/atnbhazr/sportivnyj-hd/video.m3u8
 #EXTINF:0,Мир Баскетбола
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/atnbhazr/mir-basketbola/video.m3u8
@@ -445,18 +436,12 @@ http://bethoven.af-stream.com:1600/s/atnbhazr/eurosport-hd/video.m3u8
 #EXTINF:0,Eurosport 2 HD
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/atnbhazr/eurosport2-hd/video.m3u8
-#EXTINF:0,Eurosport Gold HD
-#EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/atnbhazr/eurosport-gold-hd/video.m3u8
 #EXTINF:0,Setanta Sports 1 HD
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/atnbhazr/setanta-eurasia/video.m3u8
 #EXTINF:0,Setanta Sports 2 HD
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/atnbhazr/setanta-eurasia-plus/video.m3u8
-#EXTINF:0,Setanta Sports Ukraine HD
-#EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/atnbhazr/setanta-sport-hd-ua/video.m3u8
 #EXTINF:0,Super Tennis HD
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/atnbhazr/super-tennis-hd/video.m3u8
@@ -469,9 +454,6 @@ http://bethoven.af-stream.com:1600/s/atnbhazr/russkij-extrim-hd/video.m3u8
 #EXTINF:0,Extreme Sports
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/atnbhazr/extreme-sports/video.m3u8
-#EXTINF:0,Конный Мир HD
-#EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/atnbhazr/konnyj-mir-hd/video.m3u8
 #EXTINF:0,Авто Плюс HD
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/atnbhazr/auto-plus-hd/video.m3u8
