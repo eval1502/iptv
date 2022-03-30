@@ -379,9 +379,9 @@ http://bethoven.af-stream.com:1600/s/atnbhazr/m1-global-hd/video.m3u8
 #EXTINF:0,UFC HD
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/atnbhazr/ufc-hd/video.m3u8
-#EXTINF:0,Матч! Боец HD
+#EXTINF:0,Матч! Боец
 #EXTGRP:Спорт
-http://bethoven.af-stream.com:1600/s/atnbhazr/match-boec-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/atnbhazr/match-boec/video.m3u8
 #EXTINF:0,Бокс ТВ
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/atnbhazr/boks-tv/video.m3u8
