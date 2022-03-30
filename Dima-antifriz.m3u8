@@ -406,7 +406,7 @@ http://bethoven.af-stream.com:1600/s/atnbhazr/match-planeta/video.m3u8
 #EXTINF:0,Старт HD
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/atnbhazr/start-hd/video.m3u8
-#EXTINF:0,KHL
+#EXTINF:0,KHL ТВ
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/atnbhazr/khl-tv/video.m3u8
 #EXTINF:0,KHL Prime
@@ -448,16 +448,16 @@ http://bethoven.af-stream.com:1600/s/atnbhazr/super-tennis-hd/video.m3u8
 #EXTINF:0,Точка Отрыва
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/atnbhazr/tochka-otryva/video.m3u8
-#EXTINF:0,Русский Экстрим HD
+#EXTINF:0,Русский Экстрим
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/atnbhazr/russkij-extrim-hd/video.m3u8
 #EXTINF:0,Extreme Sports
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/atnbhazr/extreme-sports/video.m3u8
-#EXTINF:0,Авто Плюс HD
+#EXTINF:0,Авто Плюс
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/atnbhazr/auto-plus-hd/video.m3u8
-#EXTINF:0,Авто 24 HD
+#EXTINF:0,Авто 24
 #EXTGRP:Спорт
 http://bethoven.af-stream.com:1600/s/atnbhazr/avto-24-hd/video.m3u8
 #EXTINF:0,Драйв
