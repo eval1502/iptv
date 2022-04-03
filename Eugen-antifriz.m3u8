@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U max-conn="2" url-tvg="https://af-play.com/xmltv.xml.gz"
+
 #EXTINF:0,Первый HD
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/pervyj-hd/video.m3u8
@@ -8,7 +9,7 @@ http://chopin.af-stream.com:1600/s/mpcclrdg/rossija-hd/video.m3u8
 #EXTINF:0,НТВ HD
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/ntv-hd/video.m3u8
-#EXTINF:0,Рен ТВ HD
+#EXTINF:0,РЕН ТВ HD
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/ren-tv-hd/video.m3u8
 #EXTINF:0,ТНТ HD
@@ -32,9 +33,10 @@ http://chopin.af-stream.com:1600/s/mpcclrdg/piatnica-hd/video.m3u8
 #EXTINF:0,Суббота HD
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/super-hd/video.m3u8
-#EXTINF:0,RT Док HD
+#EXTINF:0,Сарафан
 #EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/mpcclrdg/russia-today-doc-hd/video.m3u8
+http://chopin.af-stream.com:1600/s/mpcclrdg/sarafan/video.m3u8
+
 #EXTINF:0,Первый канал
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/pervyj/video.m3u8
@@ -47,6 +49,7 @@ http://chopin.af-stream.com:1600/s/mpcclrdg/pervyj-plus-4/video.m3u8
 #EXTINF:0,Первый канал +6
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/pervyj-plus-7/video.m3u8
+
 #EXTINF:0,Россия 1
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/rossija1/video.m3u8
@@ -59,21 +62,16 @@ http://chopin.af-stream.com:1600/s/mpcclrdg/rossija1-plus-4/video.m3u8
 #EXTINF:0,Россия-1 +6
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/rossija1-plus-7/video.m3u8
-#EXTINF:0,НТВ
-#EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/mpcclrdg/ntv/video.m3u8
+
 #EXTINF:0,НТВ +2
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/ntv-plus-2/video.m3u8
 #EXTINF:0,НТВ +4
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/ntv-plus-4/video.m3u8
-#EXTINF:0,НТВ +7
+#EXTINF:0,НТВ +6
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/ntv-plus-7/video.m3u8
-#EXTINF:0,ТНТ
-#EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/mpcclrdg/TNT/video.m3u8
 #EXTINF:0,ТНТ +2
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/tnt-plus-2/video.m3u8
@@ -83,6 +81,16 @@ http://chopin.af-stream.com:1600/s/mpcclrdg/tnt-plus-4/video.m3u8
 #EXTINF:0,ТНТ +6
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/tnt-plus-7/video.m3u8
+
+#EXTINF:0,НТВ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/mpcclrdg/ntv/video.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/mpcclrdg/TNT/video.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/mpcclrdg/tvc/video.m3u8
 #EXTINF:0,ТНТ4
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/tnt-4/video.m3u8
@@ -95,6 +103,13 @@ http://chopin.af-stream.com:1600/s/mpcclrdg/tv-3/video.m3u8
 #EXTINF:0,СТС
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/CTC/video.m3u8
+#EXTINF:0,Дождь
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/mpcclrdg/dozhd/video.m3u8
+#EXTINF:0,RTVi
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/mpcclrdg/rtvi/video.m3u8
+
 #EXTINF:0,СТС Love
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/sts-love/video.m3u8
@@ -107,456 +122,21 @@ http://chopin.af-stream.com:1600/s/mpcclrdg/perec/video.m3u8
 #EXTINF:0,Че
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/4e/video.m3u8
-#EXTINF:0,Звезда
-#EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/mpcclrdg/zvezda/video.m3u8
-#EXTINF:0,ТВЦ
-#EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/mpcclrdg/tvc/video.m3u8
-#EXTINF:0,5 канал
+#EXTINF:0,Пятый канал
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/5kanal/video.m3u8
 #EXTINF:0,Россия Культура
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/rossija-k/video.m3u8
-#EXTINF:0,Сарафан
-#EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/mpcclrdg/sarafan/video.m3u8
-#EXTINF:0,Дождь
-#EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/mpcclrdg/dozhd/video.m3u8
-#EXTINF:0,RTVi
-#EXTGRP:Общие
-http://chopin.af-stream.com:1600/s/mpcclrdg/rtvi/video.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/rossija24/video.m3u8
 #EXTINF:0,EuroNews
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/evronews/video.m3u8
-#EXTINF:0,РБК HD
+#EXTINF:0,RT Док
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/mpcclrdg/russia-today-doc-hd/video.m3u8
+#EXTINF:0,РБК-ТВ
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/rbk-hd/video.m3u8
-
-#EXTINF:0 group-title="Кино" tvg-id="strashnoe-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/d2fcbd1e3ca1f75ad0838ae1cae2ba51.png" catchup-source="http://chopin.af-stream.com/strashnoe-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Страшное HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/strashnoe-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="kinopokaz-hd1" tvg-logo="https://af-play.com/storage/images/channel_logos/kinopokaz-hd1.png" catchup-source="http://chopin.af-stream.com/kinopokaz-hd1/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Шокирующее HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/kinopokaz-hd1/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="kinouzhas-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/kinouzhas-hd.png" catchup-source="http://chopin.af-stream.com/kinouzhas-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Киноужас HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/kinouzhas-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="hct" tvg-logo="https://af-play.com/storage/images/channel_logos/hct.png" catchup-source="http://chopin.af-stream.com/hct/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,НСТ
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/hct/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="kinopremiera-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/kinopremiera-hd.png" catchup-source="http://chopin.af-stream.com/kinopremiera-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Кинопремьера HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/kinopremiera-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="kino-premium-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/kino-premium-hd.png" catchup-source="http://chopin.af-stream.com/kino-premium-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Премиальное HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/kino-premium-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="ostrosujetnoe-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/ostrosujetnoe-hd.png" catchup-source="http://chopin.af-stream.com/ostrosujetnoe-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Остросюжетное HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/ostrosujetnoe-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="hit-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/39614c6364ef51682293f4250c5d26f0.png" catchup-source="http://chopin.af-stream.com/hit-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Хит HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/hit-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="kinohit-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/e60d2f15812068ee6d8262c62cf50b7a.png" catchup-source="http://chopin.af-stream.com/kinohit-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Кинохит HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/kinohit-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="kinomix-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/kinomix-hd.png" catchup-source="http://chopin.af-stream.com/kinomix-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Киномикс HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/kinomix-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="kinosemja-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/962a01e8bd873b1a6a3def86e692d6e0.png" catchup-source="http://chopin.af-stream.com/kinosemja-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Киносемья HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/kinosemja-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="kinosvidanije-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/d5f1546d86e40ae008a397153bc882e3.png" catchup-source="http://chopin.af-stream.com/kinosvidanije-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Киносвидание HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/kinosvidanije-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="mnogo-tv-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/11067a2d3837ea87772fa1dc4df72bad.png" catchup-source="http://chopin.af-stream.com/mnogo-tv-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Киносерия HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/mnogo-tv-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="kinopokaz-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/6476ad9d49e51d15a5485e98e525ff07.png" catchup-source="http://chopin.af-stream.com/kinopokaz-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Кинопоказ HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/kinopokaz-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="blokbaster-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/dc4aa423b9fa1fac1ece42e2da5b8295.png" catchup-source="http://chopin.af-stream.com/blokbaster-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Блокбастер HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/blokbaster-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="nash-kinopokaz-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/55aada8233e6cb0cc1347d8cc34a21be.png" catchup-source="http://chopin.af-stream.com/nash-kinopokaz-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Наш Кинопоказ HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/nash-kinopokaz-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="nash-kinoroman-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/94f6f9dc05e680af446947572ab3c4d0.png" catchup-source="http://chopin.af-stream.com/nash-kinoroman-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Душевное HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/nash-kinoroman-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="nash-detektiv-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/1d58cbd9cda982d9e1657319950e147d.png" catchup-source="http://chopin.af-stream.com/nash-detektiv-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Наше HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/nash-detektiv-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="nashe-lubimoe-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/nashe-lubimoe-hd.png" catchup-source="http://chopin.af-stream.com/nashe-lubimoe-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Любимое HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/nashe-lubimoe-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="tv1000-premium-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/tv1000-premium-hd.png" catchup-source="http://chopin.af-stream.com/tv1000-premium-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,VIP Premiere
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/tv1000-premium-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="tv1000-megahit-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/tv1000-megahit-hd.png" catchup-source="http://chopin.af-stream.com/tv1000-megahit-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,VIP Megahit
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/tv1000-megahit-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="tv1000-comedy-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/tv1000-comedy-hd.png" catchup-source="http://chopin.af-stream.com/tv1000-comedy-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,VIP Comedy
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/tv1000-comedy-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="vip-serial-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/vip-serial-hd.png" catchup-source="http://chopin.af-stream.com/vip-serial-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,VIP Serial
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/vip-serial-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="tv1000-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/4f30d27aa8fdd3e732c3e6ae73092427.png" catchup-source="http://chopin.af-stream.com/tv1000-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,TV1000 HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/tv1000-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="tv1000-action-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/ace6e750437367a03a30a3a3ac649cc8.png" catchup-source="http://chopin.af-stream.com/tv1000-action-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,TV1000 Action HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/tv1000-action-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="tv1000-russkoje-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/5bb1e4e94af927bee6e25e27e69d8928.png" catchup-source="http://chopin.af-stream.com/tv1000-russkoje-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,TV1000 Русское Кино HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/tv1000-russkoje-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="tv1000-world-kino" tvg-logo="https://af-play.com/storage/images/pack_logos/b208ee3917e7b929c3c5b30c74cc4df0.png" catchup-source="http://chopin.af-stream.com/tv1000-world-kino/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,TV1000 World Kino
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/tv1000-world-kino/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="mgm-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/mgm-hd.png" catchup-source="http://chopin.af-stream.com/mgm-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Hollywood HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/mgm-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="cinema-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/6cbe01e0b6b9be4b2e4f55c579d81c4c.png" catchup-source="http://chopin.af-stream.com/cinema-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Cinema HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/cinema-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="kino-tv-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/kino-tv-hd.png" catchup-source="http://chopin.af-stream.com/kino-tv-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Кино ТВ HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/kino-tv-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="kinojam1-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/35776c65759a61d3680cc6a90045a870.png" catchup-source="http://chopin.af-stream.com/kinojam1-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Kinojam 1 HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/kinojam1-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="kinojam2-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/22a859be39202a40ade8ce270bce0c4f.png" catchup-source="http://chopin.af-stream.com/kinojam2-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Kinojam 2 HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/kinojam2-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="evrokino" tvg-logo="https://af-play.com/storage/images/channel_logos/evrokino.png" catchup-source="http://chopin.af-stream.com/evrokino/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Еврокино
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/evrokino/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="evrokino-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/evrokino-hd.png" catchup-source="http://chopin.af-stream.com/evrokino-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Еврокино HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/evrokino-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="flix-snip" tvg-logo="https://af-play.com/storage/images/pack_logos/4dbb1abd522faa508c6b799642534f37.png" catchup-source="http://chopin.af-stream.com/flix-snip/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Flix Snip
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/flix-snip/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="egoist-tv" tvg-logo="https://af-play.com/storage/images/pack_logos/7472ab672fcbb9f7468e8d2eeb4d8d0c.png" catchup-source="http://chopin.af-stream.com/egoist-tv/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,SHOT TV
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/egoist-tv/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="muzhskoe-kino-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/muzhskoe-kino-hd.png" catchup-source="http://chopin.af-stream.com/muzhskoe-kino-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,МУЖСКОЕ КИНО HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/muzhskoe-kino-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="nashe-muzshkoe-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/19f72adb59334a8bca124d8a91c669ad.png" catchup-source="http://chopin.af-stream.com/nashe-muzshkoe-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Наше Мужское HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/nashe-muzshkoe-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="trash-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/fb47c1b5a115804cf2b81c400159aca1.png" catchup-source="http://chopin.af-stream.com/trash-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Trash HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/trash-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="russkaja-comedija" tvg-logo="https://af-play.com/storage/images/channel_logos/russkaja-comedija.png" catchup-source="http://chopin.af-stream.com/russkaja-comedija/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Комедия
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/russkaja-comedija/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="kinokomedia-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/6f67cd3a02891dfc6ea2191fe1ab4061.png" catchup-source="http://chopin.af-stream.com/kinokomedia-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Кинокомедия HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/kinokomedia-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="kinopokaz-hd2" tvg-logo="https://af-play.com/storage/images/channel_logos/kinopokaz-hd2.png" catchup-source="http://chopin.af-stream.com/kinopokaz-hd2/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Комедийное HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/kinopokaz-hd2/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="comedy-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/2d2e7d040499ea0e99c3b10e03d78837.png" catchup-source="http://chopin.af-stream.com/comedy-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Камеди HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/comedy-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="amedia-premium" tvg-logo="https://af-play.com/storage/images/channel_logos/amedia-premium.png" catchup-source="http://chopin.af-stream.com/amedia-premium/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Amedia Premium
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/amedia-premium/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="amedia-premium-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/amedia-premium-hd.png" catchup-source="http://chopin.af-stream.com/amedia-premium-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,AMEDIA Premium HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/amedia-premium-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="amedia-hit-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/amedia-hit-hd.png" catchup-source="http://chopin.af-stream.com/amedia-hit-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,AMEDIA HIT HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/amedia-hit-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="amedia1-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/amedia1-hd.png" catchup-source="http://chopin.af-stream.com/amedia1-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,A1 HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/amedia1-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="amedia-2-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/333a3daf3fcc883eab52d87c35479607.png" catchup-source="http://chopin.af-stream.com/amedia-2-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,A2 HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/amedia-2-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="amc" tvg-logo="https://af-play.com/storage/images/pack_logos/2d69670114136dbf04dc417fc2e7621f.png" catchup-source="http://chopin.af-stream.com/amc/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,AMC
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/amc/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="fox-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/fox-hd.png" catchup-source="http://chopin.af-stream.com/fox-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,FOX HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/fox-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="fox-life-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/fox-life-hd.png" catchup-source="http://chopin.af-stream.com/fox-life-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,FOX Life HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/fox-life-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="paramount-channel-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/paramount-channel-hd.png" catchup-source="http://chopin.af-stream.com/paramount-channel-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Paramount Channel HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/paramount-channel-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="paramount-comedy" tvg-logo="https://af-play.com/storage/images/pack_logos/7d3503f82ff6af241a86e9cf6c92859b.png" catchup-source="http://chopin.af-stream.com/paramount-comedy/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Paramount Comedy
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/paramount-comedy/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="paramount-comedy-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/091fe0cb419f5333853a0a3cdd81d3c3.png" catchup-source="http://chopin.af-stream.com/paramount-comedy-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Paramount Comedy HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/paramount-comedy-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="set-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/58794f27daa109cb050cbfe5f915e1da.png" catchup-source="http://chopin.af-stream.com/set-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Red HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/set-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="sony-sci-fi" tvg-logo="https://af-play.com/storage/images/pack_logos/8b86c58df467d693e57af6f6534405a2.png" catchup-source="http://chopin.af-stream.com/sony-sci-fi/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Sci-Fi
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/sony-sci-fi/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="sony-turbo" tvg-logo="https://af-play.com/storage/images/pack_logos/49dc38a25f31abc35f9e5f15c96ac0c3.png" catchup-source="http://chopin.af-stream.com/sony-turbo/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Black
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/sony-turbo/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="tv-xxi" tvg-logo="https://af-play.com/storage/images/channel_logos/tv-xxi.png" catchup-source="http://chopin.af-stream.com/tv-xxi/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,TV XXI
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/tv-xxi/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="mosfilm-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/a842d04a1cf1ff2c1c2b6a650fd09f07.png" catchup-source="http://chopin.af-stream.com/mosfilm-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Мосфильм HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/mosfilm-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="lubimoe-kino" tvg-logo="https://af-play.com/storage/images/channel_logos/lubimoe-kino.png" catchup-source="http://chopin.af-stream.com/lubimoe-kino/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Любимое кино
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/lubimoe-kino/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="rodnoje_kino" tvg-logo="https://af-play.com/storage/images/channel_logos/rodnoje_kino.png" catchup-source="http://chopin.af-stream.com/rodnoje_kino/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Родное кино
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/rodnoje_kino/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="pobeda-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/9ba5065b433b9b0a5ac7a9264113d8fc.png" catchup-source="http://chopin.af-stream.com/pobeda-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Победа HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/pobeda-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="den-pobedy-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/26bb13bac69ef1b761d51f3197f410eb.png" catchup-source="http://chopin.af-stream.com/den-pobedy-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,День Победы HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/den-pobedy-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="nashe-novoe-kino-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/67c9c3b0475f8d103584c948f8bf57e2.png" catchup-source="http://chopin.af-stream.com/nashe-novoe-kino-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Наше новое кино HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/nashe-novoe-kino-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="russkij-bestseller" tvg-logo="https://af-play.com/storage/images/channel_logos/russkij-bestseller.png" catchup-source="http://chopin.af-stream.com/russkij-bestseller/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Русский Бестселлер
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/russkij-bestseller/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="dom-kino" tvg-logo="https://af-play.com/storage/images/channel_logos/dom-kino.png" catchup-source="http://chopin.af-stream.com/dom-kino/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Дом Кино
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/dom-kino/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="dom-kino-premium-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/dom-kino-premium-hd.png" catchup-source="http://chopin.af-stream.com/dom-kino-premium-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Дом Кино Премиум HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/dom-kino-premium-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="russkij-roman-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/55142d88db2d6ad416874fb8283fb6aa.png" catchup-source="http://chopin.af-stream.com/russkij-roman-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Русский Роман HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/russkij-roman-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="russkij-detektiv" tvg-logo="https://af-play.com/storage/images/channel_logos/russkij-detektiv.png" catchup-source="http://chopin.af-stream.com/russkij-detektiv/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Русский Детектив
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/russkij-detektiv/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="russkij-iluzion-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/russkij-iluzion-hd.png" catchup-source="http://chopin.af-stream.com/russkij-iluzion-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Русский Иллюзион HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/russkij-iluzion-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="iluzion-plus-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/iluzion-plus-hd.png" catchup-source="http://chopin.af-stream.com/iluzion-plus-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Иллюзион + HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/iluzion-plus-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="feniks-plus-kino" tvg-logo="https://af-play.com/storage/images/pack_logos/0e2beabae8569859cf267394480197ff.png" catchup-source="http://chopin.af-stream.com/feniks-plus-kino/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Феникс+Кино
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/feniks-plus-kino/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="mir-seriala" tvg-logo="https://af-play.com/storage/images/pack_logos/49773d5b9c2ab21597d554d06c176924.png" catchup-source="http://chopin.af-stream.com/mir-seriala/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Мир Сериала
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/mir-seriala/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="romantichnoe-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/romantika.png" catchup-source="http://chopin.af-stream.com/romantichnoe-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Романтичное HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/romantichnoe-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="pro-lubov-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/fe1e25b0c4745e4d92c0abf971453e4c.png" catchup-source="http://chopin.af-stream.com/pro-lubov-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Про Любовь HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/pro-lubov-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="ntv-hit" tvg-logo="https://af-play.com/storage/images/pack_logos/a4484e962c6c666addeeca7105513dbf.png" catchup-source="http://chopin.af-stream.com/ntv-hit/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,НТВ Хит
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/ntv-hit/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="nostalgia" tvg-logo="https://af-play.com/storage/images/channel_logos/nostalgia.png" catchup-source="http://chopin.af-stream.com/nostalgia/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Ностальгия
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/nostalgia/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="retro" tvg-logo="https://af-play.com/storage/images/pack_logos/d4f0336bd785a082d196bc6751e26f96.png" catchup-source="http://chopin.af-stream.com/retro/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Ретро ТВ
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/retro/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="dorama-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/faa51db507ac48760dda596a19cd5090.png" catchup-source="http://chopin.af-stream.com/dorama-hd/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Дорама HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/dorama-hd/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="bollywood" tvg-logo="https://af-play.com/storage/images/channel_logos/bollywood.png" catchup-source="http://chopin.af-stream.com/bollywood/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Bollywood HD
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/bollywood/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="indija-tv" tvg-logo="https://af-play.com/storage/images/pack_logos/d97f992012ac7cfff149620c72076022.png" catchup-source="http://chopin.af-stream.com/indija-tv/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Индийское Кино
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/indija-tv/video.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="zee-tv" tvg-logo="https://af-play.com/storage/images/pack_logos/82379ba6ba5976ee06f583b62d1d2acf.png" catchup-source="http://chopin.af-stream.com/zee-tv/archive-${start}-${duration}.m3u8?token=ocrd3cv1" tvg-rec="7" catchup-days="7" ,Zee TV
-#EXTGRP:Кино
-http://chopin.af-stream.com:1600/s/ocrd3cv1/zee-tv/video.m3u8
-
-
-#EXTINF:0,Ukrlive
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/1nezalegny-ua/video.m3u8
-#EXTINF:0,Ukrlive HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/1nezalegny-hd-ua/video.m3u8
-#EXTINF:0,24 Канал
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/24tv-ua/video.m3u8
-#EXTINF:0,Украина 24 HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/ukraina-24-hd/video.m3u8
-#EXTINF:0,ЧП Info
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/chptv-ua/video.m3u8
-#EXTINF:0,OBOZ TV HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/oboz-ua-hd/video.m3u8
-#EXTINF:0,НТН
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/ntn/video.m3u8
-#EXTINF:0,НТН HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/ntn-ua-hd/video.m3u8
-#EXTINF:0,ТЕТ
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/tet/video.m3u8
-#EXTINF:0,ТЕТ HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/tet-ua-hd/video.m3u8
-#EXTINF:0,Eспресо TV
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/plus-plus/video.m3u8
-#EXTINF:0,Eспресо TV HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/espresso-ua-hd/video.m3u8
-#EXTINF:0,Прямий
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/tonis-ua/video.m3u8
-#EXTINF:0,Прямий HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/tonis-hd-ua/video.m3u8
-#EXTINF:0,Наш
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/kanal-nash/video.m3u8
-#EXTINF:0,Дом
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/dom-ua/video.m3u8
-#EXTINF:0,K1
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/k1-ua/video.m3u8
-#EXTINF:0,К1 HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/k1-ua-hd/video.m3u8
-#EXTINF:0,K2
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/k2-ua/video.m3u8
-#EXTINF:0,К2 HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/k2-ua-hd/video.m3u8
-#EXTINF:0,Квартал ТВ
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/kvartal-tv-ua/video.m3u8
-#EXTINF:0,5 канал HD UA
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/5kanal-ukraina/video.m3u8
-#EXTINF:0,Enter-фільм
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/enter-film-ua/video.m3u8
-#EXTINF:0,Enter-фильм HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/enter-film-ua-hd/video.m3u8
-#EXTINF:0,Star Cinema HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/star-cinema-ua-hd/video.m3u8
-#EXTINF:0,Star Family HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/star-family-ua-hd/video.m3u8
-#EXTINF:0,Болт HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/bolt-ua-hd/video.m3u8
-#EXTINF:0,ICTV
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/ictv/video.m3u8
-#EXTINF:0,ICTV HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/ictv-ua-hd/video.m3u8
-#EXTINF:0,СТБ
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/stb/video.m3u8
-#EXTINF:0,СТБ HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/stb-ua-hd/video.m3u8
-#EXTINF:0,Перший Національний
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/pervyj-national-ua/video.m3u8
-#EXTINF:0,Перший Національний HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/pervyj-ua-hd/video.m3u8
-#EXTINF:0,Интер
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/inter/video.m3u8
-#EXTINF:0,Интер HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/inter-ua-hd/video.m3u8
-#EXTINF:0,Интер+
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/inter-plus-ua/video.m3u8
-#EXTINF:0,Интер+ HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/inter-plus-ua-hd/video.m3u8
-#EXTINF:0,1+1
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/1-plus-1/video.m3u8
-#EXTINF:0,1+1 HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/1-plus-1-hd/video.m3u8
-#EXTINF:0,2+2
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/2-plus-2-ua/video.m3u8
-#EXTINF:0,2+2 HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/2-plus-2-ua-hd/video.m3u8
-#EXTINF:0,Бигуди
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/bigudi-ua/video.m3u8
-#EXTINF:0,УНІАН
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/unian-tv-ua/video.m3u8
-#EXTINF:0,Уніан HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/unian-hd-ua/video.m3u8
-#EXTINF:0,Новый Канал
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/novij-kanal/video.m3u8
-#EXTINF:0,Новый Канал HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/novyj-kanal-ua-hd/video.m3u8
-#EXTINF:0,Україна
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/trk-ua/video.m3u8
-#EXTINF:0,Україна HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/trk-ua-hd/video.m3u8
-#EXTINF:0,ОЦЕ HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/oce-ua-hd/video.m3u8
-#EXTINF:0,ZOOM
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/zoom-ua/video.m3u8
-#EXTINF:0,ZOOM HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/zoom-ua-hd/video.m3u8
-#EXTINF:0,Мега
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/mega-ua/video.m3u8
-#EXTINF:0,Мега HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/mega-ua-hd/video.m3u8
-#EXTINF:0,НЛО
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/nlo-ua/video.m3u8
-#EXTINF:0,НЛО HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/nlo-ua-hd/video.m3u8
-#EXTINF:0,Индиго
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/indigo-ua/video.m3u8
-#EXTINF:0,Индиго HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/indigo-ua-hd/video.m3u8
-#EXTINF:0,Кус Кус HD
-#EXTGRP:Украина
-http://chopin.af-stream.com:1600/s/mpcclrdg/kus-kus-ua-hd/video.m3u8
