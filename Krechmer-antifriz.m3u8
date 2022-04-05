@@ -26,7 +26,7 @@ http://chopin.af-stream.com:1600/s/yjbir5r4/piatnica-hd/video.m3u8
 #EXTINF:0,Суббота HD
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/yjbir5r4/super-hd/video.m3u8
-#EXTINF:0,RT Док HD
+#EXTINF:0,RT Док
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/yjbir5r4/russia-today-doc-hd/video.m3u8
 #EXTINF:0,Первый канал
@@ -83,16 +83,16 @@ http://chopin.af-stream.com:1600/s/yjbir5r4/perec/video.m3u8
 #EXTINF:0,Че
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/yjbir5r4/4e/video.m3u8
-#EXTINF:0,Звезда
+#EXTINF:0,Телеканал Звезда
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/yjbir5r4/zvezda/video.m3u8
 #EXTINF:0,ТВЦ
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/yjbir5r4/tvc/video.m3u8
-#EXTINF:0,5 канал
+#EXTINF:0,Пятый канал
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/yjbir5r4/5kanal/video.m3u8
-#EXTINF:0,Россия Культура
+#EXTINF:0,Россия-Культура
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/yjbir5r4/rossija-k/video.m3u8
 #EXTINF:0,Сарафан
@@ -104,12 +104,12 @@ http://chopin.af-stream.com:1600/s/yjbir5r4/dozhd/video.m3u8
 #EXTINF:0,RTVi
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/yjbir5r4/rtvi/video.m3u8
-#EXTINF:0,Россия 24
+#EXTINF:0,Россия-24
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/yjbir5r4/rossija24/video.m3u8
-#EXTINF:0,EuroNews
+#EXTINF:0,Euronews
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/yjbir5r4/evronews/video.m3u8
-#EXTINF:0,РБК HD
+#EXTINF:0,РБК-ТВ
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/yjbir5r4/rbk-hd/video.m3u8
