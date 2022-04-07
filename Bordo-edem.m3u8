@@ -1,121 +1,144 @@
 #EXTM3U
 #EXTINF:0,Первый HD
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/2402/index.m3u8
-#EXTINF:0,Россия HD
+http://chopin.af-stream.com:1600/s/iddfwtyy/pervyj-hd/video.m3u8
+#EXTINF:0,Россия 1 HD
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/205/index.m3u8
+http://chopin.af-stream.com:1600/s/iddfwtyy/rossija-hd/video.m3u8
 #EXTINF:0,НТВ HD
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/213/index.m3u8
-#EXTINF:0,Рен ТВ HD
+http://chopin.af-stream.com:1600/s/iddfwtyy/ntv-hd/video.m3u8
+#EXTINF:0,РЕН ТВ HD
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/2024/index.m3u8
+http://chopin.af-stream.com:1600/s/iddfwtyy/ren-tv-hd/video.m3u8
 #EXTINF:0,ТНТ HD
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/237/index.m3u8
+http://chopin.af-stream.com:1600/s/iddfwtyy/tnt-hd/video.m3u8
 #EXTINF:0,ТНТ4 HD
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/6370/index.m3u8
-#EXTINF:0,ТВЦ
+http://chopin.af-stream.com:1600/s/iddfwtyy/tnt4-hd/video.m3u8
+#EXTINF:0,СТС HD
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/520/index.m3u8
+http://chopin.af-stream.com:1600/s/iddfwtyy/ctc-hd/video.m3u8
+#EXTINF:0,ТВ3 HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/tv3-hd/video.m3u8
+#EXTINF:0,Дождь HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/dozhd-hd/video.m3u8
+#EXTINF:0,Пятница HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/piatnica-hd/video.m3u8
+#EXTINF:0,Суббота HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/super-hd/video.m3u8
+#EXTINF:0,Сарафан
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/sarafan/video.m3u8
+
 #EXTINF:0,Первый канал
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/127/index.m3u8
+http://chopin.af-stream.com:1600/s/iddfwtyy/pervyj/video.m3u8
 #EXTINF:0,Первый канал +2
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/714/index.m3u8
+http://chopin.af-stream.com:1600/s/iddfwtyy/pervyj-plus-2/video.m3u8
 #EXTINF:0,Первый канал +4
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/6021/index.m3u8
+http://chopin.af-stream.com:1600/s/iddfwtyy/pervyj-plus-4/video.m3u8
 #EXTINF:0,Первый канал +6
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/6037/index.m3u8
-#EXTINF:0,Первый канал +8
-#EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/6050/index.m3u8
+http://chopin.af-stream.com:1600/s/iddfwtyy/pervyj-plus-7/video.m3u8
+
 #EXTINF:0,Россия 1
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/504/index.m3u8
+http://chopin.af-stream.com:1600/s/iddfwtyy/rossija1/video.m3u8
 #EXTINF:0,Россия-1 +2
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/6011/index.m3u8
+http://chopin.af-stream.com:1600/s/iddfwtyy/rossija1-plus-2/video.m3u8
 #EXTINF:0,Россия-1 +4
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/6022/index.m3u8
+http://chopin.af-stream.com:1600/s/iddfwtyy/rossija1-plus-4/video.m3u8
 #EXTINF:0,Россия-1 +6
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/6038/index.m3u8
-#EXTINF:0,Россия-1 +8
-#EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/6051/index.m3u8
-#EXTINF:0,НТВ
-#EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/501/index.m3u8
+http://chopin.af-stream.com:1600/s/iddfwtyy/rossija1-plus-7/video.m3u8
+
 #EXTINF:0,НТВ +2
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/713/index.m3u8
-#EXTINF:0,ТНТ
+http://chopin.af-stream.com:1600/s/iddfwtyy/ntv-plus-2/video.m3u8
+#EXTINF:0,НТВ +4
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/502/index.m3u8
+http://chopin.af-stream.com:1600/s/iddfwtyy/ntv-plus-4/video.m3u8
+#EXTINF:0,НТВ +6
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/ntv-plus-7/video.m3u8
 #EXTINF:0,ТНТ +2
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/717/index.m3u8
+http://chopin.af-stream.com:1600/s/iddfwtyy/tnt-plus-2/video.m3u8
 #EXTINF:0,ТНТ +4
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/6035/index.m3u8
+http://chopin.af-stream.com:1600/s/iddfwtyy/tnt-plus-4/video.m3u8
 #EXTINF:0,ТНТ +6
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/6049/index.m3u8
+http://chopin.af-stream.com:1600/s/iddfwtyy/tnt-plus-7/video.m3u8
+
+#EXTINF:0,НТВ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/ntv/video.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/TNT/video.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/tvc/video.m3u8
+#EXTINF:0,ТНТ4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/tnt-4/video.m3u8
+#EXTINF:0,РЕН ТВ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/ren-tv/video.m3u8
 #EXTINF:0,ТВ3
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/508/index.m3u8
-#EXTINF:0,Дождь
-#EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/2030/index.m3u8
-#EXTINF:0,RTVi
-#EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/2086/index.m3u8
-#EXTINF:0,Россия-24
-#EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/507/index.m3u8
-#EXTINF:0,Совершенно секретно
-#EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/121/index.m3u8
+http://chopin.af-stream.com:1600/s/iddfwtyy/tv-3/video.m3u8
 #EXTINF:0,СТС
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/506/index.m3u8
+http://chopin.af-stream.com:1600/s/iddfwtyy/CTC/video.m3u8
+#EXTINF:0,Дождь
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/dozhd/video.m3u8
+#EXTINF:0,RTVi
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/rtvi/video.m3u8
+
+#EXTINF:0,СТС Love
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/sts-love/video.m3u8
+#EXTINF:0,Домашний
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/domashnij/video.m3u8
+#EXTINF:0,Перец
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/perec/video.m3u8
+#EXTINF:0,Че
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/4e/video.m3u8
+#EXTINF:0,Пятый канал
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/5kanal/video.m3u8
 #EXTINF:0,Россия-Культура
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/505/index.m3u8
+http://chopin.af-stream.com:1600/s/iddfwtyy/rossija-k/video.m3u8
+#EXTINF:0,Россия-24
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/rossija24/video.m3u8
+#EXTINF:0,Euronews
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/evronews/video.m3u8
+#EXTINF:0,RT Док
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/russia-today-doc-hd/video.m3u8
 #EXTINF:0,РБК-ТВ
 #EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/106/index.m3u8
-#EXTINF:0,Viasat Nature/History HD
-#EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/203/index.m3u8
-#EXTINF:0,Nat Geo Wild HD
-#EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/216/index.m3u8
-#EXTINF:0,24 ДОК
-#EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/512/index.m3u8
-#EXTINF:0,Travel Channel HD
-#EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/233/index.m3u8
-#EXTINF:0,History HD
-#EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/231/index.m3u8
-#EXTINF:0,National Geographic HD
-#EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/230/index.m3u8
-#EXTINF:0,Animal Planet HD
-#EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/218/index.m3u8
-#EXTINF:0,Travel+Adventure HD
-#EXTGRP:Общие
-http://b0232a60.skalkak.pw/iptv/5DHYZVMQMFHDG5/908/index.m3u8
+http://chopin.af-stream.com:1600/s/iddfwtyy/rbk-hd/video.m3u8
 
 
 #EXTINF:0,Eurosport 1 HD
