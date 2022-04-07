@@ -125,13 +125,13 @@ http://chopin.af-stream.com:1600/s/iddfwtyy/4e/video.m3u8
 #EXTINF:0,Пятый канал
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/iddfwtyy/5kanal/video.m3u8
-#EXTINF:0,Россия Культура
+#EXTINF:0,Россия-Культура
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/iddfwtyy/rossija-k/video.m3u8
-#EXTINF:0,Россия 24
+#EXTINF:0,Россия-24
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/iddfwtyy/rossija24/video.m3u8
-#EXTINF:0,EuroNews
+#EXTINF:0,Euronews
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/iddfwtyy/evronews/video.m3u8
 #EXTINF:0,RT Док
