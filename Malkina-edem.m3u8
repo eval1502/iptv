@@ -1,772 +1,785 @@
 #EXTM3U
 #EXTINF:0,Первый HD
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2402/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2402/index.m3u8
 #EXTINF:0,Россия HD
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/205/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/205/index.m3u8
 #EXTINF:0,НТВ HD
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/213/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/213/index.m3u8
 #EXTINF:0,Рен ТВ HD
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2024/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2024/index.m3u8
 #EXTINF:0,ТНТ HD
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/237/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/237/index.m3u8
 #EXTINF:0,ТВ3 HD
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/5033/index.m3u8
-#EXTINF:0,Пятница! HD
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/5033/index.m3u8
+#EXTINF:0,СТС HD
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/5031/index.m3u8
-#EXTINF:0,Суббота HD
-#EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/15118/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6303/index.m3u8
 #EXTINF:0,ТВЦ
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/520/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/520/index.m3u8
+#EXTINF:0,НТВ Сериал
+#EXTGRP:Общие
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/744/index.m3u8
+#EXTINF:0,НТВ-ХИТ
+#EXTGRP:Общие
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/741/index.m3u8
+#EXTINF:0,Пятница! HD
+#EXTGRP:Общие
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/5031/index.m3u8
+#EXTINF:0,Суббота HD
+#EXTGRP:Общие
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/15118/index.m3u8
+
 #EXTINF:0,Первый канал
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/127/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/127/index.m3u8
 #EXTINF:0,Первый канал +2
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/714/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/714/index.m3u8
 #EXTINF:0,Первый канал +4
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6021/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6021/index.m3u8
 #EXTINF:0,Первый канал +6
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6037/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6037/index.m3u8
 #EXTINF:0,Первый канал +8
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6050/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6050/index.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/504/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/504/index.m3u8
 #EXTINF:0,Россия-1 +2
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6011/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6011/index.m3u8
 #EXTINF:0,Россия-1 +4
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6022/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6022/index.m3u8
 #EXTINF:0,Россия-1 +6
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6038/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6038/index.m3u8
 #EXTINF:0,Россия-1 +8
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6051/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6051/index.m3u8
 #EXTINF:0,НТВ
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/501/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/501/index.m3u8
 #EXTINF:0,НТВ +2
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/713/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/713/index.m3u8
 #EXTINF:0,НТВ +4
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6024/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6024/index.m3u8
 #EXTINF:0,НТВ +6
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6039/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6039/index.m3u8
 #EXTINF:0,НТВ +8
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6053/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6053/index.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/502/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/502/index.m3u8
 #EXTINF:0,ТНТ +2
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/717/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/717/index.m3u8
 #EXTINF:0,ТВ3
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/508/index.m3u8
-#EXTINF:0,Дождь
-#EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2030/index.m3u8
-#EXTINF:0,RTVi
-#EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2086/index.m3u8
-#EXTINF:0,Россия-24
-#EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/507/index.m3u8
-#EXTINF:0,Совершенно секретно
-#EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/121/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/508/index.m3u8
 #EXTINF:0,СТС
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/506/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/506/index.m3u8
+#EXTINF:0,ТНТ4 HD
+#EXTGRP:Общие
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6370/index.m3u8
+#EXTINF:0,Дождь
+#EXTGRP:Общие
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2030/index.m3u8
+#EXTINF:0,RTVi
+#EXTGRP:Общие
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2086/index.m3u8
+#EXTINF:0,Россия-24
+#EXTGRP:Общие
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/507/index.m3u8
+#EXTINF:0,Совершенно секретно
+#EXTGRP:Общие
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/121/index.m3u8
 #EXTINF:0,Россия-Культура
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/505/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/505/index.m3u8
 #EXTINF:0,РБК-ТВ
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/106/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/106/index.m3u8
 #EXTINF:0,Viasat Nature/History HD
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/203/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/203/index.m3u8
 #EXTINF:0,Nat Geo Wild HD
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/216/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/216/index.m3u8
 #EXTINF:0,24 ДОК
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/512/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/512/index.m3u8
 #EXTINF:0,Travel Channel HD
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/233/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/233/index.m3u8
 #EXTINF:0,History HD
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/231/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/231/index.m3u8
 #EXTINF:0,National Geographic HD
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/230/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/230/index.m3u8
 #EXTINF:0,Animal Planet HD
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/218/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/218/index.m3u8
 #EXTINF:0,Travel+Adventure HD
 #EXTGRP:Общие
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/908/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/908/index.m3u8
 
 
 #EXTINF:0,Камеди HD
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2441/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2441/index.m3u8
 #EXTINF:0,Кинопремьеры HD
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/13014/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13014/index.m3u8
 #EXTINF:0,Наш Кинопоказ HD
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2434/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2434/index.m3u8
 #EXTINF:0,Дом Кино Премиум HD
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/911/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/911/index.m3u8
 #EXTINF:0,Russian Комедия
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11081/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11081/index.m3u8
 #EXTINF:0,Light сериал RU
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11078/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11078/index.m3u8
 #EXTINF:0,CineMan РуКино
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11013/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11013/index.m3u8
 #EXTINF:0,Русский бестселлер
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/905/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/905/index.m3u8
 #EXTINF:0,Наш Кинороман HD
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/914/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/914/index.m3u8
 #EXTINF:0,Наше Крутое HD
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/915/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/915/index.m3u8
 #EXTINF:0,Русский иллюзион HD
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2114/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2114/index.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2106/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2106/index.m3u8
 #EXTINF:0,НАШЕ НОВОЕ КИНО
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/517/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/517/index.m3u8
 #EXTINF:0,КИНОСЕРИЯ
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/9132/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/9132/index.m3u8
 #EXTINF:0,РОДНОЕ КИНО
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/9127/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/9127/index.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/164/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/164/index.m3u8
 #EXTINF:0,BCU Russian HD
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11041/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11041/index.m3u8
 #EXTINF:0,Русский роман HD
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2076/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2076/index.m3u8
 #EXTINF:0,TV1000 Русское кино
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6388/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6388/index.m3u8
 #EXTINF:0,BTV Афганистан Чечня
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/14037/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/14037/index.m3u8
 #EXTINF:0,минимакс-крутые 90-е HD
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/13040/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13040/index.m3u8
 #EXTINF:0,минимакс-роскино HD
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/13150/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13150/index.m3u8
 #EXTINF:0,VF Сериал
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/13087/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13087/index.m3u8
 #EXTINF:0,BTV Леонид Гайдай
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/14089/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/14089/index.m3u8
 #EXTINF:0,BTV Эльдар Рязанов
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/14090/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/14090/index.m3u8
 #EXTINF:0,BTV Сделано в СССР
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/14039/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/14039/index.m3u8
 #EXTINF:0,BTV Свердловская киностудия
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/14117/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/14117/index.m3u8
 #EXTINF:0,BTV Рижская киностудия
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/14118/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/14118/index.m3u8
 #EXTINF:0,BCU RUSERIAL HD
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11046/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11046/index.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11026/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11026/index.m3u8
 #EXTINF:0,KBC-Страна СССР
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11091/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11091/index.m3u8
 #EXTINF:0,KBC-B.O.B
 #EXTGRP:Кино RU
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/index.m3u8
 
 
 #EXTINF:0,Остросюжетное HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/904/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/904/index.m3u8
 #EXTINF:0,Романтичное HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/5053/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/5053/index.m3u8
 #EXTINF:0,Комедийное HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/912/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/912/index.m3u8
 #EXTINF:0,Хит HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2438/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2438/index.m3u8
 #EXTINF:0,Блокбастер HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2436/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2436/index.m3u8
 #EXTINF:0,КИНОПРЕМЬЕРА HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/224/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/224/index.m3u8
 #EXTINF:0,КИНОХИТ
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/516/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/516/index.m3u8
 #EXTINF:0,КИНОМИКС
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/509/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/509/index.m3u8
 #EXTINF:0,КИНОУЖАС
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2056/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2056/index.m3u8
 #EXTINF:0,КИНОКОМЕДИЯ
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/7248/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/7248/index.m3u8
 #EXTINF:0,КИНОСВИДАНИЕ
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/9238/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/9238/index.m3u8
 #EXTINF:0,КИНОСЕМЬЯ
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/125/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/125/index.m3u8
 #EXTINF:0,КИНО ТВ HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2097/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2097/index.m3u8
 #EXTINF:0,VIP Premiere
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/202/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/202/index.m3u8
 #EXTINF:0,VIP Comedy
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/200/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/200/index.m3u8
 #EXTINF:0,VIP Megahit
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/201/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/201/index.m3u8
 #EXTINF:0,минимакс-007 HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/13009/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13009/index.m3u8
 #EXTINF:0,минимакс-love HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/13010/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13010/index.m3u8
 #EXTINF:0,TV 1000
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/132/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/132/index.m3u8
 #EXTINF:0,TV1000 Action
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/131/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/131/index.m3u8
 #EXTINF:0,TV1000 World Kino
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/1065/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/1065/index.m3u8
 #EXTINF:0,CineMan
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11004/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11004/index.m3u8
 #EXTINF:0,CineMan Top
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11005/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11005/index.m3u8
 #EXTINF:0,CineMan Action
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11006/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11006/index.m3u8
 #EXTINF:0,CineMan Thriller
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11007/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11007/index.m3u8
 #EXTINF:0,CineMan Melodrama
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11008/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11008/index.m3u8
 #EXTINF:0,CineMan Marvel
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11009/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11009/index.m3u8
 #EXTINF:0,CineMan Ужасы
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11010/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11010/index.m3u8
 #EXTINF:0,CineMan Комедия
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11011/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11011/index.m3u8
 #EXTINF:0,CineMan VHS
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11012/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11012/index.m3u8
 #EXTINF:0,BCU Кинозал Premiere 1 HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11015/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11015/index.m3u8
 #EXTINF:0,BCU Кинозал Premiere 2 HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11016/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11016/index.m3u8
 #EXTINF:0,BCU Кинозал Premiere 3 HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11017/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11017/index.m3u8
 #EXTINF:0,BCU Action HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11027/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11027/index.m3u8
 #EXTINF:0,BCU Criminal HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11048/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11048/index.m3u8
 #EXTINF:0,BCU Catastrophe HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11028/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11028/index.m3u8
 #EXTINF:0,BCU Cinema HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11029/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11029/index.m3u8
 #EXTINF:0,BCU Cinema+ HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11030/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11030/index.m3u8
 #EXTINF:0,BCU Comedy HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11031/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11031/index.m3u8
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11032/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11032/index.m3u8
 #EXTINF:0,BCU FilMystic HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11033/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11033/index.m3u8
 #EXTINF:0,BCU History HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11034/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11034/index.m3u8
 #EXTINF:0,BCU Kinorating HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11037/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11037/index.m3u8
 #EXTINF:0,BCU Marvel HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11038/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11038/index.m3u8
 #EXTINF:0,BCU Premiere HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11039/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11039/index.m3u8
 #EXTINF:0,BCU Romantic HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11040/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11040/index.m3u8
 #EXTINF:0,BCU VHS HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11042/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11042/index.m3u8
 #EXTINF:0,BCUMEDIA HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11043/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11043/index.m3u8
 #EXTINF:0,BCU Stars HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11044/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11044/index.m3u8
 #EXTINF:0,BACKUS TV HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11049/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11049/index.m3u8
 #EXTINF:0,BEST Films HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11050/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11050/index.m3u8
 #EXTINF:0,LOST HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11053/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11053/index.m3u8
 #EXTINF:0,Sky2000 HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11054/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11054/index.m3u8
 #EXTINF:0,The X-Files
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11055/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11055/index.m3u8
 #EXTINF:0,Кинозал! ХИТ HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11064/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11064/index.m3u8
 #EXTINF:0,Космо HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11065/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11065/index.m3u8
 #EXTINF:0,СТРАХ HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11069/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11069/index.m3u8
 #EXTINF:0,ФАНТАСТИКА HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11070/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11070/index.m3u8
 #EXTINF:0,Юнит HD
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11071/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11071/index.m3u8
 #EXTINF:0,KBC-Comics
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11073/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11073/index.m3u8
 #EXTINF:0,KBC-Elite comedys
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11074/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11074/index.m3u8
 #EXTINF:0,KBC-Fantastic
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11076/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11076/index.m3u8
 #EXTINF:0,KBC-History
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11077/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11077/index.m3u8
 #EXTINF:0,KBC-Newfilm
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11079/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11079/index.m3u8
 #EXTINF:0,KBC-Premium
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11080/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11080/index.m3u8
 #EXTINF:0,KBC-ГАЙ Ritchie & Tarantino
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11085/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11085/index.m3u8
 #EXTINF:0,KBC-Драма tic
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11086/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11086/index.m3u8
 #EXTINF:0,KBC-Кинотеатр
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11087/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11087/index.m3u8
 #EXTINF:0,KBC-Кошмарное
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11088/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11088/index.m3u8
 #EXTINF:0,KBC-Шпионское
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11093/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11093/index.m3u8
 
 
 #EXTINF:0,Элен и ребята
 #EXTGRP:Детские
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/14119/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/14119/index.m3u8
 #EXTINF:0,Nickelodeon HD
 #EXTGRP:Детские
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/223/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/223/index.m3u8
 #EXTINF:0,KBC-Family Animation
 #EXTGRP:Кино
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/11075/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11075/index.m3u8
 #EXTINF:0,Cartoon Network
 #EXTGRP:Детские
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/143/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/143/index.m3u8
 #EXTINF:0,CTC Kids HD
 #EXTGRP:Детские
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2001/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2001/index.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP:Детские
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/543/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/543/index.m3u8
 #EXTINF:0,Nick Jr
 #EXTGRP:Детские
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/114/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/114/index.m3u8
 #EXTINF:0,Nickelodeon
 #EXTGRP:Детские
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/541/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/541/index.m3u8
 #EXTINF:0,Детский
 #EXTGRP:Детские
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/730/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/730/index.m3u8
 #EXTINF:0,Disney
 #EXTGRP:Детские
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/524/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/524/index.m3u8
 #EXTINF:0,МУЛЬТЗАЛ HD
 #EXTGRP:Детские
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/13066/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13066/index.m3u8
 #EXTINF:0,СССР мультфильм HD
 #EXTGRP:Детские
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/13020/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13020/index.m3u8
 #EXTINF:0,Три кота HD
 #EXTGRP:Детские
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/13057/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13057/index.m3u8
 #EXTINF:0,Ералаш ТВ HD
 #EXTGRP:Детские
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/13071/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13071/index.m3u8
 #EXTINF:0,Чип и Дейл HD
 #EXTGRP:Детские
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/13064/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13064/index.m3u8
 #EXTINF:0,Утиные истории HD
 #EXTGRP:Детские
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/13060/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13060/index.m3u8
 #EXTINF:0,Семейный HD
 #EXTGRP:Детские
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/13098/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13098/index.m3u8
 
 
 #EXTINF:0,1HD
 #EXTGRP:Музыка
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/238/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/238/index.m3u8
 #EXTINF:0,BRIDGE HD
 #EXTGRP:Музыка
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/236/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/236/index.m3u8
 #EXTINF:0,MTV Live HD
 #EXTGRP:Музыка
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/221/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/221/index.m3u8
 #EXTINF:0,Europa Plus TV
 #EXTGRP:Музыка
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/115/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/115/index.m3u8
 #EXTINF:0,RUSONG TV
 #EXTGRP:Музыка
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/120/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/120/index.m3u8
 #EXTINF:0,MTV Hits
 #EXTGRP:Музыка
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/153/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/153/index.m3u8
 #EXTINF:0,Музыка
 #EXTGRP:Музыка
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/155/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/155/index.m3u8
 #EXTINF:0,MTV
 #EXTGRP:Музыка
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/142/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/142/index.m3u8
 #EXTINF:0,MTV Dance
 #EXTGRP:Музыка
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/558/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/558/index.m3u8
 #EXTINF:0,BRIDGE TV DANCE
 #EXTGRP:Музыка
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/711/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/711/index.m3u8
 #EXTINF:0,Jim Jam
 #EXTGRP:Музыка
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/138/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/138/index.m3u8
 
 
 #EXTINF:0,Мир HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/235/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/235/index.m3u8
 #EXTINF:0,Теледом
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/954/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/954/index.m3u8
 #EXTINF:0,Настоящее время
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/986/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/986/index.m3u8
 #EXTINF:0,Travel HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/1043/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/1043/index.m3u8
 #EXTINF:0,XSPORT HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/996/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/996/index.m3u8
 #EXTINF:0,FAST&FUN BOX HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/1018/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/1018/index.m3u8
 #EXTINF:0,Epic Drama
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/1048/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/1048/index.m3u8
 #EXTINF:0,Эврика HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/908/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/908/index.m3u8
 #EXTINF:0,Приключения HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/920/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/920/index.m3u8
 #EXTINF:0,DocuBox HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/968/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/968/index.m3u8
 #EXTINF:0,СТС Kids HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2001/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2001/index.m3u8
 #EXTINF:0,Дикая охота HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2004/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2004/index.m3u8
 #EXTINF:0,Дикая рыбалка HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2005/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2005/index.m3u8
 #EXTINF:0,DTX HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2006/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2006/index.m3u8
 #EXTINF:0,Fine living HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2027/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2027/index.m3u8
 #EXTINF:0,H2 HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2033/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2033/index.m3u8
 #EXTINF:0,Fashion One HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2044/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2044/index.m3u8
 #EXTINF:0,Fashion TV HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2045/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2045/index.m3u8
 #EXTINF:0,A2 HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2046/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2046/index.m3u8
 #EXTINF:0,Discovery HD Showcase
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2058/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2058/index.m3u8
 #EXTINF:0,360° HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2065/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2065/index.m3u8
 #EXTINF:0,Живая природа HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2074/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2074/index.m3u8
 #EXTINF:0,Russian Extreme HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2077/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2077/index.m3u8
 #EXTINF:0,Anyday HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2091/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2091/index.m3u8
 #EXTINF:0,Glazella HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2092/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2092/index.m3u8
 #EXTINF:0,Mute HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2093/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2093/index.m3u8
 #EXTINF:0,Anyday HD 3D
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2094/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2094/index.m3u8
 #EXTINF:0,Glazella HD 3D
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2095/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2095/index.m3u8
 #EXTINF:0,Mute HD 3D
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2096/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2096/index.m3u8
 #EXTINF:0,ID Xtra HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2102/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2102/index.m3u8
 #EXTINF:0,Глазами туриста HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2104/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2104/index.m3u8
 #EXTINF:0,Мир 24 HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2107/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2107/index.m3u8
 #EXTINF:0,БСТ HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2115/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2115/index.m3u8
 #EXTINF:0,Загородный int HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2124/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2124/index.m3u8
 #EXTINF:0,Кухня ТВ HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2127/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2127/index.m3u8
 #EXTINF:0,Точка отрыва HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2128/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2128/index.m3u8
 #EXTINF:0,Жара HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2129/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2129/index.m3u8
 #EXTINF:0,Дорама HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2131/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2131/index.m3u8
 #EXTINF:0,о2тв HD
 #EXTGRP:Разное
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2141/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2141/index.m3u8
 
 #EXTINF:0,ARD HD
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/7233/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/7233/index.m3u8
 #EXTINF:0,ZDF HD
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6059/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6059/index.m3u8
 #EXTINF:0,ProSieben HD
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6057/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6057/index.m3u8
 #EXTINF:0,RTL HD
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6062/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6062/index.m3u8
 #EXTINF:0,RTL 2 HD
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6065/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6065/index.m3u8
 #EXTINF:0,Super RTL HD
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6063/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6063/index.m3u8
 #EXTINF:0,Sat.1 HD
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6060/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6060/index.m3u8
 #EXTINF:0,Kabel Eins HD
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6067/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6067/index.m3u8
 #EXTINF:0,TNT Film HD
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6110/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6110/index.m3u8
 #EXTINF:0,TNT Comedy HD
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6111/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6111/index.m3u8
 #EXTINF:0,TNT Serie HD
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6090/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6090/index.m3u8
 #EXTINF:0,Comedy Central HD
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6081/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6081/index.m3u8
 #EXTINF:0,Disney Cinemagic HD DE
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2485/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2485/index.m3u8
 #EXTINF:0,Universal TV HD DE
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6094/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6094/index.m3u8
 #EXTINF:0,Syfy
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6092/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6092/index.m3u8
 #EXTINF:0,Spiegel Geschichte HD DE
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6091/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6091/index.m3u8
 #EXTINF:0,Deutsche Welle
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/1021/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/1021/index.m3u8
 #EXTINF:0,Motorvision TV
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6112/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6112/index.m3u8
 #EXTINF:0,ProSieben Maxx HD DE
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6058/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6058/index.m3u8
 #EXTINF:0,RTL Nitro HD DE
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/6064/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6064/index.m3u8
 #EXTINF:0,Sky Sport News HD DE
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2477/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2477/index.m3u8
 #EXTINF:0,Sky Sport 1 HD DE
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2478/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2478/index.m3u8
 #EXTINF:0,Sky Sport 2 HD DE
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2479/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2479/index.m3u8
 #EXTINF:0,Sky Sport Bundesliga 1 HD DE
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2480/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2480/index.m3u8
 #EXTINF:0,Sky Sport Austria 1 HD DE
 #EXTGRP:Deutsch TV
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY/2492/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2492/index.m3u8
 
 #EXTINF:0,Матч! Арена HD
 #EXTGRP:Спорт
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY207/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY207/index.m3u8
 #EXTINF:0,Матч! HD
 #EXTGRP:Спорт
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY212/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY212/index.m3u8
 #EXTINF:0,Матч! Игра HD
 #EXTGRP:Спорт
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY225/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY225/index.m3u8
 #EXTINF:0,МАТЧ ПРЕМЬЕР HD
 #EXTGRP:Спорт
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY220/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY220/index.m3u8
 #EXTINF:0,Eurosport 1 HD
 #EXTGRP:Спорт
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY228/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY228/index.m3u8
 #EXTINF:0,Eurosport 2 North-East HD
 #EXTGRP:Спорт
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY234/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY234/index.m3u8
 #EXTINF:0,Матч! Футбол 1 HD
 #EXTGRP:Спорт
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY222/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY222/index.m3u8
 #EXTINF:0,Матч! Футбол 2 HD
 #EXTGRP:Спорт
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY211/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY211/index.m3u8
 #EXTINF:0,Матч! Футбол 3 HD
 #EXTGRP:Спорт
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY206/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY206/index.m3u8
 #EXTINF:0,Viasat Sport HD
 #EXTGRP:Спорт
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY2007/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY2007/index.m3u8
 #EXTINF:0,Setanta Sports 2
 #EXTGRP:Спорт
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY270/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY270/index.m3u8
 #EXTINF:0,Setanta Sports HD
 #EXTGRP:Спорт
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY271/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY271/index.m3u8
 #EXTINF:0,Моторспорт ТВ HD
 #EXTGRP:Спорт
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY2146/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY2146/index.m3u8
 #EXTINF:0,UFC FIGHT PASS
 #EXTGRP:Спорт
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY6554/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY6554/index.m3u8
 #EXTINF:0,BTV Комбат
 #EXTGRP:Спорт
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY14001/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY14001/index.m3u8
 #EXTINF:0,Матч! Боец
 #EXTGRP:Спорт
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY150/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY150/index.m3u8
 #EXTINF:0,UFC ТВ
 #EXTGRP:Спорт
-http://a709ef1b.melpakomn.ru/iptv/6BYCQBT6HX2PNY2000/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY2000/index.m3u8
