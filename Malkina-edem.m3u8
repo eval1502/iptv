@@ -143,27 +143,24 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/908/index.m3u8
 #EXTINF:0,Камеди HD
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2441/index.m3u8
-#EXTINF:0,Кинопремьеры HD
-#EXTGRP:Кино RU
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13014/index.m3u8
 #EXTINF:0,Наш Кинопоказ HD
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2434/index.m3u8
 #EXTINF:0,Дом Кино Премиум HD
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/911/index.m3u8
-#EXTINF:0,Russian Комедия
+#EXTINF:0,KBC-Russian Комедия
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11081/index.m3u8
-#EXTINF:0,Light сериал RU
+#EXTINF:0,KBC-Light сериал RU
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11078/index.m3u8
-#EXTINF:0,CineMan РуКино
-#EXTGRP:Кино RU
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11013/index.m3u8
 #EXTINF:0,Русский бестселлер
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/905/index.m3u8
+#EXTINF:0,CineMan РуКино
+#EXTGRP:Кино RU
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11013/index.m3u8
 #EXTINF:0,Наш Кинороман HD
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/914/index.m3u8
@@ -200,6 +197,9 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6388/index.m3u8
 #EXTINF:0,BTV Афганистан Чечня
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/14037/index.m3u8
+#EXTINF:0,минимакс-newfilm.ru HD
+#EXTGRP:Кино RU
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13014/index.m3u8
 #EXTINF:0,минимакс-крутые 90-е HD
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13040/index.m3u8
