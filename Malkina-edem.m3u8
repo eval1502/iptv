@@ -191,7 +191,7 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11041/index.m3u8
 #EXTINF:0,Русский роман HD
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2076/index.m3u8
-#EXTINF:0,TV1000 Русское кино
+#EXTINF:0,TV 1000 Русское кино
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6388/index.m3u8
 #EXTINF:0,BTV Афганистан Чечня
@@ -209,19 +209,19 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13150/index.m3u8
 #EXTINF:0,VF Сериал
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13087/index.m3u8
-#EXTINF:0,BTV Леонид Гайдай
+#EXTINF:0,VF Леонид Гайдай
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/14089/index.m3u8
-#EXTINF:0,BTV Эльдар Рязанов
+#EXTINF:0,VF Эльдар Рязанов
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/14090/index.m3u8
-#EXTINF:0,BTV Сделано в СССР
+#EXTINF:0,VF Сделано в СССР
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/14039/index.m3u8
-#EXTINF:0,BTV Свердловская киностудия
+#EXTINF:0,VF Свердловская киностудия
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/14117/index.m3u8
-#EXTINF:0,BTV Рижская киностудия
+#EXTINF:0,VF Рижская киностудия
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/14118/index.m3u8
 #EXTINF:0,BCU RUSERIAL HD
@@ -262,9 +262,6 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/516/index.m3u8
 #EXTINF:0,КИНОМИКС
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/509/index.m3u8
-#EXTINF:0,КИНОУЖАС
-#EXTGRP:Кино
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2056/index.m3u8
 #EXTINF:0,КИНОКОМЕДИЯ
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/7248/index.m3u8
@@ -295,12 +292,15 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13010/index.m3u8
 #EXTINF:0,TV 1000
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/132/index.m3u8
-#EXTINF:0,TV1000 Action
+#EXTINF:0,TV 1000 Action
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/131/index.m3u8
 #EXTINF:0,TV1000 World Kino
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/1065/index.m3u8
+#EXTINF:0,Киноужас HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2056/index.m3u8
 #EXTINF:0,CineMan
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11004/index.m3u8
