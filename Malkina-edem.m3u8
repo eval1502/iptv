@@ -444,7 +444,7 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13098/index.m3u8
 #EXTGRP:Детские
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/143/index.m3u8
 #EXTINF:0,СТС Kids HD
-#EXTGRP:Разное
+#EXTGRP:Детские
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2001/index.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP:Детские
@@ -469,6 +469,9 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13020/index.m3u8
 #EXTINF:0,MTV Live HD
 #EXTGRP:Музыка
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/221/index.m3u8
+#EXTINF:0,о2тв HD
+#EXTGRP:Музыка
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2141/index.m3u8
 #EXTINF:0,Europa Plus TV
 #EXTGRP:Музыка
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/115/index.m3u8
@@ -498,12 +501,6 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/711/index.m3u8
 #EXTINF:0,Настоящее время
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/986/index.m3u8
-#EXTINF:0,Trael HD
-#EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/1043/index.m3u8
-#EXTINF:0,Теледоктор
-#EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/512/index.m3u8
 #EXTINF:0,XSPORT HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/996/index.m3u8
@@ -561,9 +558,12 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2124/index.m3u8
 #EXTINF:0,Жара HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2129/index.m3u8
-#EXTINF:0,о2тв HD
+#EXTINF:0,Trael HD
 #EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2141/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/1043/index.m3u8
+#EXTINF:0,Теледоктор
+#EXTGRP:Разное
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/512/index.m3u8
 
 #EXTINF:0,Das Erste HD DE
 #EXTGRP:Deutsch TV
