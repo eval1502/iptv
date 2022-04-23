@@ -383,12 +383,6 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11028/index.m3u8
 #EXTINF:0,BCU TruMotion HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/17054/index.m3u8
-#EXTINF:0,BCU Cinema HD
-#EXTGRP:Кино
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11029/index.m3u8
-#EXTINF:0,BCU Cinema+ HD
-#EXTGRP:Кино
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11030/index.m3u8
 #EXTINF:0,BCU Comedy HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11031/index.m3u8
@@ -422,9 +416,6 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11043/index.m3u8
 #EXTINF:0,BCU Stars HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11044/index.m3u8
-#EXTINF:0,BACKUS TV HD
-#EXTGRP:Кино
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11049/index.m3u8
 #EXTINF:0,BEST Films HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11050/index.m3u8
@@ -440,18 +431,12 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11055/index.m3u8
 #EXTINF:0,Кинозал! ХИТ HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11064/index.m3u8
-#EXTINF:0,Космо HD
-#EXTGRP:Кино
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11065/index.m3u8
 #EXTINF:0,СТРАХ HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11069/index.m3u8
 #EXTINF:0,ФАНТАСТИКА HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11070/index.m3u8
-#EXTINF:0,Юнит HD
-#EXTGRP:Кино
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11071/index.m3u8
 #EXTINF:0,KBC-Comics
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11073/index.m3u8
@@ -470,9 +455,6 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11079/index.m3u8
 #EXTINF:0,KBC-Premium
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11080/index.m3u8
-#EXTINF:0,KBC-ГАЙ Ritchie & Tarantino
-#EXTGRP:Кино
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11085/index.m3u8
 #EXTINF:0,KBC-Драма tic
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11086/index.m3u8
@@ -482,9 +464,7 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11087/index.m3u8
 #EXTINF:0,KBC-Кошмарное
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11088/index.m3u8
-#EXTINF:0,KBC-Шпионское
-#EXTGRP:Кино
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11093/index.m3u8
+
 
 #EXTINF:0,Nickelodeon HD
 #EXTGRP:Детские
@@ -583,6 +563,9 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/1018/index.m3u8
 #EXTINF:0,Эврика HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/908/index.m3u8
+#EXTINF:0,Юнит HD
+#EXTGRP:Разное
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11071/index.m3u8
 #EXTINF:0,Приключения HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/920/index.m3u8
@@ -628,6 +611,9 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/1043/index.m3u8
 #EXTINF:0,Теледоктор
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/512/index.m3u8
+#EXTINF:0,Космо HD
+#EXTGRP:Разное
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11065/index.m3u8
 
 #EXTINF:0,Das Erste HD DE
 #EXTGRP:Deutsch TV
