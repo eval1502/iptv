@@ -182,12 +182,23 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/164/index.m3u8
 #EXTINF:0,BCU Russian HD
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11041/index.m3u8
-#EXTINF:0,Русский роман HD
+#EXTINF:0,TV 1000 Русское кино
 #EXTGRP:Кино RU
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2076/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6388/index.m3u8
+#EXTINF:0,TV 1000 Русское кино HD
+#EXTGRP:Кино RU
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6388/index.m3u8
+
 #EXTINF:0,TV1000 Русское кино
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6388/index.m3u8
+#EXTINF:0,TV1000 Русское кино HD
+#EXTGRP:Кино RU
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6388/index.m3u8
+
+#EXTINF:0,Русский роман HD
+#EXTGRP:Кино RU
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2076/index.m3u8
 #EXTINF:0,минимакс-newfilm.ru HD
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13014/index.m3u8
