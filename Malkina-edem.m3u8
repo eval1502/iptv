@@ -16,7 +16,7 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2024/index.m3u8
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/237/index.m3u8
 #EXTINF:0,ТВ3 HD
 #EXTGRP:Общие
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/5033/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/508/index.m3u8
 #EXTINF:0,СТС HD
 #EXTGRP:Общие
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6303/index.m3u8
@@ -26,7 +26,7 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/520/index.m3u8
 #EXTINF:0,НТВ Сериал
 #EXTGRP:Общие
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/744/index.m3u8
-#EXTINF:0,НТВ-ХИТ
+#EXTINF:0,НТВ-ХИТ orig
 #EXTGRP:Общие
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/741/index.m3u8
 #EXTINF:0,Пятница! HD
@@ -78,9 +78,6 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6024/index.m3u8
 #EXTINF:0,НТВ +6
 #EXTGRP:Общие
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6039/index.m3u8
-#EXTINF:0,НТВ +8
-#EXTGRP:Общие
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6053/index.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP:Общие
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/502/index.m3u8
@@ -120,9 +117,6 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/203/index.m3u8
 #EXTINF:0,Nat Geo Wild HD
 #EXTGRP:Общие
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/216/index.m3u8
-#EXTINF:0,24 ДОК
-#EXTGRP:Общие
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/512/index.m3u8
 #EXTINF:0,Travel Channel HD
 #EXTGRP:Общие
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/233/index.m3u8
@@ -135,7 +129,7 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/230/index.m3u8
 #EXTINF:0,Animal Planet HD
 #EXTGRP:Общие
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/218/index.m3u8
-#EXTINF:0,Travel+Adventure HD
+#EXTINF:0,Travel+Adventure HD orig
 #EXTGRP:Общие
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/908/index.m3u8
 
@@ -194,36 +188,15 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2076/index.m3u8
 #EXTINF:0,TV 1000 Русское кино
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6388/index.m3u8
-#EXTINF:0,BTV Афганистан Чечня
-#EXTGRP:Кино RU
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/14037/index.m3u8
 #EXTINF:0,минимакс-newfilm.ru HD
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13014/index.m3u8
 #EXTINF:0,минимакс-крутые 90-е HD
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13040/index.m3u8
-#EXTINF:0,минимакс-роскино HD
-#EXTGRP:Кино RU
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13150/index.m3u8
 #EXTINF:0,VF Сериал
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13087/index.m3u8
-#EXTINF:0,VF Леонид Гайдай
-#EXTGRP:Кино RU
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/14089/index.m3u8
-#EXTINF:0,VF Эльдар Рязанов
-#EXTGRP:Кино RU
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/14090/index.m3u8
-#EXTINF:0,VF Сделано в СССР
-#EXTGRP:Кино RU
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/14039/index.m3u8
-#EXTINF:0,VF Свердловская киностудия
-#EXTGRP:Кино RU
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/14117/index.m3u8
-#EXTINF:0,VF Рижская киностудия
-#EXTGRP:Кино RU
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/14118/index.m3u8
 #EXTINF:0,BCU RUSERIAL HD
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11046/index.m3u8
@@ -233,9 +206,6 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11026/index.m3u8
 #EXTINF:0,KBC-Страна СССР
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11091/index.m3u8
-#EXTINF:0,KBC-B.O.B
-#EXTGRP:Кино RU
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/index.m3u8
 
 
 #EXTINF:0,Остросюжетное HD
@@ -538,6 +508,9 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/986/index.m3u8
 #EXTINF:0,Trael HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/1043/index.m3u8
+#EXTINF:0,Теледоктор
+#EXTGRP:Разное
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/512/index.m3u8
 #EXTINF:0,XSPORT HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/996/index.m3u8
