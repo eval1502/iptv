@@ -438,7 +438,7 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11093/index.m3u8
 #EXTGRP:Детские
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/223/index.m3u8
 #EXTINF:0,KBC-Family Animation
-#EXTGRP:Кино
+#EXTGRP:Детские
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11075/index.m3u8
 #EXTINF:0,UZ МУЛЬТЗАЛ HD
 #EXTGRP:Детские
@@ -640,12 +640,6 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2478/index.m3u8
 #EXTINF:0,Sky Sport 2 HD DE
 #EXTGRP:Deutsch TV
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2479/index.m3u8
-#EXTINF:0,Sky Sport Bundesliga 1 HD DE
-#EXTGRP:Deutsch TV
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2480/index.m3u8
-#EXTINF:0,Sport 1 HD DE
-#EXTGRP:Deutsch TV
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2503/index.m3u8
 
 #EXTINF:0,Матч! Арена HD
 #EXTGRP:Спорт
