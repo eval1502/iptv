@@ -132,6 +132,12 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/218/index.m3u8
 #EXTINF:0,Travel+Adventure HD
 #EXTGRP:Общие
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/908/index.m3u8
+#EXTINF:0,Discovery Channel HD
+#EXTGRP:Общие
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/227/index.m3u8
+#EXTINF:0,Планета HD
+#EXTGRP:Общие
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2090/index.m3u8
 
 
 #EXTINF:0,Камеди HD
@@ -689,6 +695,6 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/14001/index.m3u8
 #EXTINF:0,Матч! Боец
 #EXTGRP:Спорт
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/150/index.m3u8
-#EXTINF:0,UFC ТВ
+#EXTINF:0,UFC HD orig
 #EXTGRP:Спорт
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2000/index.m3u8
