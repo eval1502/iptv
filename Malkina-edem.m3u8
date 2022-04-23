@@ -16,7 +16,7 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2024/index.m3u8
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/237/index.m3u8
 #EXTINF:0,ТВ3 HD
 #EXTGRP:Общие
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/508/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/5033/index.m3u8
 #EXTINF:0,СТС HD
 #EXTGRP:Общие
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6303/index.m3u8
@@ -111,6 +111,9 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/505/index.m3u8
 #EXTINF:0,РБК-ТВ
 #EXTGRP:Общие
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/106/index.m3u8
+#EXTINF:0,Мир 24 HD
+#EXTGRP:Общие
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2107/index.m3u8
 #EXTINF:0,Viasat Nature/History HD
 #EXTGRP:Общие
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/203/index.m3u8
@@ -129,6 +132,9 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/230/index.m3u8
 #EXTINF:0,Animal Planet HD
 #EXTGRP:Общие
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/218/index.m3u8
+#EXTINF:0,В мире животных HD
+#EXTGRP:Общие
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2089/index.m3u8
 #EXTINF:0,Travel+Adventure HD
 #EXTGRP:Общие
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/908/index.m3u8
@@ -140,9 +146,7 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/227/index.m3u8
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2090/index.m3u8
 
 
-#EXTINF:0,Камеди HD
-#EXTGRP:Кино RU
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2441/index.m3u8
+
 #EXTINF:0,Наш Кинопоказ HD
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2434/index.m3u8
@@ -158,12 +162,18 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11078/index.m3u8
 #EXTINF:0,Русский бестселлер
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/905/index.m3u8
+#EXTINF:0,РуКино HD
+#EXTGRP:Кино RU
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11096/index.m3u8
 #EXTINF:0,CineMan РуКино
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11013/index.m3u8
 #EXTINF:0,Душевное кино HD
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/914/index.m3u8
+#EXTINF:0,Наше Мужское HD
+#EXTGRP:Кино RU
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2440/index.m3u8
 #EXTINF:0,Наше Крутое HD
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/915/index.m3u8
@@ -173,6 +183,9 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2114/index.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2106/index.m3u8
+#EXTINF:0,Serial HD
+#EXTGRP:Кино RU
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11101/index.m3u8
 #EXTINF:0,НАШЕ НОВОЕ КИНО
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/517/index.m3u8
@@ -212,8 +225,14 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11026/index.m3u8
 #EXTINF:0,KBC-Страна СССР
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11091/index.m3u8
+#EXTINF:0,День Победы HD
+#EXTGRP:Кино RU
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/5054/index.m3u8
 
 
+#EXTINF:0,Камеди HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2441/index.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/904/index.m3u8
@@ -223,12 +242,21 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/5053/index.m3u8
 #EXTINF:0,Комедийное HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/912/index.m3u8
+#EXTINF:0,Про Любовь HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2430/index.m3u8
+#EXTINF:0,Премиальное HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/10017/index.m3u8
 #EXTINF:0,Хит HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2438/index.m3u8
 #EXTINF:0,Блокбастер HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2436/index.m3u8
+#EXTINF:0,Thriller HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11099/index.m3u8
 #EXTINF:0,КИНОПРЕМЬЕРА HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/224/index.m3u8
@@ -259,6 +287,9 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/200/index.m3u8
 #EXTINF:0,VIP Megahit
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/201/index.m3u8
+#EXTINF:0,VIP Serial HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2443/index.m3u8
 #EXTINF:0,минимакс-007 HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13009/index.m3u8
@@ -274,18 +305,33 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6384/index.m3u8
 #EXTINF:0,TV1000 World Kino
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/1065/index.m3u8
+#EXTINF:0,Fox Life HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6389/index.m3u8
 #EXTINF:0,Epic Drama
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/1048/index.m3u8
 #EXTINF:0,Дорама HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2131/index.m3u8
+#EXTINF:0,ID Xtra HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2102/index.m3u8
 #EXTINF:0,A2 HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2046/index.m3u8
+#EXTINF:0,Мужское Кино HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/10045/index.m3u8
+#EXTINF:0,Капитан Фантастика HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/10046/index.m3u8
 #EXTINF:0,Киноужас HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2056/index.m3u8
+#EXTINF:0,Шокирующее HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6299/index.m3u8
 #EXTINF:0,CineMan
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11004/index.m3u8
@@ -328,9 +374,15 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11027/index.m3u8
 #EXTINF:0,BCU Criminal HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11048/index.m3u8
+#EXTINF:0,BCU Survival HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/17019/index.m3u8
 #EXTINF:0,BCU Catastrophe HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11028/index.m3u8
+#EXTINF:0,BCU TruMotion HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/17054/index.m3u8
 #EXTINF:0,BCU Cinema HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11029/index.m3u8
@@ -475,6 +527,18 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13020/index.m3u8
 #EXTINF:0,MTV Live HD
 #EXTGRP:Музыка
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/221/index.m3u8
+#EXTINF:0,Жара HD
+#EXTGRP:Музыка
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2129/index.m3u8
+#EXTINF:0,Первый музыкальный FULL HD
+#EXTGRP:Музыка
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/14142/index.m3u8
+#EXTINF:0,Первый музыкальный FHD (Бел)
+#EXTGRP:Музыка
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/14144/index.m3u8
+#EXTINF:0,Илья ТВ Музыка HD
+#EXTGRP:Музыка
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11105/index.m3u8
 #EXTINF:0,о2тв HD
 #EXTGRP:Музыка
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2141/index.m3u8
@@ -507,6 +571,9 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/711/index.m3u8
 #EXTINF:0,Настоящее время
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/986/index.m3u8
+#EXTINF:0,Арсенал HD
+#EXTGRP:Разное
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/5044/index.m3u8
 #EXTINF:0,XSPORT HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/996/index.m3u8
@@ -546,25 +613,16 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2074/index.m3u8
 #EXTINF:0,Russian Extreme HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2077/index.m3u8
-#EXTINF:0,ID Xtra HD
-#EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2102/index.m3u8
 #EXTINF:0,Глазами туриста HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2104/index.m3u8
-#EXTINF:0,Мир 24 HD
-#EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2107/index.m3u8
 #EXTINF:0,БСТ HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2115/index.m3u8
 #EXTINF:0,Загородный int HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2124/index.m3u8
-#EXTINF:0,Жара HD
-#EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2129/index.m3u8
-#EXTINF:0,Trael HD
+#EXTINF:0,Travel HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/1043/index.m3u8
 #EXTINF:0,Теледоктор
@@ -653,6 +711,9 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/10014/index.m3u8
 #EXTINF:0,МАТЧ ПРЕМЬЕР HD
 #EXTGRP:Спорт
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/220/index.m3u8
+#EXTINF:0,Старт HD
+#EXTGRP:Спорт
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6384/index.m3u8
 #EXTINF:0,Eurosport 1 HD
 #EXTGRP:Спорт
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/228/index.m3u8
