@@ -455,9 +455,9 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/114/index.m3u8
 #EXTINF:0,Nickelodeon
 #EXTGRP:Детские
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/541/index.m3u8
-#EXTINF:0,Детский мир
+#EXTINF:0,Jim Jam
 #EXTGRP:Детские
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/730/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/138/index.m3u8
 #EXTINF:0,Disney
 #EXTGRP:Детские
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/524/index.m3u8
@@ -466,12 +466,6 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/524/index.m3u8
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13020/index.m3u8
 
 
-#EXTINF:0,1HD
-#EXTGRP:Музыка
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/238/index.m3u8
-#EXTINF:0,BRIDGE HD
-#EXTGRP:Музыка
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/236/index.m3u8
 #EXTINF:0,MTV Live HD
 #EXTGRP:Музыка
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/221/index.m3u8
@@ -493,13 +487,12 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/142/index.m3u8
 #EXTINF:0,MTV Dance
 #EXTGRP:Музыка
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/558/index.m3u8
+#EXTINF:0,BRIDGE HD
+#EXTGRP:Музыка
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/236/index.m3u8
 #EXTINF:0,BRIDGE TV DANCE
 #EXTGRP:Музыка
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/711/index.m3u8
-#EXTINF:0,Jim Jam
-#EXTGRP:Музыка
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/138/index.m3u8
-
 
 
 #EXTINF:0,Настоящее время
