@@ -298,6 +298,15 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6384/index.m3u8
 #EXTINF:0,TV1000 World Kino
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/1065/index.m3u8
+#EXTINF:0,Epic Drama
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/1048/index.m3u8
+#EXTINF:0,Дорама HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2131/index.m3u8
+#EXTINF:0,A2 HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2046/index.m3u8
 #EXTINF:0,Киноужас HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2056/index.m3u8
@@ -464,8 +473,8 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13098/index.m3u8
 #EXTINF:0,Cartoon Network
 #EXTGRP:Детские
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/143/index.m3u8
-#EXTINF:0,CTC Kids HD
-#EXTGRP:Детские
+#EXTINF:0,СТС Kids HD
+#EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2001/index.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP:Детские
@@ -476,7 +485,7 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/114/index.m3u8
 #EXTINF:0,Nickelodeon
 #EXTGRP:Детские
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/541/index.m3u8
-#EXTINF:0,Детский
+#EXTINF:0,Детский мир
 #EXTGRP:Детские
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/730/index.m3u8
 #EXTINF:0,Disney
@@ -522,16 +531,11 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/711/index.m3u8
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/138/index.m3u8
 
 
-#EXTINF:0,Мир HD
-#EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/235/index.m3u8
-#EXTINF:0,Теледом
-#EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/954/index.m3u8
+
 #EXTINF:0,Настоящее время
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/986/index.m3u8
-#EXTINF:0,Travel HD
+#EXTINF:0,Trael HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/1043/index.m3u8
 #EXTINF:0,XSPORT HD
@@ -540,9 +544,6 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/996/index.m3u8
 #EXTINF:0,FAST&FUN BOX HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/1018/index.m3u8
-#EXTINF:0,Epic Drama
-#EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/1048/index.m3u8
 #EXTINF:0,Эврика HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/908/index.m3u8
@@ -552,21 +553,12 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/920/index.m3u8
 #EXTINF:0,DocuBox HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/968/index.m3u8
-#EXTINF:0,СТС Kids HD
-#EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2001/index.m3u8
 #EXTINF:0,Дикая охота HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2004/index.m3u8
 #EXTINF:0,Дикая рыбалка HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2005/index.m3u8
-#EXTINF:0,DTX HD
-#EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2006/index.m3u8
-#EXTINF:0,Fine living HD
-#EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2027/index.m3u8
 #EXTINF:0,H2 HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2033/index.m3u8
@@ -576,12 +568,6 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2044/index.m3u8
 #EXTINF:0,Fashion TV HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2045/index.m3u8
-#EXTINF:0,A2 HD
-#EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2046/index.m3u8
-#EXTINF:0,Discovery HD Showcase
-#EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2058/index.m3u8
 #EXTINF:0,360° HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2065/index.m3u8
@@ -591,24 +577,6 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2074/index.m3u8
 #EXTINF:0,Russian Extreme HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2077/index.m3u8
-#EXTINF:0,Anyday HD
-#EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2091/index.m3u8
-#EXTINF:0,Glazella HD
-#EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2092/index.m3u8
-#EXTINF:0,Mute HD
-#EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2093/index.m3u8
-#EXTINF:0,Anyday HD 3D
-#EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2094/index.m3u8
-#EXTINF:0,Glazella HD 3D
-#EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2095/index.m3u8
-#EXTINF:0,Mute HD 3D
-#EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2096/index.m3u8
 #EXTINF:0,ID Xtra HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2102/index.m3u8
@@ -624,18 +592,9 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2115/index.m3u8
 #EXTINF:0,Загородный int HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2124/index.m3u8
-#EXTINF:0,Кухня ТВ HD
-#EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2127/index.m3u8
-#EXTINF:0,Точка отрыва HD
-#EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2128/index.m3u8
 #EXTINF:0,Жара HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2129/index.m3u8
-#EXTINF:0,Дорама HD
-#EXTGRP:Разное
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2131/index.m3u8
 #EXTINF:0,о2тв HD
 #EXTGRP:Разное
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2141/index.m3u8
