@@ -191,7 +191,7 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11041/index.m3u8
 #EXTINF:0,Русский роман HD
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2076/index.m3u8
-#EXTINF:0,TV 1000 Русское кино
+#EXTINF:0,TV 1000 Русское кино HD
 #EXTGRP:Кино RU
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6388/index.m3u8
 #EXTINF:0,BTV Афганистан Чечня
@@ -289,12 +289,12 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13009/index.m3u8
 #EXTINF:0,минимакс-love HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13010/index.m3u8
-#EXTINF:0,TV 1000
+#EXTINF:0,TV 1000 HD
 #EXTGRP:Кино
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/132/index.m3u8
-#EXTINF:0,TV 1000 Action
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6387/index.m3u8
+#EXTINF:0,TV 1000 Action HD
 #EXTGRP:Кино
-http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/131/index.m3u8
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6384/index.m3u8
 #EXTINF:0,TV1000 World Kino
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/1065/index.m3u8
