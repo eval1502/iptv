@@ -39,7 +39,7 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/15118/index.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP:Общие
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/127/index.m3u8
-#EXTINF:0,Первый канал +2
+#EXTINF:0,Первый канал (+2)
 #EXTGRP:Общие
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/714/index.m3u8
 #EXTINF:0,Первый канал +4
@@ -69,7 +69,7 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6051/index.m3u8
 #EXTINF:0,НТВ
 #EXTGRP:Общие
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/501/index.m3u8
-#EXTINF:0,НТВ +2
+#EXTINF:0,НТВ (+2)
 #EXTGRP:Общие
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/713/index.m3u8
 #EXTINF:0,НТВ +4
