@@ -102,6 +102,12 @@ http://2528ba8d.rossteleccom.net/iptv/SRK3B2A7U2TNXM/2044/index.m3u8
 #EXTINF:0,World Fashion Channel
 #EXTGRP:Общие
 http://2528ba8d.rossteleccom.net/iptv/SRK3B2A7U2TNXM/1068/index.m3u8
+#EXTINF:0,В мире животных HD
+#EXTGRP:Общие
+http://2528ba8d.rossteleccom.net/iptv/SRK3B2A7U2TNXM/2089/index.m3u8
+#EXTINF:0,Discovery Channel HD
+#EXTGRP:Общие
+http://2528ba8d.rossteleccom.net/iptv/SRK3B2A7U2TNXM/227/index.m3u8
 
 #EXTINF:0,Первый HD
 #EXTGRP:Общие 2
@@ -555,9 +561,6 @@ http://2528ba8d.rossteleccom.net/iptv/SRK3B2A7U2TNXM/11079/index.m3u8
 #EXTINF:0,KBC-Premium
 #EXTGRP:Кино
 http://2528ba8d.rossteleccom.net/iptv/SRK3B2A7U2TNXM/11080/index.m3u8
-#EXTINF:0,KBC-ГАЙ Ritchie & Tarantino
-#EXTGRP:Кино
-http://2528ba8d.rossteleccom.net/iptv/SRK3B2A7U2TNXM/11085/index.m3u8
 #EXTINF:0,KBC-Драма tic
 #EXTGRP:Кино
 http://2528ba8d.rossteleccom.net/iptv/SRK3B2A7U2TNXM/11086/index.m3u8
