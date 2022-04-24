@@ -20,6 +20,15 @@ http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/6303/index.m3u8
 #EXTINF:0,ТВЦ
 #EXTGRP:Общие
 http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/520/index.m3u8
+#EXTINF:0,Домашний
+#EXTGRP:Общие
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/516/index.m3u8
+#EXTINF:0,ZEE TV
+#EXTGRP:Общие
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/1001/index.m3u8
+#EXTINF:0,ИНДИЙСКОЕ КИНО
+#EXTGRP:Общие
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/744/index.m3u8
 #EXTINF:0,НТВ Сериал
 #EXTGRP:Общие
 http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/744/index.m3u8
