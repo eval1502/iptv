@@ -14,6 +14,9 @@ http://2528ba8d.rossteleccom.net/iptv/SC7HTXKUGNSRG6/2024/index.m3u8
 #EXTINF:0,ТНТ HD
 #EXTGRP:Общие
 http://2528ba8d.rossteleccom.net/iptv/SC7HTXKUGNSRG6/237/index.m3u8
+#EXTINF:0,СТС HD
+#EXTGRP:Общие
+http://2528ba8d.rossteleccom.net/iptv/SC7HTXKUGNSRG6/6303/index.m3u8
 #EXTINF:0,ТВ3 HD
 #EXTGRP:Общие
 http://2528ba8d.rossteleccom.net/iptv/SC7HTXKUGNSRG6/5033/index.m3u8
