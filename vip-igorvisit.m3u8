@@ -20,15 +20,6 @@ http://c3h5cjkd.russtv.net/iptv/HK2XAWLDUPSGES/6370/index.m3u8
 #EXTINF:0,СТС HD
 #EXTGRP:Общие
 http://c3h5cjkd.russtv.net/iptv/HK2XAWLDUPSGES/6303/index.m3u8
-#EXTINF:0,ТВЦ
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/HK2XAWLDUPSGES/520/index.m3u8
-#EXTINF:0,НТВ Сериал
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/HK2XAWLDUPSGES/744/index.m3u8
-#EXTINF:0,НТВ-ХИТ
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/HK2XAWLDUPSGES/741/index.m3u8
 #EXTINF:0,Пятница! HD
 #EXTGRP:Общие
 http://c3h5cjkd.russtv.net/iptv/HK2XAWLDUPSGES/5031/index.m3u8
@@ -84,12 +75,21 @@ http://c3h5cjkd.russtv.net/iptv/HK2XAWLDUPSGES/502/index.m3u8
 #EXTINF:0,ТНТ +2
 #EXTGRP:Общие
 http://c3h5cjkd.russtv.net/iptv/HK2XAWLDUPSGES/717/index.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:Общие
+http://c3h5cjkd.russtv.net/iptv/HK2XAWLDUPSGES/520/index.m3u8
 #EXTINF:0,ТВ3
 #EXTGRP:Общие
 http://c3h5cjkd.russtv.net/iptv/HK2XAWLDUPSGES/508/index.m3u8
 #EXTINF:0,СТС
 #EXTGRP:Общие
 http://c3h5cjkd.russtv.net/iptv/HK2XAWLDUPSGES/506/index.m3u8
+#EXTINF:0,НТВ Сериал
+#EXTGRP:Общие
+http://c3h5cjkd.russtv.net/iptv/HK2XAWLDUPSGES/744/index.m3u8
+#EXTINF:0,НТВ-ХИТ
+#EXTGRP:Общие
+http://c3h5cjkd.russtv.net/iptv/HK2XAWLDUPSGES/741/index.m3u8
 #EXTINF:0,Дождь
 #EXTGRP:Общие
 http://c3h5cjkd.russtv.net/iptv/HK2XAWLDUPSGES/2030/index.m3u8
