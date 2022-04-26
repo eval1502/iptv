@@ -317,6 +317,9 @@ http://c3h5cjkd.russtv.net/iptv/HK2XAWLDUPSGES/2102/index.m3u8
 #EXTINF:0,A2 HD
 #EXTGRP:Кино
 http://c3h5cjkd.russtv.net/iptv/HK2XAWLDUPSGES/2046/index.m3u8
+#EXTINF:0,MTV
+#EXTGRP:Кино
+http://c3h5cjkd.russtv.net/iptv/HK2XAWLDUPSGES/142/index.m3u8
 #EXTINF:0,Мужское Кино HD
 #EXTGRP:Кино
 http://c3h5cjkd.russtv.net/iptv/HK2XAWLDUPSGES/10045/index.m3u8
@@ -534,9 +537,6 @@ http://c3h5cjkd.russtv.net/iptv/HK2XAWLDUPSGES/153/index.m3u8
 #EXTINF:0,Музыка
 #EXTGRP:Музыка
 http://c3h5cjkd.russtv.net/iptv/HK2XAWLDUPSGES/155/index.m3u8
-#EXTINF:0,MTV
-#EXTGRP:Музыка
-http://c3h5cjkd.russtv.net/iptv/HK2XAWLDUPSGES/142/index.m3u8
 #EXTINF:0,MTV Dance
 #EXTGRP:Музыка
 http://c3h5cjkd.russtv.net/iptv/HK2XAWLDUPSGES/558/index.m3u8
