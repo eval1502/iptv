@@ -189,9 +189,6 @@ http://c3h5cjkd.russtv.net/iptv/Y9P8UVSWBPLU2Q/9132/index.m3u8
 #EXTINF:0,РОДНОЕ КИНО
 #EXTGRP:Кино RU
 http://c3h5cjkd.russtv.net/iptv/Y9P8UVSWBPLU2Q/9127/index.m3u8
-#EXTINF:0,МУЖСКОЕ КИНО
-#EXTGRP:Кино RU
-http://c3h5cjkd.russtv.net/iptv/Y9P8UVSWBPLU2Q/164/index.m3u8
 #EXTINF:0,BCU Russian HD
 #EXTGRP:Кино RU
 http://c3h5cjkd.russtv.net/iptv/Y9P8UVSWBPLU2Q/11041/index.m3u8
@@ -251,6 +248,9 @@ http://c3h5cjkd.russtv.net/iptv/Y9P8UVSWBPLU2Q/2436/index.m3u8
 #EXTINF:0,Thriller HD
 #EXTGRP:Кино
 http://c3h5cjkd.russtv.net/iptv/Y9P8UVSWBPLU2Q/11099/index.m3u8
+#EXTINF:0,МУЖСКОЕ КИНО
+#EXTGRP:Кино
+http://c3h5cjkd.russtv.net/iptv/Y9P8UVSWBPLU2Q/164/index.m3u8
 #EXTINF:0,КИНОПРЕМЬЕРА HD
 #EXTGRP:Кино
 http://c3h5cjkd.russtv.net/iptv/Y9P8UVSWBPLU2Q/224/index.m3u8
