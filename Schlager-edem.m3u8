@@ -646,6 +646,9 @@ http://124a0cdf.ucomist.net/iptv/M7Z7AB4M623FTX/6060/index.m3u8
 #EXTINF:0,Kabel Eins HD DE
 #EXTGRP:Deutsch TV
 http://124a0cdf.ucomist.net/iptv/M7Z7AB4M623FTX/6067/index.m3u8
+#EXTINF:0,ProSieben Maxx HD DE
+#EXTGRP:Deutsch TV
+http://124a0cdf.ucomist.net/iptv/M7Z7AB4M623FTX/6058/index.m3u8
 #EXTINF:0,TNT Film HD DE
 #EXTGRP:Deutsch TV
 http://124a0cdf.ucomist.net/iptv/M7Z7AB4M623FTX/6110/index.m3u8
@@ -655,9 +658,6 @@ http://124a0cdf.ucomist.net/iptv/M7Z7AB4M623FTX/6111/index.m3u8
 #EXTINF:0,TNT Serie HD DE
 #EXTGRP:Deutsch TV
 http://124a0cdf.ucomist.net/iptv/M7Z7AB4M623FTX/6090/index.m3u8
-#EXTINF:0,Comedy Central HD DE
-#EXTGRP:Deutsch TV
-http://124a0cdf.ucomist.net/iptv/M7Z7AB4M623FTX/6081/index.m3u8
 #EXTINF:0,Sky Cinema Action HD
 #EXTGRP:Deutsch TV
 http://124a0cdf.ucomist.net/iptv/M7Z7AB4M623FTX/2482/index.m3u8
@@ -706,9 +706,6 @@ http://124a0cdf.ucomist.net/iptv/M7Z7AB4M623FTX/1021/index.m3u8
 #EXTINF:0,Motorvision TV DE
 #EXTGRP:Deutsch TV
 http://124a0cdf.ucomist.net/iptv/M7Z7AB4M623FTX/6112/index.m3u8
-#EXTINF:0,ProSieben Maxx HD DE
-#EXTGRP:Deutsch TV
-http://124a0cdf.ucomist.net/iptv/M7Z7AB4M623FTX/6058/index.m3u8
 #EXTINF:0,RTL Nitro HD DE
 #EXTGRP:Deutsch TV
 http://124a0cdf.ucomist.net/iptv/M7Z7AB4M623FTX/6064/index.m3u8
