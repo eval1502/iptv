@@ -20,6 +20,9 @@ http://c3h5cjkd.russtv.net/iptv/LP8EKLUVQ3DG8F/6370/index.m3u8
 #EXTINF:0,СТС HD
 #EXTGRP:Общие
 http://c3h5cjkd.russtv.net/iptv/LP8EKLUVQ3DG8F/6303/index.m3u8
+#EXTINF:0,ТВ3 HD
+#EXTGRP:Общие
+http://c3h5cjkd.russtv.net/iptv/LP8EKLUVQ3DG8F/5033/index.m3u8
 #EXTINF:0,Пятница! HD
 #EXTGRP:Общие
 http://c3h5cjkd.russtv.net/iptv/LP8EKLUVQ3DG8F/5031/index.m3u8
