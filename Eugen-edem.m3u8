@@ -17,6 +17,9 @@ http://chopin.af-stream.com:1600/s/iddfwtyy/tnt-hd/video.m3u8
 #EXTINF:0,ТНТ4 HD
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/iddfwtyy/tnt4-hd/video.m3u8
+#EXTINF:0,ТВЦ HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/iddfwtyy/tvc-hd/video.m3u8
 #EXTINF:0,СТС HD
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/iddfwtyy/ctc-hd/video.m3u8
