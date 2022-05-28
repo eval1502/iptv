@@ -142,7 +142,9 @@ http://chopin.af-stream.com:1600/s/iddfwtyy/russia-today-doc-hd/video.m3u8
 #EXTINF:0,РБК-ТВ
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/iddfwtyy/rbk-hd/video.m3u8
-
+#EXTINF:0,ZDF HD DE
+#EXTGRP:Общие
+http://3937a675.ucomist.net/iptv/CSH72639YB5Z5E/6059/index.m3u8
 
 #EXTINF:0,Eurosport 1 HD
 #EXTGRP:Спорт
