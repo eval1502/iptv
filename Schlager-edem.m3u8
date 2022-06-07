@@ -242,6 +242,9 @@ http://124a0cdf.ucomist.net/iptv/M7Z7AB4M623FTX/912/index.m3u8
 #EXTINF:0,Про Любовь HD
 #EXTGRP:Кино
 http://124a0cdf.ucomist.net/iptv/M7Z7AB4M623FTX/2430/index.m3u8
+#EXTINF:0,Премиальное HD
+#EXTGRP:Кино
+http://124a0cdf.ucomist.net/iptv/M7Z7AB4M623FTX/10017/index.m3u8
 #EXTINF:0,Хит HD
 #EXTGRP:Кино
 http://124a0cdf.ucomist.net/iptv/M7Z7AB4M623FTX/2438/index.m3u8
@@ -478,9 +481,6 @@ http://124a0cdf.ucomist.net/iptv/M7Z7AB4M623FTX/13066/index.m3u8
 #EXTINF:0,минимакс-семейный 2 HD
 #EXTGRP:Детские
 http://124a0cdf.ucomist.net/iptv/M7Z7AB4M623FTX/13098/index.m3u8
-#EXTINF:0,Премиальное HD
-#EXTGRP:Детские
-http://124a0cdf.ucomist.net/iptv/M7Z7AB4M623FTX/10017/index.m3u8
 #EXTINF:0,Cartoon Network
 #EXTGRP:Детские
 http://124a0cdf.ucomist.net/iptv/M7Z7AB4M623FTX/143/index.m3u8
