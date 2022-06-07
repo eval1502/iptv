@@ -239,6 +239,9 @@ http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/912/index.m3u8
 #EXTINF:0,Про Любовь HD
 #EXTGRP:Кино
 http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/2430/index.m3u8
+#EXTINF:0,Премиальное HD
+#EXTGRP:Кино
+http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/10017/index.m3u8
 #EXTINF:0,Хит HD
 #EXTGRP:Кино
 http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/2438/index.m3u8
@@ -478,9 +481,6 @@ http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/11075/index.m3u8
 #EXTINF:0,UZ МУЛЬТЗАЛ HD
 #EXTGRP:Детские
 http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/13066/index.m3u8
-#EXTINF:0,Премиальное HD
-#EXTGRP:Детские
-http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/10017/index.m3u8
 #EXTINF:0,минимакс-семейный 2 HD
 #EXTGRP:Детские
 http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/13098/index.m3u8
