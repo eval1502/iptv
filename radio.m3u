@@ -11,6 +11,14 @@ https://hitfm.hostingradio.ru/hitfm128.mp3
 http://stream.161fm.ru:8000/256
 #EXTINF:0,DFM Deep
 https://dfm-dfmdeep.hostingradio.ru/dfmdeep96.aacp
+#EXTINF:0,Радио патриот
+http://radio.mixto.ru:8001/patriot
+#EXTINF:0,Вести FM
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
+#EXTINF:0,Комсомольская правда 
+http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3
+#EXTINF:0,Радио Спутник
+https://riavoice.gcdn.co/voicerus
 #EXTINF:0,Анекдоты
 http://ic6.101.ru:8000/stream/trust/mp3/128/20?7bc6
 #EXTINF:0,Зайцев FM (rus)
@@ -21,18 +29,8 @@ http://zaycevfm.cdnvideo.ru/ZaycevFM_pop_256.mp3
 https://zaycevfm.cdnvideo.ru/ZaycevFM_shanson_256.mp3
 #EXTINF:0,Joint Radio Reggae
 http://star.jointil.net/proxy/jrn_reggae?mp=/stream
-#EXTINF:0,Радио патриот
-http://radio.mixto.ru:8001/patriot
-#EXTINF:0,Вести FM
-http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
-#EXTINF:0,Комсомольская правда 
-http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3
-#EXTINF:0,Радио Спутник
-https://riavoice.gcdn.co/voicerus
 #EXTINF:0,Коммерсантъ FM
 http://kommersant77.hostingradio.ru:8016/kommersant128.mp3
-#EXTINF:0,Эхо Москвы
-http://online.echoekb.ru:8000/echoekb
 #EXTINF:0,Радио Romantika
 http://ic7.101.ru:8000/a101?7a2c
 #EXTINF:0,Радио Шансон
