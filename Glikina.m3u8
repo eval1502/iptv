@@ -20,7 +20,7 @@ http://chopin.af-stream.com:1600/s/ietjhiqi/tv3-hd/video.m3u8
 #EXTINF:0,ТВЦ
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/ietjhiqi/tvc-hd/video.m3u8
-#EXTINF:0,Пятница HD
+#EXTINF:0,Пятница
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/ietjhiqi/piatnica-hd/video.m3u8
 #EXTINF:0,Суббота HD
