@@ -1,166 +1,94 @@
 #EXTM3U
-
 #EXTINF:0,Первый HD
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/2402/index.m3u8
-#EXTINF:0,Россия HD
+http://chopin.af-stream.com:1600/s/ietjhiqi/pervyj-hd/video.m3u8
+#EXTINF:0,Россия 1 HD
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/205/index.m3u8
+http://chopin.af-stream.com:1600/s/ietjhiqi/rossija-hd/video.m3u8
 #EXTINF:0,НТВ HD
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/213/index.m3u8
+http://chopin.af-stream.com:1600/s/ietjhiqi/ntv-hd/video.m3u8
 #EXTINF:0,Рен ТВ HD
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/2024/index.m3u8
+http://chopin.af-stream.com:1600/s/ietjhiqi/ren-tv-hd/video.m3u8
 #EXTINF:0,СТС HD
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/6303/index.m3u8
+http://chopin.af-stream.com:1600/s/ietjhiqi/ctc-hd/video.m3u8
 #EXTINF:0,ТВ3 HD
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/5033/index.m3u8
-#EXTINF:0,Пятница! HD
+http://chopin.af-stream.com:1600/s/ietjhiqi/tv3-hd/video.m3u8
+#EXTINF:0,ТВЦ HD
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/5031/index.m3u8
+http://chopin.af-stream.com:1600/s/ietjhiqi/tvc-hd/video.m3u8
+#EXTINF:0,Пятница HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/ietjhiqi/piatnica-hd/video.m3u8
 #EXTINF:0,Суббота HD
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/15118/index.m3u8
-
+http://chopin.af-stream.com:1600/s/ietjhiqi/super-hd/video.m3u8
+#EXTINF:0,RT Док
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/ietjhiqi/russia-today-doc-hd/video.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/127/index.m3u8
+http://chopin.af-stream.com:1600/s/ietjhiqi/pervyj/video.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/504/index.m3u8
+http://chopin.af-stream.com:1600/s/ietjhiqi/rossija1/video.m3u8
 #EXTINF:0,НТВ
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/501/index.m3u8
-#EXTINF:0,ТНТ HD
+http://chopin.af-stream.com:1600/s/ietjhiqi/ntv/video.m3u8
+#EXTINF:0,ТНТ
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/237/index.m3u8
-#EXTINF:0,ТНТ4 HD
+http://chopin.af-stream.com:1600/s/ietjhiqi/TNT/video.m3u8
+#EXTINF:0,ТНТ4
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/6370/index.m3u8
-#EXTINF:0,ТВЦ
+http://chopin.af-stream.com:1600/s/ietjhiqi/tnt-4/video.m3u8
+#EXTINF:0,РЕН ТВ
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/520/index.m3u8
+http://chopin.af-stream.com:1600/s/ietjhiqi/ren-tv/video.m3u8
 #EXTINF:0,ТВ3
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/508/index.m3u8
+http://chopin.af-stream.com:1600/s/ietjhiqi/tv-3/video.m3u8
 #EXTINF:0,СТС
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/506/index.m3u8
-#EXTINF:0,НТВ Сериал
+http://chopin.af-stream.com:1600/s/ietjhiqi/CTC/video.m3u8
+#EXTINF:0,СТС Love
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/744/index.m3u8
-#EXTINF:0,НТВ-ХИТ
+http://chopin.af-stream.com:1600/s/ietjhiqi/sts-love/video.m3u8
+#EXTINF:0,Домашний
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/741/index.m3u8
-#EXTINF:0,Дождь
+http://chopin.af-stream.com:1600/s/ietjhiqi/domashnij/video.m3u8
+#EXTINF:0,Перец
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/2030/index.m3u8
-#EXTINF:0,RTVi
+http://chopin.af-stream.com:1600/s/ietjhiqi/perec/video.m3u8
+#EXTINF:0,Че
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/2086/index.m3u8
-#EXTINF:0,Россия-24
+http://chopin.af-stream.com:1600/s/ietjhiqi/4e/video.m3u8
+#EXTINF:0,Телеканал Звезда
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/507/index.m3u8
-#EXTINF:0,Совершенно секретно
+http://chopin.af-stream.com:1600/s/ietjhiqi/zvezda/video.m3u8
+#EXTINF:0,Пятый канал
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/121/index.m3u8
+http://chopin.af-stream.com:1600/s/ietjhiqi/5kanal/video.m3u8
 #EXTINF:0,Россия-Культура
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/505/index.m3u8
-#EXTINF:0,Animal Planet HD
+http://chopin.af-stream.com:1600/s/ietjhiqi/rossija-k/video.m3u8
+#EXTINF:0,Сарафан
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/218/index.m3u8
-#EXTINF:0,В мире животных HD
+http://chopin.af-stream.com:1600/s/ietjhiqi/sarafan/video.m3u8
+#EXTINF:0,Дождь
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/2089/index.m3u8
-
-
-#EXTINF:0,КИНОСЕРИЯ
+http://chopin.af-stream.com:1600/s/ietjhiqi/dozhd/video.m3u8
+#EXTINF:0,RTVi
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/9132/index.m3u8
-#EXTINF:0,РОДНОЕ КИНО
+http://chopin.af-stream.com:1600/s/ietjhiqi/rtvi/video.m3u8
+#EXTINF:0,Россия-24
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/9127/index.m3u8
-#EXTINF:0,BCU Russian HD
+http://chopin.af-stream.com:1600/s/ietjhiqi/rossija24/video.m3u8
+#EXTINF:0,Euronews
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/11041/index.m3u8
-#EXTINF:0,TV 1000 Русское кино HD
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/6388/index.m3u8
-#EXTINF:0,Русский роман HD
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/2076/index.m3u8
-#EXTINF:0,Душевное кино HD
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/914/index.m3u8
-#EXTINF:0,Русский иллюзион HD
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/2114/index.m3u8
-#EXTINF:0,Наше любимое HD
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/2106/index.m3u8
-#EXTINF:0,Serial HD
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/11101/index.m3u8
-#EXTINF:0,минимакс-newfilm.ru HD
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/13014/index.m3u8
-#EXTINF:0,НаОбщиеш Кинопоказ HD
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/2434/index.m3u8
-#EXTINF:0,Дом Кино Премиум HD
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/911/index.m3u8
-#EXTINF:0,KBC-Russian Комедия
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/11081/index.m3u8
-#EXTINF:0,KBC-Light сериал RU
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/11078/index.m3u8
-#EXTINF:0,Русский бестселлер
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/905/index.m3u8
-#EXTINF:0,РуКино HD
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/11096/index.m3u8
-#EXTINF:0,VF Сериал
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/13087/index.m3u8
-#EXTINF:0,BCU RUSERIAL HD
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/11046/index.m3u8
-#EXTINF:0,BCU СССР HD
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/11026/index.m3u8
-#EXTINF:0,KBC-Страна СССР
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/11091/index.m3u8
-#EXTINF:0,День Победы HD
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/5054/index.m3u8
-
-
+http://chopin.af-stream.com:1600/s/ietjhiqi/evronews/video.m3u8
 #EXTINF:0,РБК-ТВ
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/106/index.m3u8
-#EXTINF:0,Мир 24 HD
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/2107/index.m3u8
-#EXTINF:0,Viasat Nature/History HD
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/203/index.m3u8
-#EXTINF:0,Nat Geo Wild HD
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/216/index.m3u8
-#EXTINF:0,Travel Channel HD
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/233/index.m3u8
-#EXTINF:0,History HD
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/231/index.m3u8
-#EXTINF:0,National Geographic HD
-#EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/MKPKD2U8LGH6LP/230/index.m3u8
+http://chopin.af-stream.com:1600/s/ietjhiqi/rbk-hd/video.m3u8
