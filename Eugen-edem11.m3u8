@@ -416,6 +416,12 @@ http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/501/index.m3u8
 #EXTINF:0,НТВ +2
 #EXTGRP:Общие 2
 http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/713/index.m3u8
+#EXTINF:0,НТВ +4
+#EXTGRP:Общие 2
+http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/6024/index.m3u8
+#EXTINF:0,НТВ +6
+#EXTGRP:Общие 2
+http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/6039/index.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP:Общие 2
 http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/502/index.m3u8
