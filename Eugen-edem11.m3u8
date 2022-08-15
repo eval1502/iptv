@@ -65,6 +65,9 @@ http://chopin.af-stream.com:1600/s/mpcclrdg/rossija1-plus-4/video.m3u8
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/rossija1-plus-7/video.m3u8
 
+#EXTINF:0,НТВ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/mpcclrdg/ntv/video.m3u8
 #EXTINF:0,НТВ +2
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/ntv-plus-2/video.m3u8
