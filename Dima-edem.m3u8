@@ -26,12 +26,12 @@ http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/5033/index.m3u8
 #EXTINF:0,Fashion One HD
 #EXTGRP:Общие
 http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2044/index.m3u8
-#EXTINF:0,Дождь HD
-#EXTGRP:Общие
-http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/6308/index.m3u8
 #EXTINF:0,ТВЦ
 #EXTGRP:Общие
 http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/520/index.m3u8
+#EXTINF:0,Дождь
+#EXTGRP:Общие
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2030/index.m3u8
 #EXTINF:0,RTVi
 #EXTGRP:Общие
 http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2086/index.m3u8
