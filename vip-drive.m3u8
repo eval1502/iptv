@@ -32,7 +32,7 @@ http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/15118/index.m3u8
 
 #EXTINF:0,Первый канал
 #EXTGRP:Общие
-http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/15407/index.m3u8
+http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/127/index.m3u8
 #EXTINF:0,Первый канал (+2)
 #EXTGRP:Общие
 http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/714/index.m3u8
@@ -646,6 +646,51 @@ http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/6060/index.m3u8
 #EXTINF:0,Kabel Eins HD DE
 #EXTGRP:Deutsch TV
 http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/6067/index.m3u8
+
+#EXTINF:0,arte HD DE
+#EXTGRP:Deutsch TV
+http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/15171/index.m3u8
+#EXTINF:0,RTL Nitro HD DE
+#EXTGRP:Deutsch TV
+http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/6064/index.m3u8
+#EXTINF:0,ProSieben Maxx HD DE
+#EXTGRP:Deutsch TV
+http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/6058/index.m3u8
+#EXTINF:0,ORF 1 HD DE
+#EXTGRP:Deutsch TV
+http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/15177/index.m3u8
+#EXTINF:0,N-TV HD DE
+#EXTGRP:Deutsch TV
+http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/7259/index.m3u8
+#EXTINF:0,N24 HD DE
+#EXTGRP:Deutsch TV
+http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/15169/index.m3u8
+#EXTINF:0,NDR HD DE
+#EXTGRP:Deutsch TV
+http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/15181/index.m3u8
+#EXTINF:0,Animal Planet HD DE
+#EXTGRP:Deutsch TV
+http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/7257/index.m3u8
+#EXTINF:0,Nat Geo Wild HD DE
+#EXTGRP:Deutsch TV
+http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/7256/index.m3u8
+#EXTINF:0,Spiegel Geschichte HD DE
+#EXTGRP:Deutsch TV
+http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/6091/index.m3u8
+#EXTINF:0,Deutsche Welle DE
+#EXTGRP:Deutsch TV
+http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/1021/index.m3u8
+#EXTINF:0,DMAX HD DE
+#EXTGRP:Deutsch TV
+http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/15281/index.m3u8
+#EXTINF:0,SIXX HD DE
+#EXTGRP:Deutsch TV
+http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/15170/index.m3u8
+
+#EXTINF:0,RTL Passion HD DE
+#EXTGRP:Deutsch TV
+http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/7230/index.m3u8
+
 #EXTINF:0,TNT Comedy HD DE
 #EXTGRP:Deutsch TV
 http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/6111/index.m3u8
@@ -688,36 +733,41 @@ http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/2493/index.m3u8
 #EXTINF:0,Sky Arts HD DE
 #EXTGRP:Deutsch TV
 http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/2494/index.m3u8
+
+
 #EXTINF:0,Universal TV HD DE
 #EXTGRP:Deutsch TV
 http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/6094/index.m3u8
 #EXTINF:0,Syfy HD DE
 #EXTGRP:Deutsch TV
 http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/6092/index.m3u8
-#EXTINF:0,Spiegel Geschichte HD DE
+#EXTINF:0,Auto Motor Sport DE
 #EXTGRP:Deutsch TV
-http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/6091/index.m3u8
-#EXTINF:0,Deutsche Welle DE
-#EXTGRP:Deutsch TV
-http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/1021/index.m3u8
+http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/19025/index.m3u8
 #EXTINF:0,Motorvision TV DE
 #EXTGRP:Deutsch TV
 http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/6112/index.m3u8
-#EXTINF:0,ProSieben Maxx HD DE
-#EXTGRP:Deutsch TV
-http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/6058/index.m3u8
-#EXTINF:0,RTL Nitro HD DE
-#EXTGRP:Deutsch TV
-http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/6064/index.m3u8
-#EXTINF:0,Sky Sport News HD DE
-#EXTGRP:Deutsch TV
-http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/2477/index.m3u8
+
 #EXTINF:0,Sky Sport 1 HD DE
 #EXTGRP:Deutsch TV
 http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/2478/index.m3u8
 #EXTINF:0,Sky Sport 2 HD DE
 #EXTGRP:Deutsch TV
 http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/2479/index.m3u8
+
+
+#EXTINF:0,Sky Sport News HD DE
+#EXTGRP:Deutsch TV
+http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/2477/index.m3u8
+#EXTINF:0,Sky Sport 1 DE
+#EXTGRP:Deutsch TV
+http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/19028/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 1 HD DE
+#EXTGRP:Deutsch TV
+http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/2480/index.m3u8
+#EXTINF:0,Sky Sport Austria 1 HD DE
+#EXTGRP:Deutsch TV
+http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/2492/index.m3u8
 
 #EXTINF:0,Матч! Арена HD
 #EXTGRP:Спорт
@@ -796,3 +846,152 @@ http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/5013/index.m3u8
 #EXTINF:0,Penthouse Gold HD
 #EXTGRP:Взрослые
 http://c3h5cjkd.russtv.net/iptv/RUXZVB3S9CAP4L/5011/index.m3u8
+
+#EXTM3U
+#EXTINF:0,Первый HD
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/pervyj-hd/video.m3u8
+#EXTINF:0,Россия 1 HD
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/rossija-hd/video.m3u8
+#EXTINF:0,НТВ HD
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/ntv-hd/video.m3u8
+#EXTINF:0,РЕН ТВ HD
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/ren-tv-hd/video.m3u8
+#EXTINF:0,ТНТ HD
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/tnt-hd/video.m3u8
+#EXTINF:0,ТНТ4 HD
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/tnt4-hd/video.m3u8
+#EXTINF:0,ТВЦ HD
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/tvc-hd/video.m3u8
+#EXTINF:0,СТС HD
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/ctc-hd/video.m3u8
+#EXTINF:0,ТВ3 HD
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/tv3-hd/video.m3u8
+#EXTINF:0,Дождь HD
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/dozhd-hd/video.m3u8
+#EXTINF:0,Пятница HD
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/piatnica-hd/video.m3u8
+#EXTINF:0,Суббота HD
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/super-hd/video.m3u8
+#EXTINF:0,Сарафан
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/sarafan/video.m3u8
+
+#EXTINF:0,Первый канал
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/pervyj/video.m3u8
+#EXTINF:0,Первый канал +2
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/pervyj-plus-2/video.m3u8
+#EXTINF:0,Первый канал +4
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/pervyj-plus-4/video.m3u8
+#EXTINF:0,Первый канал +6
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/pervyj-plus-7/video.m3u8
+
+#EXTINF:0,Россия 1
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/rossija1/video.m3u8
+#EXTINF:0,Россия-1 +2
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/rossija1-plus-2/video.m3u8
+#EXTINF:0,Россия-1 +4
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/rossija1-plus-4/video.m3u8
+#EXTINF:0,Россия-1 +6
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/rossija1-plus-7/video.m3u8
+
+#EXTINF:0,НТВ
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/ntv/video.m3u8
+#EXTINF:0,НТВ +2
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/ntv-plus-2/video.m3u8
+#EXTINF:0,НТВ +4
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/ntv-plus-4/video.m3u8
+#EXTINF:0,НТВ +6
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/ntv-plus-7/video.m3u8
+#EXTINF:0,ТНТ +2
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/tnt-plus-2/video.m3u8
+#EXTINF:0,ТНТ +4
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/tnt-plus-4/video.m3u8
+#EXTINF:0,ТНТ +6
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/tnt-plus-7/video.m3u8
+
+#EXTINF:0,НТВ
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/ntv/video.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/TNT/video.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/tvc/video.m3u8
+#EXTINF:0,ТНТ4
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/tnt-4/video.m3u8
+#EXTINF:0,РЕН ТВ
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/ren-tv/video.m3u8
+#EXTINF:0,ТВ3
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/tv-3/video.m3u8
+#EXTINF:0,СТС
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/CTC/video.m3u8
+#EXTINF:0,Дождь
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/dozhd/video.m3u8
+#EXTINF:0,RTVi
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/rtvi/video.m3u8
+
+#EXTINF:0,СТС Love
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/sts-love/video.m3u8
+#EXTINF:0,Домашний
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/domashnij/video.m3u8
+#EXTINF:0,Перец
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/perec/video.m3u8
+#EXTINF:0,Че
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/4e/video.m3u8
+#EXTINF:0,Пятый канал
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/5kanal/video.m3u8
+#EXTINF:0,Россия-Культура
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/rossija-k/video.m3u8
+#EXTINF:0,Россия-24
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/rossija24/video.m3u8
+#EXTINF:0,Euronews
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/evronews/video.m3u8
+#EXTINF:0,RT Док
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/russia-today-doc-hd/video.m3u8
+#EXTINF:0,РБК-ТВ
+#EXTGRP:Общие 2
+http://chopin.af-stream.com:1600/s/qzz5vcpt/rbk-hd/video.m3u8
+
