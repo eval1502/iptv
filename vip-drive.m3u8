@@ -152,7 +152,7 @@ http://chopin.af-stream.com:1600/s/qzz5vcpt/rossija-hd/video.m3u8
 #EXTINF:0,НТВ HD
 #EXTGRP:Общие 2
 http://chopin.af-stream.com:1600/s/qzz5vcpt/ntv-hd/video.m3u8
-#EXTINF:0,РЕН ТВ HD
+#EXTINF:0,Рен ТВ HD
 #EXTGRP:Общие 2
 http://chopin.af-stream.com:1600/s/qzz5vcpt/ren-tv-hd/video.m3u8
 #EXTINF:0,ТНТ HD
