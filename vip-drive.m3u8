@@ -144,150 +144,150 @@ http://c3h5cjkd.russtv.net/iptv/LMCPUBEHGHSMXQ/227/index.m3u8
 
 
 #EXTINF:0,Первый HD
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/pervyj-hd/video.m3u8
 #EXTINF:0,Россия 1 HD
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/rossija-hd/video.m3u8
 #EXTINF:0,НТВ HD
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/ntv-hd/video.m3u8
 #EXTINF:0,Рен ТВ HD
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/ren-tv-hd/video.m3u8
 #EXTINF:0,ТНТ HD
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/tnt-hd/video.m3u8
 #EXTINF:0,ТНТ4 HD
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/tnt4-hd/video.m3u8
 #EXTINF:0,ТВЦ HD
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/tvc-hd/video.m3u8
 #EXTINF:0,СТС HD
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/ctc-hd/video.m3u8
 #EXTINF:0,ТВ3 HD
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/tv3-hd/video.m3u8
 #EXTINF:0,Дождь HD
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/dozhd-hd/video.m3u8
 #EXTINF:0,Пятница HD
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/piatnica-hd/video.m3u8
 #EXTINF:0,Суббота HD
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/super-hd/video.m3u8
 #EXTINF:0,Сарафан
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/sarafan/video.m3u8
 
 #EXTINF:0,Первый канал
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/pervyj/video.m3u8
 #EXTINF:0,Первый канал +2
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/pervyj-plus-2/video.m3u8
 #EXTINF:0,Первый канал +4
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/pervyj-plus-4/video.m3u8
 #EXTINF:0,Первый канал +6
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/pervyj-plus-7/video.m3u8
 
 #EXTINF:0,Россия 1
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/rossija1/video.m3u8
 #EXTINF:0,Россия-1 +2
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/rossija1-plus-2/video.m3u8
 #EXTINF:0,Россия-1 +4
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/rossija1-plus-4/video.m3u8
 #EXTINF:0,Россия-1 +6
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/rossija1-plus-7/video.m3u8
 
 #EXTINF:0,НТВ
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/ntv/video.m3u8
 #EXTINF:0,НТВ +2
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/ntv-plus-2/video.m3u8
 #EXTINF:0,НТВ +4
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/ntv-plus-4/video.m3u8
 #EXTINF:0,НТВ +6
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/ntv-plus-7/video.m3u8
 #EXTINF:0,ТНТ +2
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/tnt-plus-2/video.m3u8
 #EXTINF:0,ТНТ +4
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/tnt-plus-4/video.m3u8
 #EXTINF:0,ТНТ +6
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/tnt-plus-7/video.m3u8
 
 #EXTINF:0,НТВ
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/ntv/video.m3u8
 #EXTINF:0,ТНТ
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/TNT/video.m3u8
 #EXTINF:0,ТВЦ
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/tvc/video.m3u8
 #EXTINF:0,ТНТ4
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/tnt-4/video.m3u8
 #EXTINF:0,РЕН ТВ
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/ren-tv/video.m3u8
 #EXTINF:0,ТВ3
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/tv-3/video.m3u8
 #EXTINF:0,СТС
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/CTC/video.m3u8
 #EXTINF:0,Дождь
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/dozhd/video.m3u8
 #EXTINF:0,RTVi
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/rtvi/video.m3u8
 
 #EXTINF:0,СТС Love
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/sts-love/video.m3u8
 #EXTINF:0,Домашний
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/domashnij/video.m3u8
 #EXTINF:0,Перец
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/perec/video.m3u8
 #EXTINF:0,Че
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/4e/video.m3u8
 #EXTINF:0,Пятый канал
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/5kanal/video.m3u8
 #EXTINF:0,Россия-Культура
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/rossija-k/video.m3u8
 #EXTINF:0,Россия-24
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/rossija24/video.m3u8
 #EXTINF:0,Euronews
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/evronews/video.m3u8
 #EXTINF:0,RT Док
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/russia-today-doc-hd/video.m3u8
 #EXTINF:0,РБК-ТВ
-#EXTGRP:VIP-DRV
+#EXTGRP:ANTIFRIZ
 http://chopin.af-stream.com:1600/s/qzz5vcpt/rbk-hd/video.m3u8
 
 
