@@ -524,6 +524,10 @@ http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/272/index.m3u8
 #EXTINF:0,Моторспорт ТВ HD
 #EXTGRP:Спорт
 http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/2146/index.m3u8
+#EXTINF:0,FightBox
+#EXTGRP:Спорт
+http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/15232/index.m3u8
+
 #EXTINF:0,MTV Live HD
 #EXTGRP:Музыка
 http://d541ab3c.ottrast.com/iptv/MUPTSVP8EQBP8E/221/index.m3u8
