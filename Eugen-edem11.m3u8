@@ -205,13 +205,13 @@ http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/911/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP:Кино
 http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/516/index.m3u8
-#EXTINF:0,TV1000 Megahit HD
+#EXTINF:0,VIP Megahit
 #EXTGRP:Кино
 http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/201/index.m3u8
-#EXTINF:0,TV1000 Comedy HD
+#EXTINF:0,VIP Comedy
 #EXTGRP:Кино
 http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/200/index.m3u8
-#EXTINF:0,TV1000 Premium HD
+#EXTINF:0,VIP Premium
 #EXTGRP:Кино
 http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/202/index.m3u8
 #EXTINF:0,НСТ
@@ -220,10 +220,10 @@ http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/726/index.m3u8
 #EXTINF:0,КИНОКОМЕДИЯ
 #EXTGRP:Кино
 http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/145/index.m3u8
-#EXTINF:0,TV 1000 Action
+#EXTINF:0,TV1000 Action
 #EXTGRP:Кино
 http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/131/index.m3u8
-#EXTINF:0,TV 1000
+#EXTINF:0,TV1000
 #EXTGRP:Кино
 http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/132/index.m3u8
 #EXTINF:0,Комедийное HD
@@ -250,7 +250,7 @@ http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/904/index.m3u8
 #EXTINF:0,ИНДИЙСКОЕ КИНО
 #EXTGRP:Кино
 http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/146/index.m3u8
-#EXTINF:0,TV 1000 Русское кино
+#EXTINF:0,TV1000 Русское Кино
 #EXTGRP:Кино
 http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/101/index.m3u8
 #EXTINF:0,Русский Иллюзион
@@ -286,7 +286,7 @@ http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/915/index.m3u8
 #EXTINF:0,КИНОПРЕМЬЕРА HD
 #EXTGRP:Кино
 http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/224/index.m3u8
-#EXTINF:0,Шокирующее
+#EXTINF:0,Шокирующее HD
 #EXTGRP:Кино
 http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/913/index.m3u8
 #EXTINF:0,Наше новое кино
