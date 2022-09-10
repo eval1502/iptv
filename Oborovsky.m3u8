@@ -664,18 +664,24 @@ http://35f3c0f1.ucomist.net/iptv/KMME5376Z499CX/7259/index.m3u8
 #EXTINF:0,N24 HD DE
 #EXTGRP:Deutsch TV
 http://35f3c0f1.ucomist.net/iptv/KMME5376Z499CX/15169/index.m3u8
+#EXTINF:0,WELT HD DE
+#EXTGRP:Deutsch TV
+http://35f3c0f1.ucomist.net/iptv/KMME5376Z499CX/7258/index.m3u8
 #EXTINF:0,NDR HD DE
 #EXTGRP:Deutsch TV
 http://35f3c0f1.ucomist.net/iptv/KMME5376Z499CX/15181/index.m3u8
 #EXTINF:0,Animal Planet HD DE
 #EXTGRP:Deutsch TV
 http://35f3c0f1.ucomist.net/iptv/KMME5376Z499CX/7257/index.m3u8
+#EXTINF:0,Sky Nature HD DE
+#EXTGRP:Deutsch TV
+http://35f3c0f1.ucomist.net/iptv/KMME5376Z499CX/19020/index.m3u8
+#EXTINF:0,Sky Documentaries HD DE
+#EXTGRP:Deutsch TV
+http://35f3c0f1.ucomist.net/iptv/KMME5376Z499CX/19021/index.m3u8
 #EXTINF:0,Spiegel Geschichte HD DE
 #EXTGRP:Deutsch TV
 http://35f3c0f1.ucomist.net/iptv/KMME5376Z499CX/6091/index.m3u8
-#EXTINF:0,Deutsche Welle DE
-#EXTGRP:Deutsch TV
-http://35f3c0f1.ucomist.net/iptv/KMME5376Z499CX/1021/index.m3u8
 #EXTINF:0,DMAX HD DE
 #EXTGRP:Deutsch TV
 http://35f3c0f1.ucomist.net/iptv/KMME5376Z499CX/15281/index.m3u8
@@ -691,6 +697,13 @@ http://35f3c0f1.ucomist.net/iptv/KMME5376Z499CX/6111/index.m3u8
 #EXTINF:0,TNT Serie HD DE
 #EXTGRP:Deutsch TV
 http://35f3c0f1.ucomist.net/iptv/KMME5376Z499CX/6090/index.m3u8
+#EXTINF:0,TNT Film HD DE
+#EXTGRP:Deutsch TV
+http://35f3c0f1.ucomist.net/iptv/KMME5376Z499CX/6110/index.m3u8
+#EXTINF:0,VOX HD DE
+#EXTGRP:Deutsch TV
+http://35f3c0f1.ucomist.net/iptv/KMME5376Z499CX/6061/index.m3u8
+
 #EXTINF:0,Comedy Central HD DE
 #EXTGRP:Deutsch TV
 http://35f3c0f1.ucomist.net/iptv/KMME5376Z499CX/6081/index.m3u8
@@ -709,9 +722,15 @@ http://35f3c0f1.ucomist.net/iptv/KMME5376Z499CX/6112/index.m3u8
 #EXTINF:0,Sky Sport 1 HD DE
 #EXTGRP:Deutsch TV
 http://35f3c0f1.ucomist.net/iptv/KMME5376Z499CX/2478/index.m3u8
-#EXTINF:0,Sky Sport 2 HD DE
+#EXTINF:0,Sky Sport Bundesliga 1 HD DE
 #EXTGRP:Deutsch TV
-http://35f3c0f1.ucomist.net/iptv/KMME5376Z499CX/2479/index.m3u8
+http://35f3c0f1.ucomist.net/iptv/KMME5376Z499CX/2480/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 2 HD DE
+#EXTGRP:Deutsch TV
+http://35f3c0f1.ucomist.net/iptv/KMME5376Z499CX/7234/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 3 HD DE
+#EXTGRP:Deutsch TV
+http://35f3c0f1.ucomist.net/iptv/KMME5376Z499CX/7235/index.m3u8
 #EXTINF:0,Sky Sport Austria 1 HD DE
 #EXTGRP:Deutsch TV
 http://35f3c0f1.ucomist.net/iptv/KMME5376Z499CX/2492/index.m3u8
