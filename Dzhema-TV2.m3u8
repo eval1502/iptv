@@ -1,0 +1,397 @@
+#EXTM3U
+#EXTINF:0,Первый HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/pervyj-hd/video.m3u8
+#EXTINF:0,Россия HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/rossija-hd/video.m3u8
+#EXTINF:0,НТВ HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/ntv-hd/video.m3u8
+#EXTINF:0,НТВ Хит HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/ntv-hit-hd/video.m3u8
+#EXTINF:0,НТВ Сериал HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/ntv-serial-hd/video.m3u8
+#EXTINF:0,Мир Сериала HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/mir-seriala-hd/video.m3u8
+#EXTINF:0,Рен ТВ HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/ren-tv-hd/video.m3u8
+#EXTINF:0,СТС HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/ctc-hd/video.m3u8
+#EXTINF:0,ТВЦ HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/tvc-hd/video.m3u8
+#EXTINF:0,ТВ3 HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/tv3-hd/video.m3u8
+#EXTINF:0,Пятница! HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/piatnica-hd/video.m3u8
+#EXTINF:0,Суббота HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/super-hd/video.m3u8
+#EXTINF:0,Домашний HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/domashnij-hd/video.m3u8
+#EXTINF:0,Россия-Культура HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/rossija-k-hd/video.m3u8
+#EXTINF:0,RT Док HD
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/russia-today-doc-hd/video.m3u8
+#EXTINF:0,Пятый канал
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/5kanal/video.m3u8
+#EXTINF:0,Первый канал
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/pervyj/video.m3u8
+#EXTINF:0,Первый канал +2
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/pervyj-plus-2/video.m3u8
+#EXTINF:0,Первый канал +4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/pervyj-plus-4/video.m3u8
+#EXTINF:0,Россия 1
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/rossija1/video.m3u8
+#EXTINF:0,Россия-1 +2
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/rossija1-plus-2/video.m3u8
+#EXTINF:0,Россия-1 +4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/rossija1-plus-4/video.m3u8
+#EXTINF:0,НТВ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/ntv/video.m3u8
+#EXTINF:0,НТВ +2
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/ntv-plus-2/video.m3u8
+#EXTINF:0,НТВ +4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/ntv-plus-4/video.m3u8
+#EXTINF:0,НТВ Хит
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/ntv-hit/video.m3u8
+#EXTINF:0,НТВ Сериал
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/ntv-serial/video.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/TNT/video.m3u8
+#EXTINF:0,ТНТ4
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/tnt4-hd/video.m3u8
+#EXTINF:0,РЕН ТВ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/ren-tv/video.m3u8
+#EXTINF:0,ТВ3
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/tv-3/video.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/tvc/video.m3u8
+#EXTINF:0,СТС
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/CTC/video.m3u8
+#EXTINF:0,СТС Love
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/sts-love/video.m3u8
+#EXTINF:0,Россия-Культура
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/rossija-k/video.m3u8
+#EXTINF:0,Сарафан
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/sarafan/video.m3u8
+#EXTINF:0,Домашний
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/domashnij/video.m3u8
+#EXTINF:0,Перец
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/perec/video.m3u8
+#EXTINF:0,Че
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/4e/video.m3u8
+#EXTINF:0,Телеканал Звезда
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/zvezda/video.m3u8
+#EXTINF:0,RT Док
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/russia-today-doc/video.m3u8
+#EXTINF:0,Россия-24
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/rossija24/video.m3u8
+#EXTINF:0,Euronews
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/evronews/video.m3u8
+#EXTINF:0,Мир
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/mir-hd/video.m3u8
+#EXTINF:0,Мир 24
+#EXTGRP:Общие
+http://chopin.af-stream.com:1600/s/7v2kfjrx/mir-24-hd/video.m3u8
+#EXTINF:0,Русский Бестселлер
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/russkij-bestseller/video.m3u8
+#EXTINF:0,Душевное кино HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/nash-kinoroman-hd/video.m3u8
+#EXTINF:0,Кино ТВ HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/kino-tv-hd/video.m3u8
+#EXTINF:0,Любимое Кино HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/lubimoe-kino-hd/video.m3u8
+#EXTINF:0,Наш Детектив HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/nash-detektiv-hd/video.m3u8
+#EXTINF:0,Любимое HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/nashe-lubimoe-hd/video.m3u8
+#EXTINF:0,КИНОСЕРИЯ HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/mnogo-tv-hd/video.m3u8
+#EXTINF:0,Кинопоказ HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/kinopokaz-hd/video.m3u8
+#EXTINF:0,РОДНОЕ КИНО
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/rodnoje_kino/video.m3u8
+#EXTINF:0,Русский Роман HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/russkij-roman-hd/video.m3u8
+#EXTINF:0,Дом Кино Премиум HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/dom-kino-premium-hd/video.m3u8
+#EXTINF:0,НАШЕ НОВОЕ КИНО
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/nashe-novoe-kino-hd/video.m3u8
+#EXTINF:0,TV1000 Русское кино
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/tv1000-russkoje-hd/video.m3u8
+#EXTINF:0,Русский Детектив
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/russkij-detektiv/video.m3u8
+#EXTINF:0,Наше Мужское HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/nashe-muzshkoe-hd/video.m3u8
+#EXTINF:0,Русский Иллюзион HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/russkij-iluzion-hd/video.m3u8
+#EXTINF:0,Наш Кинопоказ HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/nash-kinopokaz-hd/video.m3u8
+#EXTINF:0,Феникс плюс Кино
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/feniks-plus-kino-hd/video.m3u8
+#EXTINF:0,Kinojam 1 HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/kinojam1-hd/video.m3u8
+#EXTINF:0,Kinojam 2 HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/kinojam2-hd/video.m3u8
+#EXTINF:0,Ретро ТВ
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/retro/video.m3u8
+#EXTINF:0,Советская Киноклассика HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/sovetskaya-kinoclassica-hd/video.m3u8
+#EXTINF:0,Мосфильм HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/mosfilm-hd/video.m3u8
+#EXTINF:0,ИНДИЙСКОЕ КИНО
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/indija-tv/video.m3u8
+#EXTINF:0,Индия ТВ HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/zee-tv-hd/video.m3u8
+#EXTINF:0,Bollywood HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/bollywood/video.m3u8
+#EXTINF:0,Еврокино HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/evrokino-hd/video.m3u8
+#EXTINF:0,TV1000 World Kino
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/tv1000-world-kino-hd/video.m3u8
+#EXTINF:0,КИНОПРЕМЬЕРА HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/kinopremiera-hd/video.m3u8
+#EXTINF:0,Кинокомедия HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/kinokomedia-hd/video.m3u8
+#EXTINF:0,Комедийное HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/kinopokaz-hd2/video.m3u8
+#EXTINF:0,Камеди HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/comedy-hd/video.m3u8
+#EXTINF:0,Комедия
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/russkaja-comedija/video.m3u8
+#EXTINF:0,Романтичное HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/romantichnoe-hd/video.m3u8
+#EXTINF:0,Про Любовь HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/pro-lubov-hd/video.m3u8
+#EXTINF:0,Лавстори HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/love-story-hd/video.m3u8
+#EXTINF:0,Премиальное HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/kino-premium-hd/video.m3u8
+#EXTINF:0,Остросюжетное HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/ostrosujetnoe-hd/video.m3u8
+#EXTINF:0,Хит HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/hit-hd/video.m3u8
+#EXTINF:0,Кинохит HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/kinohit-hd/video.m3u8
+#EXTINF:0,Киномикс HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/kinomix-hd/video.m3u8
+#EXTINF:0,Киносемья HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/kinosemja-hd/video.m3u8
+#EXTINF:0,Киносвидание HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/kinosvidanije-hd/video.m3u8
+#EXTINF:0,Блокбастер HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/blokbaster-hd/video.m3u8
+#EXTINF:0,Иллюзион + HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/iluzion-plus-hd/video.m3u8
+#EXTINF:0,VIP Premiere
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/tv1000-premium-hd/video.m3u8
+#EXTINF:0,VIP Megahit
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/tv1000-megahit-hd/video.m3u8
+#EXTINF:0,VIP Comedy
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/tv1000-comedy-hd/video.m3u8
+#EXTINF:0,VIP Serial HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/vip-serial-hd/video.m3u8
+#EXTINF:0,TV 1000 HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/tv1000-hd/video.m3u8
+#EXTINF:0,TV1000 Action HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/tv1000-action-hd/video.m3u8
+#EXTINF:0,Криминальное HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/kriminalnoe-hd/video.m3u8
+#EXTINF:0,Hollywood HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/mgm-hd/video.m3u8
+#EXTINF:0,Cinema HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/cinema-hd/video.m3u8
+#EXTINF:0,Family Jam HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/family-jam-hd/video.m3u8
+#EXTINF:0,Detective Jam HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/detective-jam-hd/video.m3u8
+#EXTINF:0,KinoLiving HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/kinoliving-hd/video.m3u8
+#EXTINF:0,KION Хит HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/kion-hit-hd/video.m3u8
+#EXTINF:0,Start World HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/start-world-hd/video.m3u8
+#EXTINF:0,Start Air HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/start-air-hd/video.m3u8
+#EXTINF:0,Plan B HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/plan-b-hd/video.m3u8
+#EXTINF:0,4ever Cinema HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/4ever-cinema-ua-hd/video.m3u8
+#EXTINF:0,Кинеко HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/kineko-hd/video.m3u8
+#EXTINF:0,Кино Без Границ HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/kino-bez-granic-hd/video.m3u8
+#EXTINF:0,Flix Snip HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/flix-snip-hd/video.m3u8
+#EXTINF:0,SHOT TV HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/egoist-tv-hd/video.m3u8
+#EXTINF:0,VHS-ка HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/vhska-hd/video.m3u8
+#EXTINF:0,МУЖСКОЕ КИНО HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/muzhskoe-kino-hd/video.m3u8
+#EXTINF:0,Trash HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/trash-hd/video.m3u8
+#EXTINF:0,Страшное HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/strashnoe-hd/video.m3u8
+#EXTINF:0,Шокирующее HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/kinopokaz-hd1/video.m3u8
+#EXTINF:0,Киноужас HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/kinouzhas-hd/video.m3u8
+#EXTINF:0,Scream HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/scream-hd/video.m3u8
+#EXTINF:0,НСТ
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/hct/video.m3u8
+#EXTINF:0,AMEDIA Premium HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/amedia-premium-hd/video.m3u8
+#EXTINF:0,AMEDIA HIT HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/amedia-hit-hd/video.m3u8
+#EXTINF:0,A1 HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/amedia1-hd/video.m3u8
+#EXTINF:0,A2 HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/amedia-2-hd/video.m3u8
+#EXTINF:0,FOX HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/fox-hd/video.m3u8
+#EXTINF:0,FOX Life HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/fox-life-hd/video.m3u8
+#EXTINF:0,Red HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/set-hd/video.m3u8
+#EXTINF:0,Sci-Fi HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/sci-fi-hd/video.m3u8
+#EXTINF:0,Black HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/black-hd/video.m3u8
+#EXTINF:0,ТВ21
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/tv-xxi/video.m3u8
+#EXTINF:0,Ностальгия
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/nostalgia/video.m3u8
+#EXTINF:0,Сапфир HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/sapfir-hd/video.m3u8
+#EXTINF:0,Дорама HD
+#EXTGRP:Кино
+http://chopin.af-stream.com:1600/s/7v2kfjrx/dorama-hd/video.m3u8
